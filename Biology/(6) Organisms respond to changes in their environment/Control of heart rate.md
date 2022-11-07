@@ -4,4 +4,4 @@
 - The SAN sends out electrical impulses across the atria causing atrial contraction. 
 - Non conducting tissue prevents immediate contraction of ventricles. AVN delays impulses whilst blood leaves atria. 
 - AVN sends out an electrical impulse down the bundle of His which causes ventricles to contract from base up
-
+![[Pasted image 20221107093042.png]]
