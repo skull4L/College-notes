@@ -29,4 +29,17 @@ The parasympathetic nervous system:
     - Controls activities under normal resting conditions
     - Conserves energy and replenishes the body's reserve.
 
+![[Pasted image 20221107095624.png]]
 
+### Chemoreceptors
+- Found in the aorta, carotid artery and medulla of brain
+- Detects decreases in pH due to increased carbon dioxide concentration and then send nerve impulses to cardiac centre in medulla
+
+![[Pasted image 20221107100209.png]]
+
+### Neurotransmitters
+- Noradrenaline (increases heart rate)
+- Azetylcholine (decreases heart rate)
+
+### Hormone
+- Adrenaline
