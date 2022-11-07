@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Placeholder.md",
+                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370e474c0bb83112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Temp notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Placeholder.md",
+                "file": "Biology/Temp notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Placeholder.md",
+                "file": "Biology/Temp notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Placeholder.md"
+                "file": "Biology/Temp notes.md"
               }
             }
           }
@@ -307,15 +319,15 @@
   },
   "active": "bd7623bd7ca8b5a1",
   "lastOpenFiles": [
-    "Geography/Placeholder.md",
+    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/Placeholder.md",
+    "Geography/Placeholder.md",
     "Content/Plants/Plants overview.md",
     "Content/Plants/Crystalwort.md",
     "Content/Plants/Brazilian waterweed.md",
     "Content/Animals/Wandering snails.md",
     "Content/Animals/Animals overview.md",
     "Content/Basics.md",
-    "Home.md",
-    "Content/Sourcing organisms.md"
+    "Home.md"
   ]
 }
