@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
                 "mode": "source",
                 "source": false
               }
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md"
               }
             }
           }
@@ -341,14 +340,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd7623bd7ca8b5a1",
+  "active": "4ecd18fe9784e43a",
   "lastOpenFiles": [
+    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
     "Attachments/Pasted image 20221107095624.png",
     "Attachments/Pasted image 20221107093848.png",
     "Attachments/Pasted image 20221107093042.png",
     "Biology/Starter questions.md",
-    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/Placeholder.md",
     "Geography/Placeholder.md",
     "Content/Plants/Plants overview.md",
