@@ -9,6 +9,9 @@
 
 >7/11/22
 
-- ?
+- ? [Aorta, caratid artery, medulla]
 - to detect changes in blood pressure
-- high resol
+- IIA? [Rhoedopsin]
+- They have an individual bipolar nerve each, so all connected to the optic nerve
+- Red Green Blue (RGB)
+- 3 variants with different versions of the pigment. [Different wavelengths can detected by more than one cone cell, overlap creates more colours]
