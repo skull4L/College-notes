@@ -11,3 +11,5 @@ Each muscle fibre is made up of myofibrils. Myofibrils are made up of 2 protein 
     - Mysosin which is thicker and consists of long rod shaped tails with bulbous heads that projects to the side
 
 ### Sarcomere structure
+![[Pasted image 20221114100335.png]]
+
