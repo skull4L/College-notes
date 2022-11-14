@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skeletal muscles.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skeletal muscles.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skeletal muscles.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skeletal muscles.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   "active": "3c8c07d8781d8baf",
   "lastOpenFiles": [
     "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
+    "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
     "Geology/Placeholder.md",
     "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
@@ -159,7 +160,6 @@
     "Biology/Starter questions.md",
     "Attachments/Pasted image 20221107095624.png",
     "Attachments/Pasted image 20221107093848.png",
-    "Attachments/Pasted image 20221107093042.png",
-    "Biology/Placeholder.md"
+    "Attachments/Pasted image 20221107093042.png"
   ]
 }
