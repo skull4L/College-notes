@@ -20,210 +20,19 @@
             }
           },
           {
-            "id": "370e474c0bb83112",
+            "id": "3c8c07d8781d8baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Starter questions.md",
+                "file": "Skeletal muscles.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "69f3a1b56683100a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8821739644fda60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c38095f8f46d3b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b491b699a8b42ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/Placeholder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "892532bb5b6d01ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "18a3caf9219162cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c22bef6d7a52f42f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f506f98a5bb9005",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "af0d57ba1b824b43",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c6bfb7d51dd8f085",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebecff6e57113109",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aa8c9531923e1ffa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8c14f7a1394f420a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d39016d3abd405a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9353dee254732ad8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a85d7be7048f19e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c90c57e7ea70c3b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ea2bcbdb45998d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e5f747a7ba4a4f0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "28eefcd60ef9ac16",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f1a0213a7bd43c68",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfeb2089f1a98f79",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
+                "file": "Skeletal muscles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
+                "file": "Skeletal muscles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -329,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md"
+                "file": "Skeletal muscles.md"
               }
             }
           }
@@ -340,13 +149,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ecd18fe9784e43a",
+  "active": "3c8c07d8781d8baf",
   "lastOpenFiles": [
+    "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
     "Geology/Placeholder.md",
     "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
     "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
-    "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
     "Biology/Starter questions.md",
     "Attachments/Pasted image 20221107095624.png",
     "Attachments/Pasted image 20221107093848.png",
