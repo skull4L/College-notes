@@ -12,4 +12,11 @@ Each muscle fibre is made up of myofibrils. Myofibrils are made up of 2 protein 
 
 ### Sarcomere structure
 ![[Pasted image 20221114100335.png]]
+![[Pasted image 20221114101725.png]]
+When the sarcomere contacts:
+    - I band becomes narrower
+    - Z lines move closer together
+    - H zone becomes narrower
+    - A band stays the same width
 
+- The decrease in length of the sarcomere is caused when the Z lines move closer together causing the actin filaments to slide between the myosin, the H zone becomes narrower
