@@ -18,5 +18,9 @@
 
 >15/11/22
 
-- the myosin and actin filaments sliding towards eachother
+- the myosin and actin filaments sliding towards eachother [specify Z lines]
 - A band
+- I band [also H zone]
+- Contraction of muscles [by releases calcium ions]
+- [actin]
+- 
