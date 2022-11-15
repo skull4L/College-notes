@@ -31,3 +31,12 @@ When the sarcomere contacts:
 - The actin filament is formed from a helix of actin sub-units. Each contains a binding site for the myosin heads.
 - Tropomyosin (shown in blue) is wound around the actin.
 - It moves out of the way when calcium ions bind so allow the myosin to bind to the actin (cross bridge formation)
+
+### Sequence of events
+![[Pasted image 20221115133208.png]]
+![[Pasted image 20221115133255.png]]
+![[Pasted image 20221115133326.png]]
+![[Pasted image 20221115133356.png]]
+![[Pasted image 20221115133459.png]]
+![[Pasted image 20221115133550.png]]
+![[Pasted image 20221115133619.png]]

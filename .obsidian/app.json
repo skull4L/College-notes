@@ -9,5 +9,7 @@
   "spellcheckLanguages": [
     "en-US",
     "en-GB"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Attachments"
 }
