@@ -20,3 +20,4 @@ When the sarcomere contacts:
     - A band stays the same width
 
 - The decrease in length of the sarcomere is caused when the Z lines move closer together causing the actin filaments to slide between the myosin, the H zone becomes narrower
+![[Pasted image 20221115124352.png]]
