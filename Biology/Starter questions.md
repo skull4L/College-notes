@@ -15,3 +15,8 @@
 - They have an individual bipolar nerve each, so all connected to the optic nerve
 - Red Green Blue (RGB)
 - 3 variants with different versions of the pigment. [Different wavelengths can detected by more than one cone cell, overlap creates more colours]
+
+>15/11/22
+
+- the myosin and actin filaments sliding towards eachother
+- A band
