@@ -50,4 +50,20 @@ When the sarcomere contacts:
 
 Mitochondrial disease limits the production of ATP which is required for muscle contraction. by limiting the aerobic respiration of mitochondria. Without this ATP cross bridge formation between actin and myosin does not take place,
 
-![[Pasted image 20221116152150.png]]
+![[Pasted image 20221116152150.png|675]]
+
+### Energy supply during muscle contraction
+- Energy for muscle contraction is supplied by the hydrolysis of ATP to ADP and Pi
+- In a very active muscle the demands for ATP and oxygen is greater than the rate at which the blood can supply oxygen. So there needs to be a way of rapidly generating ATP anaerobically. This is partly achieved by using a chemical called phosphocreatine and by using more glycolysis
+
+### Phosphocreatine
+- Produces ATP very quickly by adding a phosphate to ADP
+- Allows muscle contraction to occur a little longer
+- Phosphocreatine cannot supply energy directly to the muscle so instead it regenerated ATP which can.
+- Variations in levels of Phosphocreatine depend on the following factors:
+    - Genetics
+    - Fitness
+    - Sex
+    - Ethnicity
+    - Metabolism
+    - Number of fast/slow twitch muscle fibres.
