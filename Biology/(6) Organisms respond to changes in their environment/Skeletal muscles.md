@@ -49,3 +49,5 @@ When the sarcomere contacts:
 >Question: Explain why a person with mitochondrial disease can only excersise for a short time (2)
 
 Mitochondrial disease limits the production of ATP which is required for muscle contraction. by limiting the aerobic respiration of mitochondria. Without this ATP cross bridge formation between actin and myosin does not take place,
+
+![[Pasted image 20221116152150.png]]
