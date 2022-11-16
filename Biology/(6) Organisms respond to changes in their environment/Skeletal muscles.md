@@ -67,3 +67,5 @@ Mitochondrial disease limits the production of ATP which is required for muscle 
     - Ethnicity
     - Metabolism
     - Number of fast/slow twitch muscle fibres.
+
+![[Pasted image 20221116185234.png]]
