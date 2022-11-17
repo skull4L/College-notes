@@ -1,0 +1,1 @@
+- Plants are not mobile so they must regulate growth in response to directional sti
