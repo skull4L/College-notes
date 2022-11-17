@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md",
+                "file": "Biology/Starter questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md",
+                "file": "Biology/Starter questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md",
+                "file": "Biology/Starter questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md"
+                "file": "Biology/Starter questions.md"
               }
             }
           }
@@ -319,15 +319,15 @@
   },
   "active": "8568a39e519219e5",
   "lastOpenFiles": [
+    "Geography/Placeholder.md",
+    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
+    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+    "Biology/(5) Energy Transfers/Light-independent reaction.md",
+    "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md",
     "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
     "Biology/(6) Organisms respond to changes in their environment/Control of heart rate.md",
-    "Biology/(6) Organisms respond to changes in their environment/Plant Responses.md",
-    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/Placeholder.md",
-    "Geography/Placeholder.md",
     "Content/Plants/Plants overview.md",
-    "Content/Plants/Crystalwort.md",
-    "Content/Plants/Brazilian waterweed.md",
-    "Content/Animals/Wandering snails.md"
+    "Content/Plants/Crystalwort.md"
   ]
 }
