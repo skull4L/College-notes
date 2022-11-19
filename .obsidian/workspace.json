@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
+                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
+                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
+                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md"
+                "file": "Biology/(5) Energy Transfers/Light-dependent reaction.md"
               }
             }
           }
@@ -306,15 +306,15 @@
   },
   "active": "4ecd18fe9784e43a",
   "lastOpenFiles": [
+    "Biology/(5) Energy Transfers/Light-independent reaction.md",
+    "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
+    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+    "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
     "Biology/Placeholder.md",
     "Geography/Placeholder.md",
     "Content/Plants/Plants overview.md",
     "Content/Plants/Crystalwort.md",
     "Content/Plants/Brazilian waterweed.md",
-    "Content/Animals/Wandering snails.md",
-    "Content/Animals/Animals overview.md",
-    "Content/Basics.md",
-    "Home.md",
-    "Content/Sourcing organisms.md"
+    "Content/Animals/Wandering snails.md"
   ]
 }
