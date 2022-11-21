@@ -26,4 +26,9 @@
 
 >21/11/22
 
-- Conversion of 
+- ? [cholinergic is neuron to neuron. neuromuscular is neuron to muscle]
+- Conversion of ADP+Pi into ATP
+- slow twitch have a longer endurance while fast twitch do not
+- active transport of calcium ions, ?
+- I band stays the same size, H zone stays the same
+- ?
