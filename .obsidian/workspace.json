@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
+                "file": "Biology/Starter questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,8 +211,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+                "file": "Biology/Starter questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+                "file": "Biology/Starter questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md"
+                "file": "Biology/Starter questions.md"
               }
             }
           }
@@ -329,15 +328,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd7623bd7ca8b5a1",
+  "active": "4ecd18fe9784e43a",
   "lastOpenFiles": [
+    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
     "Biology/Starter questions.md",
     "Geography/Placeholder.md",
     "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
-    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
     "Biology/Placeholder.md",
     "Content/Plants/Plants overview.md"

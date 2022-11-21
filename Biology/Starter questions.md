@@ -23,4 +23,7 @@
 - I band [also H zone]
 - Contraction of muscles [by releases calcium ions]
 - [actin]
-- 
+
+>21/11/22
+
+- Conversion of 
