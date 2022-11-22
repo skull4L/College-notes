@@ -35,6 +35,9 @@
 
 >22/11/22
 
-- actin, mycosin
+- actin, mysocin
 - calcium
-- 
+- a neuron that connects to muscle fibres
+- so the muscle can relax
+- ?
+- ?
