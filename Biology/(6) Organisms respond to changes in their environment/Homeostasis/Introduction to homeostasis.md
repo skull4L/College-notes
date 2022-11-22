@@ -25,3 +25,4 @@
 
 ### Positive feedback
 - Deviation from the optimum causes a change that results in an even greater deviation from the norm, this is less common
+![[Pasted image 20221122131239.png]]
