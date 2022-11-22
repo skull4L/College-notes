@@ -38,6 +38,6 @@
 - actin, mysocin
 - calcium
 - a neuron that connects to muscle fibres
-- so the muscle can relax
+- so the muscle can relax [stop action potentials]
 - ?
 - ?
