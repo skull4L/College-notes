@@ -26,3 +26,15 @@
 ### Positive feedback
 - Deviation from the optimum causes a change that results in an even greater deviation from the norm, this is less common
 ![[Pasted image 20221122131239.png]]
+
+### Ectotherms
+- Body temperature fluctuates with external temperature
+- Fish, reptiles, amphibians or invertebrates
+![[Pasted image 20221122132229.png]]
+
+### Endotherms
+- Generate their heat metabolically
+- Maintain a constant internal body temperature higher than the external environment
+- Mammals, birds (warm blooded)
+![[Pasted image 20221122132214.png]]
+![[Pasted image 20221122132200.png]]
