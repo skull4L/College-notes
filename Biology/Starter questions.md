@@ -32,3 +32,9 @@
 - active transport of calcium ions, ?
 - I band stays the same size, H zone stays the same
 - ?
+
+>22/11/22
+
+- actin, mycosin
+- calcium
+- 
