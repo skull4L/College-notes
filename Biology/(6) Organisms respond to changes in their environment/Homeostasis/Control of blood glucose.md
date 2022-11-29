@@ -12,3 +12,5 @@
 - Fewer enzyme substrate complexes formed
 
 ![[Pasted image 20221129130900.png]]
+
+![[Pasted image 20221129134010.png]]
