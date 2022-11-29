@@ -1,0 +1,3 @@
+- Glycogenesis - Glucose is converted to glycogen
+- Glycogenolysis - Glycogen is converted into glucose
+- Gluconeogenesis - 

@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Starter questions.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871acc805b7327e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md",
                 "mode": "source",
                 "source": false
               }
@@ -236,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,7 +277,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Glycogenolysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Starter questions.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Starter questions.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Starter questions.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md"
               }
             }
           }
@@ -354,11 +366,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12674307a23cd1de",
+  "active": "bd7623bd7ca8b5a1",
   "lastOpenFiles": [
-    "Geography/Component 3 - China/3.3.2 essay planning.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md",
     "Biology/Starter questions.md",
+    "Geography/Component 3 - China/3.3.2 essay planning.md",
     "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
     "Geography/Placeholder.md",
     "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
