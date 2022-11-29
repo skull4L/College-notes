@@ -47,4 +47,4 @@
 - Breaks hydrogen bonds
 - due to a change in conditions the system deviates further from the norm.
 - ?
-- 
+-  
