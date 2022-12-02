@@ -1,3 +1,37 @@
+- Premise:
+    - Housing
+    - Education
+    - Sanitation
+    - Healthcare
 
-| Point (A01) | Evidence (A01) | However | 
-| ----------- | -------------- | ------- |
+|     | Point (A01)                                | Evidence (A01)                                            | However                                        | Evidence (A01)                     | Return to your premise |
+| --- | ------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------- | ---------------------- |
+| P1  | Mao's Marxism had a limited effect on HESH | Over 90% of Chinese population living in absolute poverty | The great leap forward and cultural revolution | Industrialisation - reliable wages |                        |
+| P2  |                                            |                                                           |                                                |                                    |                        |
+| P3  |                                            |                                                           |                                                |                                    |                        |
+
+### Mao
+- Key goal was to industrialise china using coal reserves
+    -> Moving from primary to secondary economy
+- Great leap forward
+- Needed both peasants and elite to follow him
+    -> Cultural revolution
+
+### Deng
+- Shift from hardcore Marxism
+- Open door policy allowed foreign companies to move in
+    -> Allowed for rapid industrialisation
+- One child policy
+    -> Helped treat overpopulation
+    -> Harder to educate more people
+    -> Women make good workers, small fingers good for electronics
+
+### Xi
+- Takes China into world trade organisation in 2001
+- Go west policy
+    -> Joint ventures with JLR
+- Relaxed Hukou
+    -> Allowed people to move from their home province
+- Xi thought
+    -> Attempting another cultural revolution
+        -> Failing - protests
