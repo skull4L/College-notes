@@ -356,16 +356,24 @@
                 "file": "Geography/Component 3 - China/Evaluate the role of political systems and government in the changing social characteristics of china.md"
               }
             }
+          },
+          {
+            "id": "0a9197a8eda9c8ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4ecd18fe9784e43a",
+  "active": "a2f34a50ae67ccc4",
   "lastOpenFiles": [
     "Biology/Starter questions.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md",
