@@ -4,11 +4,11 @@
     - Sanitation
     - Healthcare
 
-|     | Point (A01)                                | Evidence (A01)                                            | However                                        | Evidence (A01)                     | Return to your premise |
-| --- | ------------------------------------------ | --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------- | ---------------------- |
-| P1  | Mao's Marxism had a limited effect on HESH | Over 90% of Chinese population living in absolute poverty | The great leap forward and cultural revolution | Industrialisation - reliable wages |                        |
-| P2  |                                            |                                                           |                                                |                                    |                        |
-| P3  |                                            |                                                           |                                                |                                    |                        |
+|     | Point (A01)                                                                                 | Evidence (A01)                                            | However                                        | Evidence (A01)                     | Return to your premise                                                         |
+| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------ |
+| P1  | Mao's Marxism had a limited effect on HESH                                                  | Over 90% of Chinese population living in absolute poverty | The great leap forward and cultural revolution | Industrialisation - reliable wages | Even though there has been little improvement to HESH throughout 1949 to 1960s |
+| P2  | Deng from 1970s relaxed marxism and started open door policy. Education now more important. |                                                           |                                                |                                    |                                                                                |
+| P3  |                                                                                             |                                                           |                                                |                                    |                                                                                |
 
 ### Mao
 - Key goal was to industrialise china using coal reserves
