@@ -23,4 +23,28 @@
 - I band [also H zone]
 - Contraction of muscles [by releases calcium ions]
 - [actin]
-- 
+
+>21/11/22
+
+- ? [cholinergic is neuron to neuron. neuromuscular is neuron to muscle]
+- Conversion of ADP+Pi into ATP
+- slow twitch have a longer endurance while fast twitch do not
+- active transport of calcium ions, ?
+- I band stays the same size, H zone stays the same
+- ?
+
+>22/11/22
+
+- actin, mysocin
+- calcium
+- a neuron that connects to muscle fibres
+- so the muscle can relax [stop action potentials]
+- ?
+- ?
+
+>29/11/22
+
+- Breaks hydrogen bonds
+- due to a change in conditions the system deviates further from the norm.
+- ?
+-  
