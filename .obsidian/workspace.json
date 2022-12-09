@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Geography/Component 3 - China/Evaluate the role of political systems and government in the changing social characteristics of china.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efdc5fed544d20ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Geography/Component 3 - China/Evaluate the role of government in the location and development of economic activity in china.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,8 +170,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "617a22fb9a076036",
+  "active": "efdc5fed544d20ef",
   "lastOpenFiles": [
+    "Geography/Component 3 - China/Untitled.md",
     "Geography/Component 3 - China/Evaluate the role of political systems and government in the changing social characteristics of china.md",
     "Geography/Component 3 - China/Evaluate the role of government in the location and development of economic activity in china.md",
     "Geography/Component 3 - China/3.3.2 essay planning.md",
@@ -168,7 +181,6 @@
     "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
     "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md"
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
   ]
 }
