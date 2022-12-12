@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Intervention/12.12.22 - Photosysnthesis.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "097422ff83cf12e8",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Intervention/12.12.22 - Photosysnthesis.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Intervention/12.12.22 - Photosysnthesis.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Intervention/12.12.22 - Photosysnthesis.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "d86d5aadadc16032",
   "lastOpenFiles": [
+    "Biology/Intervention/12.12.22 - Photosysnthesis.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md",
@@ -204,7 +205,6 @@
     "Geography/Component 3 - China/Evaluate the role of political systems and government in the changing social characteristics of china.md",
     "Geography/Component 3 - China/3.3.2 essay planning.md",
     "Biology/Starter questions.md",
-    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
-    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md"
+    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md"
   ]
 }
