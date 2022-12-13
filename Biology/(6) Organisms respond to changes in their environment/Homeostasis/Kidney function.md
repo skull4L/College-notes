@@ -18,3 +18,4 @@ placeholder
 ### Adaptations of the PCT for selective reabsorption
 ![[Pasted image 20221212094307.png]]
 
+![[Pasted image 20221213144010.png]]
