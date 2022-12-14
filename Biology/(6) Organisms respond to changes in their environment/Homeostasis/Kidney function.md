@@ -19,3 +19,7 @@ placeholder
 ![[Pasted image 20221212094307.png]]
 
 ![[Pasted image 20221213144010.png]]
+
+### Osmoreceptors
+- Receptors in the hypothalamus of the brain
+- Detect an increase or decrease in the water potential of the blood
