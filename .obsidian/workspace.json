@@ -327,8 +327,12 @@
             "id": "e692dddfbc10c451",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -398,6 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,6 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -435,7 +441,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md"
+              }
             }
           },
           {
@@ -467,7 +475,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bd7623bd7ca8b5a1",
+  "active": "e692dddfbc10c451",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.2 Volcanoes.md",
