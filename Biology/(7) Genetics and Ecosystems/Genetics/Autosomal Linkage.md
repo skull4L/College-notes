@@ -7,3 +7,5 @@
 
 - If genes A and B occur on seperate chromosomes they are not linked.
 ![[Pasted image 20230116152249.png]]
+
+- If genes A and B are linked the linked genes remain together during meiosis and pass into the gametes.

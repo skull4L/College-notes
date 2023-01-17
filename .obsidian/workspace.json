@@ -341,7 +341,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/test.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "mode": "source",
                 "source": false
               }
@@ -414,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/test.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/test.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -454,7 +454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/test.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md"
               }
             }
           },
@@ -489,15 +489,15 @@
   },
   "active": "0c3d4731f23757e9",
   "lastOpenFiles": [
+    "Biology/Essays/Importance of Proteins.md",
+    "Aber entry exams/Environmental sciences essays.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/test.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "conflict-files-obsidian-git.md",
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.2 Volcanoes.md",
     "Geology/Metamorphic grade.md",
     "Geology/Placeholder.md",
     "Geology/Igneous rock revision.md",
-    "Geology/Metamophic rock revision.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.3 - Earthquakes, processes, hazards and their impacts.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Epistasis.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Codominance.md"
+    "Geology/Metamophic rock revision.md"
   ]
 }
