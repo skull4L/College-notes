@@ -11,9 +11,9 @@
             "id": "79491d01e7dbc2f4",
             "type": "leaf",
             "state": {
-              "type": "diagram",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md"
               }
             }
           }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md"
               }
             }
           },
@@ -170,20 +170,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed516e580fd50edd",
+  "active": "79491d01e7dbc2f4",
   "lastOpenFiles": [
+    "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Ecosystems revision - Biodiversity of Tropical rainforests and Tundras.md",
+    "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md",
     "Untitled.canvas",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.3 - Earthquakes, processes, hazards and their impacts.md",
     "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2023-01-30 22.13.21.excalidraw.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Drawing 2023-01-30 22.16.58.excalidraw.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.3 - Earthquakes, processes, hazards and their impacts.md",
     "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md",
     "Geology/(G1) Rock forming processes/Deltas and cyclothems.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
-    "Biology/Starter questions.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Ecosystems revision - Biodiversity of Tropical rainforests and Tundras.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md"
+    "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md"
   ]
 }

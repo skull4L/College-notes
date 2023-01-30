@@ -1,9 +1,12 @@
 {
 	"nodes":[
 		{"id":"f18b58ebb0cfd9c3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"test"},
-		{"id":"bee3cba673c1e896","x":-261,"y":160,"width":250,"height":60,"type":"text","text":"test2"}
+		{"id":"bee3cba673c1e896","x":-261,"y":160,"width":250,"height":60,"type":"text","text":"test2"},
+		{"id":"a9db4e9c51a3e8da","x":-268,"y":-105,"width":400,"height":400,"type":"file","file":"Biology/(6) Organisms respond to changes in their environment/Homeostasis/Control of blood glucose.md"},
+		{"id":"0bc2efcbba65d0fd","x":-544,"y":65,"width":250,"height":60,"type":"text","text":"frogs areent real"}
 	],
 	"edges":[
-		{"id":"ae3ae42a4de76261","fromNode":"f18b58ebb0cfd9c3","fromSide":"bottom","toNode":"bee3cba673c1e896","toSide":"top"}
+		{"id":"ae3ae42a4de76261","fromNode":"f18b58ebb0cfd9c3","fromSide":"bottom","toNode":"bee3cba673c1e896","toSide":"top"},
+		{"id":"2d35fdc4caf223c8","fromNode":"a9db4e9c51a3e8da","fromSide":"left","toNode":"0bc2efcbba65d0fd","toSide":"right"}
 	]
 }
