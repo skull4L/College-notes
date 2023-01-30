@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "544406e476241d16",
+        "id": "a8a0b46d52652b25",
         "type": "tabs",
         "children": [
           {
-            "id": "19bd2868138bb1cd",
+            "id": "79491d01e7dbc2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G1) Rock forming processes/Igneous rocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaffa961b12a4a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Starter questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fde5a67aa998077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca46f07f3d7c9470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
+                "file": "Geology/(G1) Rock forming processes/Deltas and cyclothems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
+                "file": "Geology/(G1) Rock forming processes/Deltas and cyclothems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
+                "file": "Geology/(G1) Rock forming processes/Deltas and cyclothems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md"
+                "file": "Geology/(G1) Rock forming processes/Deltas and cyclothems.md"
               }
             }
           },
@@ -195,8 +158,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ca46f07f3d7c9470",
+  "active": "79491d01e7dbc2f4",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "Biology/Starter questions.md",
     "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Ecosystems revision - Biodiversity of Tropical rainforests and Tundras.md",
@@ -205,7 +169,6 @@
     "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Chi-squared test.md",
     "Biology/Probability.md",
-    "Aber entry exams/Environmental sciences essays.md",
-    "Geology/(G1) Rock forming processes/Igneous rocks.md"
+    "Aber entry exams/Environmental sciences essays.md"
   ]
 }
