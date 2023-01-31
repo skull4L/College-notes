@@ -57,16 +57,8 @@
             "id": "bd7623bd7ca8b5a1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -199,15 +191,15 @@
   },
   "active": "e3afc014b83d87f9",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Variation in phenotype.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Multiple Alleles in blood.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Hardy Weinberg.md",
     "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md",
     "Excalidraw/Drawing 2023-01-30 22.30.14.excalidraw.md",
-    "Excalidraw/Template.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Ecosystems revision - Biodiversity of Tropical rainforests and Tundras.md",
-    "Untitled.canvas",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-01-30 22.13.21.excalidraw.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Ecosystems/Drawing 2023-01-30 22.16.58.excalidraw.md"
+    "Excalidraw/Template.md"
   ]
 }
