@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
+                "file": "Geology/(G2) Rock deformation/The nature of rock deformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
+                "file": "Geology/(G2) Rock deformation/The nature of rock deformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "919ad1e7821ec3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Rock Deformation.md"
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md"
               }
             }
           },
@@ -225,17 +237,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96e70f0411329753",
+  "active": "919ad1e7821ec3b5",
   "lastOpenFiles": [
     "Geology/(G2) Rock deformation/The nature of rock deformation.md",
-    "Geology/(G2) Rock deformation/Rock Deformation.md",
+    "Geology/(G2) Rock deformation/Fold Characteristics.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Aber entry exams/Hydra essay plan.canvas",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/Starter questions.md",
     "Aber entry exams/Environmental sciences essays.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md"
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
   ]
 }
