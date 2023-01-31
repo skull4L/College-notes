@@ -8,7 +8,8 @@
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-US",
-    "en-GB"
+    "en-GB",
+    "en-GB-oxendict"
   ],
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments"
