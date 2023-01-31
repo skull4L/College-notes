@@ -14,3 +14,12 @@
 - Genetic variation puts organisms into a few distinct forms.
 
 ### Environmental factors
+- The environment influences all organisms
+    - This affects how genes are expressed
+- Environmental influences include climatic conditions, soil conditions, pH, and food availibility
+
+- Some characteristics exist on a spectrum (for example height and mass)
+    - These characteristics are controlled by many genes (polygenes)
+- Environmental factors play a huge role on where in the spectrum the organism is found
+- In most cases variation is due to a combination of genetic and environmental factors
+    - This makes it difficult to determine the causes of variation.
