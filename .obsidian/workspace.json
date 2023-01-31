@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d61cb861ea6e0539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
+                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
+                "file": "Geology/(G2) Rock deformation/Rock Deformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md"
+                "file": "Geology/(G2) Rock deformation/Rock Deformation.md"
               }
             }
           },
@@ -201,11 +213,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "250ddb93b3a86795",
+  "active": "d61cb861ea6e0539",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Aber entry exams/Hydra essay plan.canvas",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/Starter questions.md",
     "Aber entry exams/Environmental sciences essays.md",
