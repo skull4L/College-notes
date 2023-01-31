@@ -45,3 +45,13 @@
     - What is the frequency of the vestigial wings allele | 0.6
     - What is the frequency of the long winged allele | 0.8
     - What is the frequency of heterozygous flies | 2.2
+
+- Banded snail (cepaea nemoralis) can have pink shells or yellow shells. The shell colour is controlled by 2 alleles of a single gene. The pink allele (C^p) is dominant over the yellow allele (C^y). In a population of banded cells, 64 were pink and 36 were yellow
+- total pop = 100
+- p^2 = 0.36
+    - p = 0.6
+        - p^2 = 0.36
+    - q = 0.4
+        - q^2 = 0.16
+- 2pq = 0.48
+- 0.6^2+0.48+0.4^2=1
