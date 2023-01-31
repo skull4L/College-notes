@@ -33,12 +33,8 @@
             "id": "cb8b5619952fe7ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,8 +166,8 @@
   },
   "active": "cb8b5619952fe7ed",
   "lastOpenFiles": [
-    "Aber entry exams/Environmental sciences essays.md",
     "conflict-files-obsidian-git.md",
+    "Aber entry exams/Environmental sciences essays.md",
     "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/(5) Energy Transfers/Light-independent reaction.md",
     "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
