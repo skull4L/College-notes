@@ -47,4 +47,36 @@
 - Breaks hydrogen bonds
 - due to a change in conditions the system deviates further from the norm.
 - ?
--  
+
+>4/1/23
+
+- Movement away or towards a stimulus
+- More sensitive to light
+- ?
+- ?
+- ?
+
+> 9/1/23
+
+- A different version of a gene
+- 2 of the same alleles in a pair
+- 2 different alleles in a pair
+- Both alleles contribute to the phenotype
+- ?
+- The sum of all genes in an organism
+
+>11/1/23
+
+pathogens are detected by the phagocytes, they engulf them in a phagosome and use enzymes stored in lysosomes to break down the pathogen. The antigens of the pathogens are the presented on the cell membrane of the phagocyte. This is called antigen presentation. Helper T cells then are stimulated by these antigens and activate B cells and cytotoxic T cells. The B cell creates antibodies which are complimentary to the antigen. The B cells undergo clonal expansion and become plasma cells and memory cells. The plasma cells can then release these antibodies which clump to the antigens of the pathogen, disabling it.
+
+>16/1/23
+
+e = XRXr f = XRY
+
+>31/1/23
+
+- 
+    - No mutation
+    - No addition or loss of genes
+    - random mating
+- The proportion of the population that expresses a particular allele
