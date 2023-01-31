@@ -22,7 +22,14 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "Biology/(7) Genetics and Ecosystems",
+      "Biology/(7) Genetics and Ecosystems/Populations and evolution",
+      "Aber entry exams",
+      "Biology"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null

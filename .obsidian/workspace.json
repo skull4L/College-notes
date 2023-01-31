@@ -33,8 +33,12 @@
             "id": "cb8b5619952fe7ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -62,6 +66,14 @@
             }
           },
           {
+            "id": "558f380d8ce49d3d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
             "id": "ed516e580fd50edd",
             "type": "leaf",
             "state": {
@@ -83,17 +95,8 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "30ca283f7ee97b89",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
+              }
             }
           }
         ]
@@ -178,15 +185,15 @@
   },
   "active": "cb8b5619952fe7ed",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/Probability.md",
     "Aber entry exams/Environmental sciences essays.md",
+    "Aber entry exams/Hydra essay plan.canvas",
+    "conflict-files-obsidian-git.md",
     "Biology/(5) Energy Transfers/Light-dependent reaction.md",
     "Biology/(5) Energy Transfers/Light-independent reaction.md",
     "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
     "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
-    "Biology/Placeholder.md",
-    "Geography/Placeholder.md",
-    "Content/Plants/Plants overview.md",
-    "Content/Plants/Crystalwort.md"
+    "Biology/Placeholder.md"
   ]
 }
