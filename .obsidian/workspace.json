@@ -33,14 +33,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "250ddb93b3a86795",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,17 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3afc014b83d87f9",
+  "active": "250ddb93b3a86795",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Variation in phenotype.md",
-    "Untitled.canvas",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Untitled.canvas",
     "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Multiple Alleles in blood.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
-    "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-30 22.30.14.excalidraw.md",
-    "Excalidraw/Template.md"
+    "Excalidraw/Drawing 2023-01-30 22.21.36.excalidraw.md"
   ]
 }
