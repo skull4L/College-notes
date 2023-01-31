@@ -75,3 +75,8 @@ e = XRXr f = XRY
 
 >31/1/23
 
+- 
+    - No mutation
+    - No addition or loss of genes
+    - random mating
+- The proportion of the population that expresses a particular allele
