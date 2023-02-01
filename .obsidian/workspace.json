@@ -141,14 +141,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e27e1171363d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c40a281bb791627a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -223,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Principal stresses.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
               }
             }
           },
@@ -297,17 +321,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18d0a5f8758db292",
+  "active": "c40a281bb791627a",
   "lastOpenFiles": [
-    "Geology/(G2) Rock deformation/Structural reactivation and inversion.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Geology/(G2) Rock deformation/Principal stresses.md",
+    "Geology/(G2) Rock deformation/Structural reactivation and inversion.md",
     "Geology/(G2) Rock deformation/Axial planar cleavage.md",
     "Geology/(G2) Rock deformation/Polar equal-area stereonets.md",
     "Geology/(G2) Rock deformation/Fold Characteristics.md",
     "Geology/(F1) Elements, minerals and rocks/Minerals.md",
     "Geology/(G1) Rock forming processes/Turbidity currents.md",
-    "Geology/(G1) Rock forming processes/Phase diagrams.md",
-    "Geology/(G1) Rock forming processes/Metamophic rocks.md",
-    "Geology/(G1) Rock forming processes/Igneous rocks.md"
+    "Geology/(G1) Rock forming processes/Phase diagrams.md"
   ]
 }
