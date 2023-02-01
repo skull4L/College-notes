@@ -30,4 +30,4 @@
 - Crystals are solid but often form from liquids. For example Quartz forms from liquid magma
 - Ions behave differently depending on their state. They have greater velocity in a liquid as they have more thermal energy. They are also disorganised and do not form a pattern
 - Slow cooling gives time for ions to organise themselves. Therefore the slower a magma cools, the larger the crystals are.
-- Slow cooling does not give time for ions to organise, they freeze in place and form what is known as a natural glass. Glass is not mineral
+- Slow cooling does not give time for ions to organise, they freeze in place and form what is known as a natural glass. Glass is not a mineral
