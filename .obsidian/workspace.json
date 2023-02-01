@@ -122,9 +122,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e87767834336f6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18d0a5f8758db292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -199,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Axial planar cleavage.md",
+                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Axial planar cleavage.md",
+                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G2) Rock deformation/Axial planar cleavage.md"
+                "file": "Geology/(G2) Rock deformation/Principal stresses.md"
               }
             }
           },
@@ -273,17 +297,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "157fe2227824b7f1",
+  "active": "18d0a5f8758db292",
   "lastOpenFiles": [
+    "Geology/(G2) Rock deformation/Structural reactivation and inversion.md",
+    "Geology/(G2) Rock deformation/Principal stresses.md",
+    "Geology/(G2) Rock deformation/Axial planar cleavage.md",
     "Geology/(G2) Rock deformation/Polar equal-area stereonets.md",
     "Geology/(G2) Rock deformation/Fold Characteristics.md",
     "Geology/(F1) Elements, minerals and rocks/Minerals.md",
     "Geology/(G1) Rock forming processes/Turbidity currents.md",
     "Geology/(G1) Rock forming processes/Phase diagrams.md",
     "Geology/(G1) Rock forming processes/Metamophic rocks.md",
-    "Geology/(G1) Rock forming processes/Igneous rocks.md",
-    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
-    "Aber entry exams/Hydra essay plan.canvas",
-    "Geology/(G2) Rock deformation/The nature of rock deformation.md"
+    "Geology/(G1) Rock forming processes/Igneous rocks.md"
   ]
 }
