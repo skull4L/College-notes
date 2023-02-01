@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md"
+                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md"
               }
             }
           },
@@ -249,8 +249,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dac2370c49f6b42",
+  "active": "457ec7182a643d19",
   "lastOpenFiles": [
+    "Geology/(F1) Elements, minerals and rocks/Minerals.md",
     "Geology/(G1) Rock forming processes/Turbidity currents.md",
     "Geology/(G1) Rock forming processes/Phase diagrams.md",
     "Geology/(G1) Rock forming processes/Metamophic rocks.md",
@@ -259,7 +260,6 @@
     "Aber entry exams/Hydra essay plan.canvas",
     "Geology/(G2) Rock deformation/Fold Characteristics.md",
     "Geology/(G2) Rock deformation/The nature of rock deformation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md"
   ]
 }
