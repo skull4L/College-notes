@@ -60,9 +60,21 @@
                 "file": "Aber entry exams/Exam papers/Environmental-Science 2022.pdf"
               }
             }
+          },
+          {
+            "id": "fb8131c1d651140b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Exam papers/Environmental-Science 2022.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -204,8 +216,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3c997700b33a12b0",
+  "active": "fb8131c1d651140b",
   "lastOpenFiles": [
+    "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
@@ -214,7 +227,6 @@
     "Aber entry exams/Exam papers/Biology-2 2020.pdf",
     "Aber entry exams/Exam papers/Biology-2 2019.pdf",
     "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "conflict-files-obsidian-git.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
