@@ -1,9 +1,2 @@
-| hazard             | Characteristics of the hazard | environmental | Demographic | social | economic |
-| ------------------ | ----------------------------- | ------------- | ----------- | ------ | -------- |
-| Pyroclastic flow   |                               |               |             |        |          |
-| Lava flows         |                               |               |             |        |          |
-| Ash falls          |                               |               |             |        |          |
-| lahars             |                               |               |             |        |          |
-| Jokulhlaups        |                               |               |             |        |          |
-| volcanic landsides |                               |               |             |        |          |
-| Toxic gases        |                               |               |             |        |          |
+![[Pasted image 20230202150433.png]]
+![[Pasted image 20230202150447.png]]
