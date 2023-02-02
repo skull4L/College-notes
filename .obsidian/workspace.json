@@ -29,9 +29,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f950fa7d4d25d57d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aber entry exams/Hydra essay plan.canvas",
+                "viewState": {
+                  "x": -300,
+                  "y": 112,
+                  "zoom": -1.4872495627770599,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -52,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
+                "file": "Aber entry exams/Hydra essay plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
+                "file": "Aber entry exams/Hydra essay plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md"
+                "file": "Aber entry exams/Hydra essay plan.canvas"
               }
             }
           }
@@ -194,52 +210,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "ce5e84366bf9dd11",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a7f1f396107d66a4",
-        "type": "window",
-        "children": [
-          {
-            "id": "0c577f8c9bfc7567",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "39e66b0f0ab11d87",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Aber entry exams/Exam papers/Environmental-Science 2020.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 683,
-        "y": 0,
-        "width": 683,
-        "height": 727,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a7b7f81d92a964a6",
+  "active": "f950fa7d4d25d57d",
   "lastOpenFiles": [
-    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-    "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
-    "Aber entry exams/Environmental sciences essays/Impacts of deforestation on biodiversity, soils and climate.canvas",
-    "Aber entry exams/Environmental sciences essays.md",
-    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/testr.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
+    "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
   ]
 }
