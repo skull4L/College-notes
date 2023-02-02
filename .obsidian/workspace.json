@@ -39,16 +39,8 @@
             "id": "f950fa7d4d25d57d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Aber entry exams/Hydra essay plan.canvas",
-                "viewState": {
-                  "x": -300,
-                  "y": 112,
-                  "zoom": -1.4872495627770599,
-                  "snapToGrid": false
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -142,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Hydra essay plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Hydra essay plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aber entry exams/Hydra essay plan.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -210,8 +198,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f950fa7d4d25d57d",
+  "active": "83a317150263ac6f",
   "lastOpenFiles": [
+    "Aber entry exams/Hydra essay plan.canvas",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/testr.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
@@ -220,7 +209,6 @@
     "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
     "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
-    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md"
   ]
 }
