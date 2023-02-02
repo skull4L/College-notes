@@ -50,9 +50,21 @@
                 "currentVersion": "1.1.9"
               }
             }
+          },
+          {
+            "id": "3c997700b33a12b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -195,7 +207,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "23b801b73d726927",
+  "active": "3c997700b33a12b0",
   "lastOpenFiles": [
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Biology/Probability.md",

@@ -13,3 +13,5 @@
     - The angle of the axial plane
 - Plunging folds
     - If the axial plane is not horizontal
+
+![[Pasted image 20230201110246.png]]

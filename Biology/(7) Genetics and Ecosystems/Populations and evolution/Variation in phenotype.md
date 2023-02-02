@@ -22,3 +22,16 @@
 - Environmental factors play a huge role on where in the spectrum the organism is found
 - In most cases variation is due to a combination of genetic and environmental factors
     - This makes it difficult to determine the causes of variation.
+
+### Discontinuous variation
+- Characteristics of the phenotype that are placed into definite categories, with no intermediates
+    - Male or female
+    - Attached or unattached earlobes
+- Often controlled by a single gene
+
+### Continuous variation
+- Characteristics of the phenotype exist on a wide spectrum of variation with no distinct categories
+    - Height
+    - IQ
+    - weight
+
