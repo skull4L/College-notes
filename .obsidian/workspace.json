@@ -1,190 +1,35 @@
 {
   "main": {
-    "id": "991e149289454a22",
+    "id": "a65afd38430e7288",
     "type": "split",
     "children": [
       {
-        "id": "c30512e00e4ae340",
+        "id": "2de47ba217a66e00",
         "type": "tabs",
         "children": [
           {
-            "id": "e723871b025ded8f",
+            "id": "39e66b0f0ab11d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d975fc099579911c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
-          },
-          {
-            "id": "cb8b5619952fe7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d61cb861ea6e0539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/The nature of rock deformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96e70f0411329753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/The nature of rock deformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "919ad1e7821ec3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G1) Rock forming processes/Turbidity currents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "457ec7182a643d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
-=======
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dc409ddbcae2f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/Polar equal-area stereonets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157fe2227824b7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/Axial planar cleavage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e87767834336f6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G2) Rock deformation/Principal stresses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d0a5f8758db292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7e27e1171363d51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c40a281bb791627a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 13
-=======
-        "currentTab": 2
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "873c221d2219081d",
+    "id": "44220c143b3cc898",
     "type": "split",
     "children": [
       {
-        "id": "f2ec325dec7f99f6",
+        "id": "4b2c825aebe2288a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7623bd7ca8b5a1",
+            "id": "83a317150263ac6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -194,15 +39,7 @@
             }
           },
           {
-            "id": "558f380d8ce49d3d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed516e580fd50edd",
+            "id": "060b8c5f3ce6dabd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -217,38 +54,42 @@
             }
           },
           {
-            "id": "9e1452e461c9e823",
+            "id": "f9017cf5ccf20341",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5d7917e8ec72b094",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "097422ff83cf12e8",
+    "id": "e14da95231cacf77",
     "type": "split",
     "children": [
       {
-        "id": "ec4522b1c592110f",
+        "id": "debc61465d6fe0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "725e33cd085ee155",
+            "id": "e572e65b1abb1020",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-=======
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,23 +101,18 @@
             }
           },
           {
-            "id": "a2f34a50ae67ccc4",
+            "id": "fe28e37cb60ce827",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-=======
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0a15136e71397d74",
+            "id": "616bd06c2c89280e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -287,17 +123,11 @@
             }
           },
           {
-            "id": "b57acc13d96dc3e3",
+            "id": "e9ac70876e3b43d4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
-=======
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
-              }
+              "state": {}
             }
           }
         ]
@@ -310,45 +140,20 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "omnisearch:Omnisearch": false
     }
   },
-<<<<<<< HEAD
-  "active": "c40a281bb791627a",
-  "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Geology/(F1) Elements, minerals and rocks/Minerals.md",
-    "Geology/(G2) Rock deformation/Principal stresses.md",
-    "Geology/(G2) Rock deformation/Structural reactivation and inversion.md",
-    "Geology/(G2) Rock deformation/Axial planar cleavage.md",
-    "Geology/(G2) Rock deformation/Polar equal-area stereonets.md"
-=======
-  "active": "cb8b5619952fe7ed",
-  "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/Probability.md",
-    "Aber entry exams/Environmental sciences essays.md",
-    "Aber entry exams/Hydra essay plan.canvas",
-    "conflict-files-obsidian-git.md",
-    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
-    "Biology/(5) Energy Transfers/Light-independent reaction.md",
-    "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
-    "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
-    "Biology/Placeholder.md"
->>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
-  ]
+  "active": "39e66b0f0ab11d87",
+  "lastOpenFiles": []
 }
