@@ -5,5 +5,8 @@
   "shouldAutoCheck": true,
   "pickyMode": false,
   "staticLanguage": "en-GB",
-  "englishVeriety": "en-GB"
+  "englishVeriety": "en-GB",
+  "germanVeriety": "de-DE",
+  "portugueseVeriety": "pt-PT",
+  "catalanVeriety": "ca-ES"
 }
