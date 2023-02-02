@@ -4,7 +4,7 @@
 
 - If we look at a particular characteristic in a population, it seems the dominant form expresses itself more than the recessive one. It might be thought that in time the dominant form would predominate to the point where the recessive type disappeared from the population completely.
 - However, the Hardy-Weinberg principal suggests that the proportion of dominant and recessive alleles of a particular gene stays the same, it is not altered by interbreeding.
-- This mathematical law depends on 4 conditions being met
+- This mathematical law depends on 4 conditions being met:
     - No mutations arise
     - The population is isolated so there is no flow of genes into or out of the population
     - There is no natural selection
