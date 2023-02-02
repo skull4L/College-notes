@@ -4,47 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a8a0b46d52652b25",
+        "id": "c30512e00e4ae340",
         "type": "tabs",
         "children": [
           {
-            "id": "79491d01e7dbc2f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d12181f3d10f6e2",
+            "id": "e723871b025ded8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "file": "Aber entry exams/Environmental sciences essays.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3afc014b83d87f9",
+            "id": "d975fc099579911c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.8"
               }
             }
           },
           {
-            "id": "250ddb93b3a86795",
+            "id": "cb8b5619952fe7ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
                 "mode": "source",
                 "source": false
@@ -94,6 +85,9 @@
               "type": "markdown",
               "state": {
                 "file": "Geology/(G2) Rock deformation/Fold Characteristics.md",
+=======
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +166,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 13
+=======
+        "currentTab": 2
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
       }
     ],
     "direction": "vertical"
@@ -189,7 +187,17 @@
             "id": "bd7623bd7ca8b5a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "558f380d8ce49d3d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
               "state": {}
             }
           },
@@ -199,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Glycogenolysis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,23 +223,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "9dac2370c49f6b42",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 300
   },
   "right": {
     "id": "097422ff83cf12e8",
@@ -247,7 +244,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
+=======
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +265,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
+=======
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,20 +292,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
+=======
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
               }
             }
-          },
-          {
-            "id": "0a9197a8eda9c8ee",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,9 +318,12 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
+<<<<<<< HEAD
   "active": "c40a281bb791627a",
   "lastOpenFiles": [
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
@@ -333,5 +336,19 @@
     "Geology/(G2) Rock deformation/Structural reactivation and inversion.md",
     "Geology/(G2) Rock deformation/Axial planar cleavage.md",
     "Geology/(G2) Rock deformation/Polar equal-area stereonets.md"
+=======
+  "active": "cb8b5619952fe7ed",
+  "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/Probability.md",
+    "Aber entry exams/Environmental sciences essays.md",
+    "Aber entry exams/Hydra essay plan.canvas",
+    "conflict-files-obsidian-git.md",
+    "Biology/(5) Energy Transfers/Light-dependent reaction.md",
+    "Biology/(5) Energy Transfers/Light-independent reaction.md",
+    "Biology/(5) Energy Transfers/Photosysnthesis overview.md",
+    "Biology/(6) Organisms respond to changes in their environment/Skeletal muscles.md",
+    "Biology/Placeholder.md"
+>>>>>>> 7fce7bf6327866a4193e558cad65ce1d53fe882b
   ]
 }
