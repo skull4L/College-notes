@@ -11,15 +11,48 @@
             "id": "ff5c25aab6d1357f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2548c7a3be78aa6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7b7f81d92a964a6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays.md",
+                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e39e46be8138608",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation on biodiversity, soils and climate.canvas",
+                "viewState": {
+                  "x": -585,
+                  "y": 164.5134006464481,
+                  "zoom": -0.5,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 230.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -93,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays.md",
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation on biodiversity, soils and climate.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays.md",
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation on biodiversity, soils and climate.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays.md"
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation on biodiversity, soils and climate.canvas"
               }
             }
           }
@@ -196,15 +229,17 @@
       }
     ]
   },
-  "active": "83a317150263ac6f",
+  "active": "3e39e46be8138608",
   "lastOpenFiles": [
+    "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
+    "Aber entry exams/Environmental sciences essays.md",
     "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
     "Aber entry exams/Exam papers/Biology-2 2019.pdf",
     "Aber entry exams/Exam papers/Biology-2 2018.pdf",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Geology/(F1) Elements, minerals and rocks/Minerals.md"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
   ]
 }
