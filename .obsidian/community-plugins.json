@@ -10,5 +10,6 @@
   "make-md",
   "omnisearch",
   "obsidian-languagetool-plugin",
-  "obsidian-completr"
+  "obsidian-completr",
+  "obsidian-table-generator"
 ]

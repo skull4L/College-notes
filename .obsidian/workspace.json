@@ -251,11 +251,13 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "83a317150263ac6f",
+  "active": "cf396b0b3dcb990e",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
@@ -264,7 +266,6 @@
     "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
     "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2020.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2019.pdf"
+    "Aber entry exams/Exam papers/Biology-2 2020.pdf"
   ]
 }
