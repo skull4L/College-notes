@@ -24,10 +24,10 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Biology/(7) Genetics and Ecosystems/Populations and evolution",
       "Biology",
-      "Aber entry exams",
-      "Aber entry exams/Exam papers"
+      "Aber entry exams/Exam papers",
+      "Biology/(7) Genetics and Ecosystems",
+      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems"
     ]
   },
   "expandedSpaces": [

@@ -16,7 +16,7 @@
 ### Environmental factors
 - The environment influences all organisms
     - This affects how genes are expressed
-- Environmental influences include climatic conditions, soil conditions, pH, and food availibility
+- Environmental influences include climatic conditions, soil conditions, pH, and food availability
 - Some characteristics exist on a spectrum (for example height and mass)
     - These characteristics are controlled by many genes (polygenes)
 - Environmental factors play a huge role on where in the spectrum the organism is found
