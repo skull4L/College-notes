@@ -1,0 +1,1 @@
+- Ecology is the study of the interrelationships 
