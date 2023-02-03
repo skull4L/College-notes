@@ -22,6 +22,7 @@
 - Electrons lost from [[Light-dependent reaction#Photoionization of Chlorophyll|photoionization]] can be replaced by photolysis.
 - In this process, ==light energy splits water into protons, electrons and oxygen.==
 - The electrons can then replace those released when light is absorbed.
+<!--SR:!2023-02-06,3,250-->
 
 ### Electron transfer chain
 * ATP and reduced NADP are produced via an ==electron transfer chain.== electrons are transferred down this chain and protons pass across the membranes of chloroplasts against their concentration gradient.
@@ -35,12 +36,14 @@
 * As the electrons move down the ETC, they lose energy.
 * This energy pumps protons from the [[Photosysnthesis overview#Stroma|stroma]] into the [[Photosysnthesis overview#Thylakoids|thylakoids.]] The protons are being transported against their concentration gradient and this requires energy.
 * As protons build up inside the thylakoids, a proton gradient forms across the thylakoid membrane because ==the concentration of protons inside the thylakoids is greater than in the stroma.==
+<!--SR:!2023-02-04,1,230-->
 
 ### Chemiosmosis
 * The protons diffuse down the concentration gradient across the thylakoid membrane through the ==ATP synthase enzyme.==
 * As protons diffuse through the ATP synthase, energy is released.
 * This energy converts ADP and inorganic phosphate to ATP.
 * This process is called chemiosmosis.
+<!--SR:!2023-02-04,1,230-->
 
 ### Reduced NADP
 - When light energy is absorbed, high-energy electrons are released.
@@ -64,12 +67,14 @@
 - This energy pumps protons from the stroma into the thylakoids.
     -   This is the same as in non-cyclic photophosphorylation.
 - As protons build up inside the thylakoids, a proton gradient forms across the thylakoid membrane.
+<!--SR:!2023-02-07,4,270-->
 
 ### Chemiosmosis
 * The protons diffuse down the concentration gradient across the thylakoid membrane through the ==ATP synthase enzyme.==
 * As protons diffuse through the ATP synthase, energy is released.
 * This energy converts ADP and inorganic phosphate to ATP.
 * This process is called chemiosmosis.
+<!--SR:!2023-02-04,1,230-->
 
 ## Comparing cyclic and non-cyclic
 - In cyclic photophosphorylation:
