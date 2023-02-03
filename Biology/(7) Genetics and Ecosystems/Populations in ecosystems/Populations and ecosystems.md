@@ -8,4 +8,7 @@
 
 ### Populations
 - A population is a group of individuals of a species that exist in a particular environment
-- 
+- The maximum size of population an ecosystem can support is called the carrying capacity
+- The size of a population can vary as a result of:
+    - Abiotic factors
+    - Interaction between organisms such as intraspecific and interspecific competition and predation.
