@@ -98,9 +98,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "cf396b0b3dcb990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -243,12 +255,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "005a0625efc1e539",
+  "active": "cf396b0b3dcb990e",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Aber entry exams/Environmental sciences essays/Untitled.md",
     "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
     "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",

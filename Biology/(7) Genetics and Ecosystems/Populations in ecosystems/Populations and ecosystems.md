@@ -1,2 +1,11 @@
 - Ecology is the study of the interrelationships between organisms and their environment. This includes abiotic and biotic factors
 ### Ecosystems
+- Ecosystems are systems made up of both biotic and abiotic factors. Within an ecosystem there are 2 major processes
+    - Flow of energy through the system
+    - Cycling of elements through the system
+- There is little to no transfer of nutrients between ecosystems. It can be said that ecosystems have a fixed nutrient budget
+- In an ecosystem there is a number of populations of different species
+
+### Populations
+- A population is a group of individuals of a species that exist in a particular environment
+- 
