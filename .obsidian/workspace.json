@@ -33,13 +33,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83a317150263ac6f",
+            "id": "2c1c2a5928c6afb2",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "mk-file-view",
+              "state": {}
             }
           },
           {
@@ -58,23 +56,24 @@
             }
           },
           {
+            "id": "83a317150263ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "f9017cf5ccf20341",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "2c1c2a5928c6afb2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,12 +155,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -169,20 +167,21 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e1625a586988b70",
+  "active": "2c1c2a5928c6afb2",
   "lastOpenFiles": [
+    "t.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "Context/#test.mdb",
+    "Context/context.mdb",
+    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
-    "Context/#test.mdb",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
-    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
-    "Aber entry exams/Hydra essay plan.canvas",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md"
   ]
 }

@@ -19,5 +19,5 @@
 
 ### Habitat
 - The place where an organism can be naturally found
-
+- It is characterised by the physical conditions by the physical conditions that an organism is most suited to
 

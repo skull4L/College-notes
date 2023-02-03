@@ -13,7 +13,7 @@
   "autoOpenFileContext": false,
   "spacesCompactMode": false,
   "spacesEnabled": true,
-  "spacesPerformance": false,
+  "spacesPerformance": true,
   "enableFolderNote": true,
   "revealActiveFile": false,
   "spacesStickers": true,
@@ -24,10 +24,9 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Biology",
       "Aber entry exams/Exam papers",
-      "Biology/(7) Genetics and Ecosystems",
-      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems"
+      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems",
+      "/"
     ]
   },
   "expandedSpaces": [
