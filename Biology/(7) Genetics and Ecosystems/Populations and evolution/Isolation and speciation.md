@@ -8,11 +8,11 @@
 - Members of a species are able to reproduce with each other and not others
 - They are reproductively separated from other species
 
-- New species form when 2 populations become reproductively seperated in some way. This can be as a result of genetic change caused by natural selection.
+- New species form when 2 populations become reproductively separated in some way. This can be as a result of genetic change caused by natural selection.
 - Members of the same species are capable of breeding with members from different populations.
-- If 2 populations become separated for long enough this may no longer be the case, as they for 2 separate gene pools and undergo different mutations. They will eventually become genetically different
+- If 2 populations become separated for long enough, this may no longer be the case, as they for 2 separate gene pools and undergo different mutations. They will eventually become genetically different
 - Each population will experience different selection pressures due to different climates further driving them apart.
-- Allelic frequencies will change between the 2 populations as they adapt to their different environments. This is known as adaptive radiation
+- Allele frequencies will change between the 2 populations as they adapt to their different environments. This is known as adaptive radiation
 - This means that eventually the 2 populations will be no longer able to interbreed. By this point they are 2 different species each with a separate gene pool
 
 - In small populations, speciation can occur via genetic drift

@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,14 +159,15 @@
             }
           },
           {
-            "id": "5d7917e8ec72b094",
+            "id": "2c1c2a5928c6afb2",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -186,14 +187,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -203,9 +204,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
               }
             }
           }
@@ -251,21 +252,20 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "omnisearch:Omnisearch": false,
-      "obisidian-note-linker:Note Linker": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "cf396b0b3dcb990e",
+  "active": "2c1c2a5928c6afb2",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Aber entry exams/Environmental sciences essays/Untitled.md",
-    "Aber entry exams/Environmental sciences essays/What are the impacts of deforestation on biodiversity, soils and climate?.md",
-    "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
-    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2020.pdf"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
+    "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
+    "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md"
   ]
 }

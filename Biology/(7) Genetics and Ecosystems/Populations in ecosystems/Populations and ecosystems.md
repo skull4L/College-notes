@@ -15,4 +15,7 @@
 - Populations of different species form a community test
 
 ### Community
-- A community is a collection of
+- A community is a collection of populations of species that live and interact with each other.
+
+### Habitat
+- The place where an organism can be naturally found

@@ -5,7 +5,7 @@
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckLanguages": [
     "en-US",
     "en-GB",
