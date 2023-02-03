@@ -12,7 +12,7 @@
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "spacesCompactMode": false,
-  "spacesEnabled": false,
+  "spacesEnabled": true,
   "spacesPerformance": false,
   "enableFolderNote": true,
   "revealActiveFile": false,

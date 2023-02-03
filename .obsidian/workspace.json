@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
               }
             }
           }
@@ -255,17 +254,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c1c2a5928c6afb2",
+  "active": "cf396b0b3dcb990e",
   "lastOpenFiles": [
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
-    "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Kidney function.md",
-    "Biology/(6) Organisms respond to changes in their environment/Homeostasis/Introduction to homeostasis.md"
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md"
   ]
 }
