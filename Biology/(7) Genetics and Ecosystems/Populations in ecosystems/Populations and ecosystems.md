@@ -11,4 +11,7 @@
 - The maximum size of population an ecosystem can support is called the carrying capacity
 - The size of a population can vary as a result of:
     - Abiotic factors
-    - Interaction between organisms such as intraspecific and interspecific competition and predation.
+    - Interaction between organisms such as intraspecific and interspecific competition and predation
+- Populations of different species form a community test
+
+### Community
