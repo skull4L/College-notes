@@ -11,10 +11,12 @@
             "id": "1e1625a586988b70",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "type": "folder",
-                "folder": "Aber entry exams"
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -32,6 +34,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "83a317150263ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "060b8c5f3ce6dabd",
             "type": "leaf",
             "state": {
@@ -42,16 +54,6 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "83a317150263ac6f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md"
+              }
             }
           },
           {
@@ -163,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "060b8c5f3ce6dabd",
+  "active": "1e1625a586988b70",
   "lastOpenFiles": [
-    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/population.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
+    "Aber entry exams/context.mdb",
+    "Aber entry exams/Environmental sciences essays/context.mdb",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Context/#Aber entry exams.mdb",
-    "Context/#test.mdb",
-    "Context/context.mdb",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md"
   ]
 }
