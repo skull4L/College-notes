@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Untitled.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Untitled.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Untitled.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Untitled.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
               }
             }
           },
@@ -145,20 +146,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -171,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e1625a586988b70",
+  "active": "e572e65b1abb1020",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Chi-squared test.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
+    "Biology/Untitled.md",
     "Aber entry exams/Environmental sciences essays/Untitled.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "t.md",
-    "Context/#test.mdb",
-    "Context/context.mdb",
-    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
+    "t.md"
   ]
 }

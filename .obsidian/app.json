@@ -12,5 +12,6 @@
     "en-GB-oxendict"
   ],
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "showLineNumber": true
 }
