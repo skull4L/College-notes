@@ -13,7 +13,7 @@
   "autoOpenFileContext": false,
   "spacesCompactMode": false,
   "spacesEnabled": true,
-  "spacesPerformance": false,
+  "spacesPerformance": true,
   "enableFolderNote": true,
   "revealActiveFile": false,
   "spacesStickers": true,
@@ -24,13 +24,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Biology/(7) Genetics and Ecosystems/Populations and evolution"
+      "Biology",
+      "Biology/(7) Genetics and Ecosystems",
+      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems"
     ]
   },
   "expandedSpaces": [
-    "/",
     null,
-    null
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
@@ -52,7 +54,7 @@
     "mdb"
   ],
   "vaultSort": [
-    "rank",
+    "path",
     true
   ],
   "newFileLocation": "current"

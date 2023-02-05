@@ -3,5 +3,9 @@
   "urlMode": "standard",
   "glassBg": false,
   "shouldAutoCheck": true,
-  "pickyMode": false
+  "pickyMode": false,
+  "staticLanguage": "auto",
+  "ruleOtherCategories": "",
+  "ruleOtherDisabledRules": "",
+  "englishVeriety": "en-GB"
 }
