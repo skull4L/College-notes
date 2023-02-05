@@ -13,7 +13,6 @@
 
 ### Light-independent reaction
 * The second stage of photosynthesis, does not require light energy. AKA ==the Calvin cycle.== Cannot occur without the light-dependent reaction.
-![[Pasted image 20221025131157.png]]
 
 ## Chloroplasts
 * Flattened organelles with ==double membrane== where photosynthesis occurs.

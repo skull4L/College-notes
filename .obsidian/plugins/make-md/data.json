@@ -12,11 +12,11 @@
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "spacesCompactMode": false,
-  "spacesEnabled": true,
+  "spacesEnabled": false,
   "spacesPerformance": true,
-  "enableFolderNote": true,
+  "enableFolderNote": false,
   "revealActiveFile": false,
-  "spacesStickers": true,
+  "spacesStickers": false,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "sidebarTabs": true,
@@ -25,17 +25,15 @@
   "expandedFolders": {
     "/": [
       "Biology/(7) Genetics and Ecosystems/Populations in ecosystems",
-      "Aber entry exams/Environmental sciences essays",
       "Geography/Component 3",
-      "Aber entry exams",
       "Geology/(F1) Elements, minerals and rocks",
-      "Geography"
+      "Aber entry exams/Exam papers"
     ]
   },
   "expandedSpaces": [
     null,
-    "/",
-    null
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
