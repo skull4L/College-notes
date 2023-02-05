@@ -29,13 +29,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83a317150263ac6f",
+            "id": "2c1c2a5928c6afb2",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "mk-file-view",
+              "state": {}
             }
           },
           {
@@ -44,11 +42,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
-                "matchingCase": true,
+                "query": "tag:#test",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83a317150263ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -60,20 +68,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "2e6c4a498e3bcdb7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 760.5
+    "width": 531.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -92,10 +92,10 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -106,7 +106,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -161,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83a317150263ac6f",
+  "active": "2c1c2a5928c6afb2",
   "lastOpenFiles": [
-    "Biology/Starter questions.md",
-    "Biology/Biology.md",
-    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+    "Aber entry exams/Environmental sciences essays/Untitled.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "t.md",
+    "Context/#test.mdb",
+    "Context/context.mdb",
+    "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Aber entry exams/context.mdb",
-    "Aber entry exams/Environmental sciences essays/context.mdb",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md"
   ]
 }
