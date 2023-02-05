@@ -20,7 +20,7 @@
 ### Habitat
 - The place where an organism can be naturally found
 - It is characterised by the physical conditions by the physical conditions that an organism is most suited to
-- Within an ecosystem there are many habitats such as:
+- Within an ecosystem, there are many habitats such as:
     - Leaf litter
     - Tree canopy
     - Pond
@@ -28,6 +28,6 @@
 
 ### Ecological niche
 - How an organism fits into an environment
-- Describes where it lives and what it does in the ecosystem 
+- describes where it lives and what it does in the ecosystem 
 - No 2 species in an ecosystem can occupy the same ecological niche. This is known as the competitive exclusion principle
 
