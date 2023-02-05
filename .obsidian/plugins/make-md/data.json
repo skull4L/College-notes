@@ -24,15 +24,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "/": [
-      "Aber entry exams/Exam papers",
-      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems",
-      "/"
+      "Biology",
+      "Biology/(7) Genetics and Ecosystems",
+      "Biology/(7) Genetics and Ecosystems/Populations in ecosystems"
     ]
   },
   "expandedSpaces": [
-    "/",
     null,
-    null
+    null,
+    "/"
   ],
   "folderRank": {
     "node": "root",
@@ -54,7 +54,7 @@
     "mdb"
   ],
   "vaultSort": [
-    "rank",
+    "path",
     true
   ],
   "newFileLocation": "current"
