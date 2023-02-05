@@ -11,12 +11,8 @@
             "id": "1e1625a586988b70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,15 +165,15 @@
   },
   "active": "2c1c2a5928c6afb2",
   "lastOpenFiles": [
-    "t.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "t.md",
     "Context/#test.mdb",
     "Context/context.mdb",
     "Geology/(T3) Quaternary Geology/Quaternary dating techniques.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md"
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/context.mdb"
   ]
 }
