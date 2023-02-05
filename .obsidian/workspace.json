@@ -11,8 +11,13 @@
             "id": "1e1625a586988b70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/_Index_of_(4) Genetic information, variation and relationships between organisms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -42,8 +47,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
-                "matchingCase": false,
+                "query": "_Index",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/_Index_of_(4) Genetic information, variation and relationships between organisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/_Index_of_(4) Genetic information, variation and relationships between organisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(4) Genetic information, variation and relationships between organisms/_Index_of_(4) Genetic information, variation and relationships between organisms.md"
+              }
             }
           },
           {
@@ -160,12 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e1625a586988b70",
+  "active": "060b8c5f3ce6dabd",
   "lastOpenFiles": [
-    "Geography/Component 3/Section B - Contemporary Themes/_Index_of_Section B - Contemporary Themes.md",
     "Geography/_Index_of_Geography.md",
-    "Context/_Index_of_Context.md",
     "_Index_of_College-notes.md",
+    "Geography/Component 3/Section B - Contemporary Themes/_Index_of_Section B - Contemporary Themes.md",
+    "Context/_Index_of_Context.md",
     "Biology/_Index_of_Biology.md",
     "Aber entry exams/Exam papers/_Index_of_Exam papers.md",
     "Biology/(7) Genetics and Ecosystems/_Index_of_(7) Genetics and Ecosystems.md",
