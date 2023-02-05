@@ -6,11 +6,11 @@
   "obsidian-image-toolkit",
   "mousewheel-image-zoom",
   "table-editor-obsidian",
-  "obsidian-textgenerator-plugin",
   "make-md",
   "omnisearch",
   "obsidian-languagetool-plugin",
   "obsidian-completr",
   "obsidian-table-generator",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "editing-toolbar"
 ]
