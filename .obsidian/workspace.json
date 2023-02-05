@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/_Index_of_Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 760.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -94,11 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/_Index_of_Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -111,9 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "file": "Biology/_Index_of_Biology.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
+                "file": "Biology/_Index_of_Biology.md"
               }
             }
           },
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e572e65b1abb1020",
+  "active": "1e1625a586988b70",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Chi-squared test.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Biology/Untitled.md",
-    "Aber entry exams/Environmental sciences essays/Untitled.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "t.md"
+    "Aber entry exams/Exam papers/_Index_of_Exam papers.md",
+    "Biology/(7) Genetics and Ecosystems/_Index_of_(7) Genetics and Ecosystems.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/_Index_of_Genetics.md",
+    "Biology/_Index_of_Biology.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/_Index_of_(4) Genetic information, variation and relationships between organisms.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/_Index_of_Biodiversity.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+    "Biology/(5) Energy Transfers/_Index_of_(5) Energy Transfers.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/_Index_of_Photosynthesis.md",
+    "Biology/Essays/_Index_of_Essays.md"
   ]
 }
