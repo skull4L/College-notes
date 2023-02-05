@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+                "file": "Aber entry exams/Environmental sciences essays.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+                "file": "Aber entry exams/Environmental sciences essays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+                "file": "Aber entry exams/Environmental sciences essays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,11 +184,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md"
+                "file": "Aber entry exams/Environmental sciences essays.md"
               }
             }
+          },
+          {
+            "id": "e50034d8f0f50e9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -214,6 +223,8 @@
   },
   "active": "e723871b025ded8f",
   "lastOpenFiles": [
+    "Aber entry exams/Environmental sciences essays/Untitled.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
     "Aber entry exams/Environmental sciences essays.md",
     "conflict-files-obsidian-git.md",
     "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
@@ -221,8 +232,6 @@
     "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
     "Aber entry exams/Exam papers/Biology-2 2022.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2021.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2020.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2019.pdf"
+    "Aber entry exams/Exam papers/Biology-2 2021.pdf"
   ]
 }
