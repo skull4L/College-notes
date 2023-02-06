@@ -13,6 +13,7 @@ The nitrogen cycle shows how nitrogen is transferred between organisms and their
 - This releases the nutrients contained inside.
 - Saprobionts decompose the organisms' biomass by extracellular digestion and inorganic ammonium ions are released into the soil.
 - Ammonification is a by-product of saprobiont nutrition.
+
 ###### Nitrification
 - Ammonium ions that are released from ammonification are converted into nitrates by bacteria in the soil.
     - Nitrifying bacteria (e.g. _Nitrosomonas_) firstly convert NH4+ ions to nitrites.
@@ -25,11 +26,9 @@ The nitrogen cycle shows how nitrogen is transferred between organisms and their
 ![](https://image-v2.cdn.app.senecalearning.com/2018-11/22b11fd5-08ec-46a7-a560-24e2645fc272/nitrogen-cycle-,f_cover,h_400,w_600.png)
 ## Saprobionts
 - Saprobionts are microorganisms (e.g. bacteria and fungi) that feed on dead or decaying organic matter. Saprobionts play an important role in decomposition and in recycling nutrients.
-
 ###### Importance
 - Nutrient recycling is an important process in ecosystems because it allows the nutrients to be continuously reused.
 - Nutrients are recycled in the nitrogen cycle by saprobionts.
-
 ###### Saprobiont nutrition
 - Saprobionts secrete enzymes onto the dead organic matter. This is called extracellular digestion.
     - The enzymes break down large, insoluble molecules into smaller, soluble molecules.

@@ -271,6 +271,7 @@ BdY
 Bpt
 Bde
 Bacteria
+Breakdown
 environments
 effect
 ecosystem
@@ -665,6 +666,7 @@ emission
 effective
 easily
 extracellular
+extend
 create
 concrete
 climate
@@ -1808,6 +1810,8 @@ recommend
 relatively
 relationship
 recycling
+relationships
+reuse
 of
 on
 out
@@ -3097,6 +3101,7 @@ invasive
 industrialized
 inhabiting
 insoluble
+influence
 due
 deforestation
 devastating
@@ -4180,6 +4185,8 @@ method
 methods
 mutualistic
 microorganisms
+micoorganisms
+mycorrhizae
 such
 soils
 some
@@ -4635,6 +4642,7 @@ saprobionts
 saprobiont
 soluble
 store
+symbiotic
 as
 absorbing
 against
@@ -5028,6 +5036,8 @@ absorbs
 alfalfa
 ammonium
 ammonification
+associate
+assimilated
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -5300,6 +5310,7 @@ MMrF
 MUk
 MSM
 Mmp
+Mycorrhizae
 Shock
 Shutters
 Soils
@@ -6379,6 +6390,7 @@ papers
 plan
 post
 peas
+phosphorus
 Diverting
 Deforestation
 Description
@@ -7198,6 +7210,7 @@ hCSjI
 hpO
 hqF
 hgdshgdshdhsdghsghdgshdgshdgshgdhsgdhsgdhgsdhs
+hyphae
 It
 In
 InstanceID
@@ -7771,6 +7784,7 @@ FBduS
 FiT
 FWo
 FtQ
+Function
 will
 which
 web
@@ -10051,6 +10065,7 @@ HIo
 HsN
 HGp
 Hydra
+Hyphae
 quickly
 quality
 qs
@@ -11173,6 +11188,7 @@ uiJu
 uRG
 uat
 unable
+uptake
 On
 Overall
 ObjStm
@@ -11949,6 +11965,8 @@ PwT
 Pdo
 PiP
 Please
+Phosphorus
+Phosphate
 Length
 Library
 LEn
@@ -13232,6 +13250,7 @@ UEabd
 UEUEcc
 UEUid
 Untitled
+Uptake
 yk
 yq
 yL
