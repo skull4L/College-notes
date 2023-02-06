@@ -1,3 +1,4 @@
+#biology
 - Inheritance of 2 characteristics, determined by 2 different genes located on different chromosomes
 
 - Mendel investigated inheritance further by observing 2 characteristics of the pea plants.

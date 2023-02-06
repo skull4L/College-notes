@@ -1,3 +1,4 @@
+#biology
 - The interaction of different gene loci where 1 gene locus suppresses the expression of another gene locus
 - One gene will suppress the expression of another
 

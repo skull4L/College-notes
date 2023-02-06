@@ -1,3 +1,4 @@
+#biology
 - Glycogenesis - Glucose is converted to glycogen
 - Glycogenolysis - Glycogen is converted into glucose
 - Gluconeogenesis - Non carbohydrates are converted into glucose
@@ -14,3 +15,6 @@
 ![[Pasted image 20221129130900.png]]
 
 ![[Pasted image 20221129134010.png]]
+
+---
+[[Introduction to homeostasis]]

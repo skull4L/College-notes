@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Biology",
+      "color": {
+        "a": 1,
+        "rgb": 2928437
+      }
+    },
+    {
+      "query": "path:Geology",
+      "color": {
+        "a": 1,
+        "rgb": 15119692
+      }
+    },
+    {
+      "query": "path:Geography",
+      "color": {
+        "a": 1,
+        "rgb": 4797873
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 11537420
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32747436447032763,
-  "close": false
+  "scale": 0.2976907901808,
+  "close": true
 }

@@ -1,12 +1,13 @@
+#biology
 ### Hardy-Weinberg principal
 - Discovered by GH Hardy and W Weinberg (1908)
-    ''Heterozygotes are reservoirs of genetic variation''
+    ''[[Studying Inheritance#Heterozygous|Heterozygotes]] are reservoirs of genetic [[Natural Selection#Variation|variation]]''
 
-- If we look at a particular characteristic in a population, it seems the dominant form expresses itself more than the recessive one. It might be thought that in time the dominant form would predominate to the point where the recessive type disappeared from the population completely.
+- If we look at a particular characteristic in a population, it seems the [[Studying Inheritance#Dominant|dominant]] form expresses itself more than the [[Studying Inheritance|recessive]] one. It might be thought that in time the dominant form would predominate to the point where the recessive type disappeared from the population completely.
 - However, the Hardy-Weinberg principal suggests that the proportion of dominant and recessive alleles of a particular gene stays the same, it is not altered by interbreeding.
 - This mathematical law depends on 4 conditions being met:
     - No mutations arise
-    - The population is isolated so there is no flow of genes into or out of the population
+    - The population is isolated, so there is no flow of genes into or out of the population
     - There is no natural selection
     - The population is large so mating is random
 
@@ -15,10 +16,10 @@
 - The genes of any individual organism are capable of being combined with the gene of any other.
 
 ### Gene pool
-- The total of all genes in a population.
+- The total of all genes in a breeding population.
 
 ### Allele frequency
-- The number of times any one allele occurs.
+- The number of times any one allele occurs in a population.
 
 ## Equations
 ### Allele frequency

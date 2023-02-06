@@ -1,3 +1,4 @@
+#misc
 >Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.
 
 The biotic aspects of Earth have an enormous effect on atmospheric composition. This is mainly related to the ratio of oxygen to carbon dioxide. Carbon dioxide is the result of respiration in animals so the abundance of them increases co2's atmospheric percentage. Plants are also an important factor as they produce oxygen from carbon dioxide. These are the essential processes that are part of the biological carbon cycle. Ratios of plants to animals is an important biological factor in the way this cycle is balanced. Throughout geological time this has changed significantly, that I will illustrate later with examples.

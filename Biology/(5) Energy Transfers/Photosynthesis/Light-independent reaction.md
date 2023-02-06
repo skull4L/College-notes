@@ -1,3 +1,4 @@
+#biology
 - The products of the light-dependant reaction are used in the light-independent reaction to reduce glycerate 3-phosphate (GP)
 - The light-independent reaction does not require light energy but cannot occur without the light dependant reaction taking place
 - Takes place in the stroma of the chloroplast

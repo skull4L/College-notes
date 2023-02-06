@@ -1,3 +1,4 @@
+#biology
 - Skeletal muscles are ==antagonistic.== This means that they always occur in pairs that act against each other.
 - They can only contract and relax, ==they cannot push.==
 ![[Pasted image 20221114091500.png]]
@@ -61,7 +62,7 @@ Mitochondrial disease limits the production of ATP which is required for muscle 
 - Allows muscle contraction to occur a little longer
 - Phosphocreatine cannot supply energy directly to the muscle so instead it regenerated ATP which can.
 - Variations in levels of Phosphocreatine depend on the following factors:
-    - Genetics
+    - [[Natural Selection#Variation|Genetics]]
     - Fitness
     - Sex
     - Ethnicity

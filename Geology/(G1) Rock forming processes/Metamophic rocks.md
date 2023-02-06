@@ -1,3 +1,4 @@
+#geology
 - Meta means change, morph means form
 - A change in form of pre-existing rocks of all types. Sedimentary, igneous and metamorphic itself.
 - By the action of heat alone (contact)

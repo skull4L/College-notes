@@ -1,6 +1,7 @@
-- Environmental factors which create variation in a population can act as an agent for constancy or an agent for change.
+#biology
+- Environmental factors which create [[Natural Selection#Variation|variation]] in a population can act as an agent for constancy or an agent for change.
 - Within a population there will be a range of genetically different phenotypes, this forms a normal distribution curve
-- The main types of selection:
+- The main types of [[Natural Selection|selection]]:
     - Stabilising | favours the average phenotype
     - Directional | favours an extreme phenotype
     - Disruptive | favours 2 different extreme phenotypes, is the mechanism by which new species evolve.

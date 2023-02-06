@@ -1,3 +1,4 @@
+#biology
 The kidneys are an important organ involved with filtering out waste such as urea. They also regulate the water content in the blood, this is the process of osmoregulation.
 ![[Pasted image 20221212105918.png]]
 
@@ -24,3 +25,6 @@ placeholder
 - Receptors in the hypothalamus of the brain
 - Detect an increase or decrease in the water potential of the blood
 ![[Pasted image 20221214152627.png]]
+
+---
+[[Introduction to homeostasis]] 
