@@ -29,6 +29,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "83a317150263ac6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "2c1c2a5928c6afb2",
             "type": "leaf",
             "state": {
@@ -47,16 +57,6 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "83a317150263ac6f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -161,7 +161,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c1c2a5928c6afb2",
+  "active": "83a317150263ac6f",
   "lastOpenFiles": [
     "Aber entry exams/Environmental sciences essays/Untitled.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
