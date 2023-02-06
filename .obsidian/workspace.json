@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe2d73497e3a9332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 760.5
+    "width": 200
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md"
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md"
               }
             }
           },
@@ -171,17 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e49d137adc9419",
+  "active": "fe2d73497e3a9332",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
+    "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
     "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
     "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
     "conflict-files-obsidian-git.md",
     "Biology/Biology.md",
     "Biology/Starter questions.md",
     "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md"
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-dependent reaction.md"
   ]
 }

@@ -1,23 +1,23 @@
 #biology
-### Allele
+###### Allele
 - An alternative version of a gene
-### Gene
+###### Gene
 - Length of DNA that is a sequence of bases coding for a particular polypeptide.
-### Locus
+###### Locus
 - The location of a gene in a chromosome
-### Phenotype
+###### Phenotype
 - Observable characteristics of an organism
-### Genotype
+###### Genotype
 - The combination of all the alleles possessed by an organism
-### Dominant
+###### Dominant
 - Characteristic in which the allele responsible is expressed in the phenotype, even in those with heterozygous genotypes
-### Codominant
+###### Codominant
 - Both alleles contribute to the phenotype
-### Recessive
+###### Recessive
 - Allele that is only expressed when a dominant gene is not present.
-### Heterozygous
+###### Heterozygous
 - Alleles on the chromosome are different
-### Homozygous
+###### Homozygous
 - Alleles on the chromosome are the same
 
 ![[Pasted image 20230104160203.png]]

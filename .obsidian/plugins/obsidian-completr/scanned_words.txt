@@ -270,6 +270,7 @@ BLSU
 BdY
 Bpt
 Bde
+Bacteria
 environments
 effect
 ecosystem
@@ -663,6 +664,7 @@ enables
 emission
 effective
 easily
+extracellular
 create
 concrete
 climate
@@ -1132,6 +1134,7 @@ conflicts
 charcoal
 costly
 countries
+contained
 greater
 glass
 grow
@@ -1803,6 +1806,8 @@ rtu
 resolve
 recommend
 relatively
+relationship
+recycling
 of
 on
 out
@@ -2062,6 +2067,7 @@ oU
 oww
 olH
 obsidian
+onto
 loss
 life
 lava
@@ -2407,6 +2413,7 @@ lxA
 lvs
 lzE
 listed
+leguminous
 this
 to
 the
@@ -3088,6 +3095,8 @@ ivuu
 iLn
 invasive
 industrialized
+inhabiting
+insoluble
 due
 deforestation
 devastating
@@ -3462,6 +3471,10 @@ desired
 drink
 developing
 done
+decomposed
+decompose
+digestion
+decaying
 building
 broken
 biodiversity
@@ -3795,6 +3808,7 @@ bfd
 below
 becoming
 biology
+beans
 materials
 most
 medium
@@ -4164,6 +4178,8 @@ misc
 marshes
 method
 methods
+mutualistic
+microorganisms
 such
 soils
 some
@@ -4613,6 +4629,12 @@ shVS
 sciences
 strongly
 solve
+steps
+sugars
+saprobionts
+saprobiont
+soluble
+store
 as
 absorbing
 against
@@ -5003,6 +5025,9 @@ addd
 automatically
 available
 absorbs
+alfalfa
+ammonium
+ammonification
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -5590,6 +5615,8 @@ SdSA
 SaPU
 Science
 Source
+Saprobionts
+Saprobiont
 foundations
 flow
 forest
@@ -5922,6 +5949,14 @@ fffolderAber
 followed
 feature
 frosts
+four
+fixation
+fixing
+family
+faeces
+firstly
+fungi
+feed
 protecting
 particular
 provide
@@ -6343,6 +6378,7 @@ pxna
 papers
 plan
 post
+peas
 Diverting
 Deforestation
 Description
@@ -6622,6 +6658,8 @@ DUG
 Dux
 DQF
 DBBB
+Denitrification
+Denitrifying
 What
 Whats
 Word
@@ -8118,6 +8156,7 @@ wtu
 workspace
 winters
 works
+waterlogged
 namely
 note
 nutrients
@@ -8386,6 +8425,8 @@ nzk
 nSkh
 nNk
 nam
+nodules
+nutrition
 Amazon
 All
 Another
@@ -8898,6 +8939,9 @@ Aber
 Attachments
 Additional
 Anthropogenic
+Atmospheric
+Ammonification
+Ammonium
 Rainforest
 RDF
 Rw
@@ -9176,6 +9220,7 @@ RYg
 RJJ
 RJx
 RHx
+Rhizobia
 This
 Terra
 Trees
@@ -10560,6 +10605,11 @@ NoN
 NGC
 NyP
 Nameestmd
+Nitrification
+Nitrifying
+Nitrosomonas
+Nitrobacter
+Nutrients
 CO
 Core
 CreateDate
@@ -10847,6 +10897,7 @@ CvG
 Cwc
 CnG
 Conflicts
+Cycle
 useful
 usually
 us
@@ -12188,6 +12239,7 @@ Lkb
 Lnn
 LVk
 LWbk
+Leguminous
 XML
 XMP
 Xd
