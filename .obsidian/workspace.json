@@ -58,13 +58,8 @@
             "id": "9975bbfcdc2ff32e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -134,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,9 +203,9 @@
   },
   "active": "9975bbfcdc2ff32e",
   "lastOpenFiles": [
-    "Biology/Probability.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
+    "Biology/Probability.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Phosphorous cycle.md",
     "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
