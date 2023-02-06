@@ -1,3 +1,4 @@
+#geology
 - Minerals are natural chemical structures with set compositions and crystalline structures
 - Silicates are the most important rock forming minerals and contain silicon and oxygen
     - They form most rocks on earth

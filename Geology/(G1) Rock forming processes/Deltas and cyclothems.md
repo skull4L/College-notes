@@ -1,3 +1,4 @@
+#geology
 - Sediment gets finer grained further away from land. Different zones are characterised by different sedimentary facies.
 
 - Delta top

@@ -1,3 +1,4 @@
+#biology
 - Mendel predicted specific ratios
 | Ratio   | Description                                                                   |
 | ------- | ----------------------------------------------------------------------------- |

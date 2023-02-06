@@ -1,3 +1,4 @@
+#biology
 - Females are homogametic (XX)
 -  Males are heterogametic (XY)
 

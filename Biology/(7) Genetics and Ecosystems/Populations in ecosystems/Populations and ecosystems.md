@@ -1,3 +1,4 @@
+#biology
 - Ecology is the study of the interrelationships between organisms and their environment. This includes abiotic and biotic factors
 ### Ecosystems
 - Ecosystems are systems made up of both biotic and abiotic factors. Within an ecosystem there are 2 major processes

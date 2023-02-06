@@ -1,3 +1,4 @@
+#biology
 - Monohybrid inheritance is the the inheritance of one characteristic
     - Mendel studied this by crossing a pure breeding green pod with a pure breeding yellow pod. All the offspring in the F generation were all green pods. This showed that green pod alleles were dominant 
         - Pure breeding: Homozygous dominant or recessive.

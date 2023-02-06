@@ -1,3 +1,4 @@
+#geology
 ![[Pasted image 20230131144950.png]]
 ## The nature of rock deformation
 - The nature of rock deformation is determined by the competence of parent rock and conditions during deformation (temperature,confining pressure, strain rate)

@@ -1,3 +1,4 @@
+#geography
 - Premise:
     - Housing
     - Education

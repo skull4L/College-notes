@@ -1,3 +1,4 @@
+#biology
 - All chromosomes except the ones that determine sex
 - 2 or more genes can be carried on the same chromosome
 

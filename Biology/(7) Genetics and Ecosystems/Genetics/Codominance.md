@@ -1,3 +1,4 @@
+#biology
 - Both alleles are expressed in the phenotype.
 - A genetic cross was carried out between snapdragon with red flowers and one with white flowers
     Cr = Red pigment production
