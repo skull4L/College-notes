@@ -1137,6 +1137,9 @@ charcoal
 costly
 countries
 contained
+crops
+crop
+composted
 greater
 glass
 grow
@@ -1812,6 +1815,8 @@ relationship
 recycling
 relationships
 reuse
+replacing
+reaching
 of
 on
 out
@@ -2072,6 +2077,8 @@ oww
 olH
 obsidian
 onto
+overflow
+overgrowth
 loss
 life
 lava
@@ -2418,6 +2425,9 @@ lvs
 lzE
 listed
 leguminous
+livestock
+leads
+leach
 this
 to
 the
@@ -2765,6 +2775,8 @@ toUU
 tzwww
 tab
 treating
+two
+too
 is
 impacts
 in
@@ -3102,6 +3114,7 @@ industrialized
 inhabiting
 insoluble
 influence
+insufficient
 due
 deforestation
 devastating
@@ -3480,6 +3493,7 @@ decomposed
 decompose
 digestion
 decaying
+depleted
 building
 broken
 biodiversity
@@ -3814,6 +3828,7 @@ below
 becoming
 biology
 beans
+beneath
 materials
 most
 medium
@@ -4187,6 +4202,8 @@ mutualistic
 microorganisms
 micoorganisms
 mycorrhizae
+maximise
+manure
 such
 soils
 some
@@ -4643,6 +4660,8 @@ saprobiont
 soluble
 store
 symbiotic
+slaughter
+specifically
 as
 absorbing
 against
@@ -5038,6 +5057,7 @@ ammonium
 ammonification
 associate
 assimilated
+accumulate
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -5968,6 +5988,8 @@ faeces
 firstly
 fungi
 feed
+fertilisers
+fertiliser
 protecting
 particular
 provide
@@ -6391,6 +6413,10 @@ plan
 post
 peas
 phosphorus
+phosphates
+ponds
+prevented
+photosynthesise
 Diverting
 Deforestation
 Description
@@ -7211,6 +7237,9 @@ hpO
 hqF
 hgdshgdshdhsdghsghdgshdgshdgshgdhsgdhsgdhgsdhs
 hyphae
+harvesting
+harvest
+happen
 It
 In
 InstanceID
@@ -7484,6 +7513,8 @@ IN
 IUq
 Impacts
 Instructions
+Increasing
+Increase
 For
 Filter
 FlateDecode
@@ -7785,6 +7816,7 @@ FiT
 FWo
 FtQ
 Function
+Fertilisers
 will
 which
 web
@@ -8441,6 +8473,8 @@ nNk
 nam
 nodules
 nutrition
+nitrate
+numbers
 Amazon
 All
 Another
@@ -8956,6 +8990,10 @@ Anthropogenic
 Atmospheric
 Ammonification
 Ammonium
+Agricultural
+Agriculture
+Artificial
+Algal
 Rainforest
 RDF
 Rw
@@ -9235,6 +9273,7 @@ RJJ
 RJx
 RHx
 Rhizobia
+Removing
 This
 Terra
 Trees
@@ -9517,6 +9556,7 @@ TwJ
 Tc
 TZQ
 TkC
+Types
 vegetation
 very
 via
@@ -10625,6 +10665,7 @@ Nitrifying
 Nitrosomonas
 Nitrobacter
 Nutrients
+Natural
 CO
 Core
 CreateDate
@@ -11189,6 +11230,7 @@ uRG
 uat
 unable
 uptake
+underneath
 On
 Overall
 ObjStm
@@ -11967,6 +12009,7 @@ PiP
 Please
 Phosphorus
 Phosphate
+Plant
 Length
 Library
 LEn
@@ -12258,6 +12301,7 @@ Lnn
 LVk
 LWbk
 Leguminous
+Leaching
 XML
 XMP
 Xd
@@ -13251,6 +13295,7 @@ UEUEcc
 UEUid
 Untitled
 Uptake
+Using
 yk
 yq
 yL
@@ -13461,6 +13506,7 @@ yTan
 ycA
 yUb
 yjF
+yields
 ZD
 Zmr
 Zj
@@ -14565,6 +14611,7 @@ EzbQ
 EQp
 Ehy
 Exam
+Eutrophication
 QJ
 QZ
 QB
