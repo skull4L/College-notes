@@ -1145,6 +1145,8 @@ curves
 colony
 chose
 compete
+collapse
+continues
 greater
 glass
 grow
@@ -2089,6 +2091,7 @@ obsidian
 onto
 overflow
 overgrowth
+overabundance
 loss
 life
 lava
@@ -2440,6 +2443,7 @@ leads
 leach
 logarithmic
 links
+limit
 this
 to
 the
@@ -3131,6 +3135,7 @@ insufficient
 impossible
 introduced
 intensity
+indefinitely
 due
 deforestation
 devastating
@@ -4688,6 +4693,8 @@ summer
 situation
 shorter
 slows
+stop
+stabilise
 as
 absorbing
 against
