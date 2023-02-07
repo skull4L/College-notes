@@ -1,3 +1,4 @@
+#misc 
 Freshwater Hydra is a fascinating species of a freshwater invertebrate that belongs to the phylum Cnidaria and the class Hydrozoa. These tiny creatures are often overlooked but play a significant role in freshwater ecosystems. They are commonly found in ponds, lakes, and slow-moving streams, and are known for their ability to regenerate lost body parts and their simple yet complex life cycle.
 
 The freshwater hydra is a small, cylindrical creature that ranges in length from 5-50 mm, with a diameter of about 1-3 mm. Its body is transparent and has a simple structure, consisting of an outer layer of epithelial cells, a middle layer of muscle cells, and an inner layer of endodermal cells. The body of the freshwater hydra is supported by a stiff, non-contractile, tubular structure called the axial filament, which runs the length of the body.
