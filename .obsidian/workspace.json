@@ -92,9 +92,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d4cd488d6a4777f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
+                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
+                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md"
+                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md"
               }
             }
           },
@@ -244,8 +257,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4241bd968d4a94cd",
+  "active": "2d4cd488d6a4777f",
   "lastOpenFiles": [
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
     "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
     "Aber entry exams/Biology essays/Phage essay ChatGPT.md",
     "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
@@ -254,7 +268,6 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
+    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md"
   ]
 }
