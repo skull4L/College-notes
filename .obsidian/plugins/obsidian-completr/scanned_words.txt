@@ -1143,6 +1143,8 @@ crop
 composted
 curves
 colony
+chose
+compete
 greater
 glass
 grow
@@ -1824,6 +1826,7 @@ relationships
 reuse
 replacing
 reaching
+reproduces
 of
 on
 out
@@ -3126,6 +3129,8 @@ insoluble
 influence
 insufficient
 impossible
+introduced
+intensity
 due
 deforestation
 devastating
@@ -3505,6 +3510,8 @@ decompose
 digestion
 decaying
 depleted
+deeper
+duration
 building
 broken
 biodiversity
@@ -4676,6 +4683,11 @@ store
 symbiotic
 slaughter
 specifically
+surplus
+summer
+situation
+shorter
+slows
 as
 absorbing
 against
@@ -5072,6 +5084,7 @@ ammonification
 associate
 assimilated
 accumulate
+asexual
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -5345,6 +5358,7 @@ MUk
 MSM
 Mmp
 Mycorrhizae
+Mineral
 Shock
 Shutters
 Soils
@@ -6437,6 +6451,9 @@ photosynthesise
 plot
 plotting
 progresses
+pond
+plenty
+preventing
 Diverting
 Deforestation
 Description
@@ -6954,6 +6971,7 @@ WlT
 WHe
 WSn
 WLC
+Winter
 has
 happens
 humid
@@ -8223,6 +8241,7 @@ workspace
 winters
 works
 waterlogged
+wind
 namely
 note
 nutrients
@@ -11487,6 +11506,7 @@ OfV
 Omo
 OGv
 OIN
+Other
 keeps
 knock
 kJ

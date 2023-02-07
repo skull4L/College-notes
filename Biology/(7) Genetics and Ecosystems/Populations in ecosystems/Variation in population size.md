@@ -25,3 +25,7 @@
     • The population becomes so large that the bacteria at the surface prevent light reaching chose at deeper levels. 
     • Other species are introduced into the pond, carried by animals or the wind, and some of these species may use the bacteria as food or compete for light or minerals.
     • Winter brings much lower temperatures and lower light intensity of shorter duration.
+- The population growth slows over time and may stop completely. This can be linked to the process of [[Fertilisers & eutrophication#Eutrophication|eutrophication]] where an overabundance of nutrients leads to an overpopulation of aerobic bacteria which eventually leads to the collapse.
+- Population may eventually stabilise as conditions become more stable and a combination of biotic and abiotic factors limit population growth
+- This means that no population continues to grow indefinitely because of limiting factors in the environment. Each population has a [[Populations and ecosystems#Populations|carrying capacity]] which limits its total size
+- 
