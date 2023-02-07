@@ -13,5 +13,6 @@
   "obsidian-table-generator",
   "obsidian-spaced-repetition",
   "editing-toolbar",
-  "link-headers-directly"
+  "link-headers-directly",
+  "text-extractor"
 ]

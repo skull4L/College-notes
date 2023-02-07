@@ -20,8 +20,23 @@
 ###### Example
 - A single celled photosynthetic bacterial cell capable of asexual reproduction is introduced to a new pond with a surplus of mineral nutrients, plenty of light and an ideal temperature (summer)
 - In this situation the bacteria reproduces quickly as there are no limiting factors preventing the colony from growing.
+
 - This changes over time
     • Mineral ions are consumed as the population becomes larger. 
     • The population becomes so large that the bacteria at the surface prevent light reaching chose at deeper levels. 
     • Other species are introduced into the pond, carried by animals or the wind, and some of these species may use the bacteria as food or compete for light or minerals.
     • Winter brings much lower temperatures and lower light intensity of shorter duration.
+- The population growth slows over time and may stop completely. This can be linked to the process of [[Fertilisers & eutrophication#Eutrophication|eutrophication]] where an overabundance of nutrients leads to an overpopulation of aerobic bacteria which eventually leads to the collapse.
+- Population may eventually stabilise as conditions become more stable and a combination of biotic and abiotic factors limit population growth
+- This means that no population continues to grow indefinitely because of limiting factors in the environment. Each population has a [[Populations and ecosystems#Populations|carrying capacity]] which limits its total size
+
+## Abiotic factors affecting population size
+- Temperature
+    - Each species has a different optimum temperature that it is suited for. The further away from this optimum, the fewer individuals can survive. At lower temps metabolic processes slow down which leads to a lower carrying capacity and at higher temps enzymes denature making them less efficient, leading to the same thing.
+- Light 
+    - The rate of photosynthesis is controlled by light intensity. Less light means less photosynthesis which leads to less plant growth. This puts a limit on food sources for primary consumers which decreases the carrying capacity.
+- pH
+    - Affects enzyme action, outside of optimum pH enzymes begin to denature which makes them less efficient. more optimum pH leads to faster metabolic rate which means that organisms can reproduce faster leading to higher populations.
+- Water and humidity
+    - Where water is scarce, populations are small and consist only of species that are well adapted to living in dry conditions. Humidity affects transpiration rates in plants
+- In conclusion, when any abiotic factor is below its optimum a population is limited in size as less individuals have the necessary adaptation for survival.
