@@ -38,4 +38,5 @@
 - pH
     - Affects enzyme action, outside of optimum pH enzymes begin to denature which makes them less efficient. more optimum pH leads to faster metabolic rate which means that organisms can reproduce faster leading to higher populations.
 - Water and humidity
-    - 
+    - Where water is scarce, populations are small and consist only of species that are well adapted to living in dry conditions. Humidity affects transpiration rates in plants
+- In conclusion, when any abiotic factor is below its optimum a population is limited in size as less individuals have the necessary adaptation for survival.
