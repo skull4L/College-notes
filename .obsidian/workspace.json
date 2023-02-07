@@ -27,6 +27,14 @@
             "id": "cf2d31885af26071",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c651c22dbb3424ae",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
@@ -35,9 +43,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bbb3b01a0924bf4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Aber entry exams/Exam papers/Biology-2 2018.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
+                "file": "Aber entry exams/Exam papers/Biology-2 2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
+                "file": "Aber entry exams/Exam papers/Biology-2 2018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md"
+                "file": "Aber entry exams/Exam papers/Biology-2 2018.pdf"
               }
             }
           },
@@ -160,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,17 +197,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf2d31885af26071",
+  "active": "6bbb3b01a0924bf4",
   "lastOpenFiles": [
-    "Aber entry exams/Biology essays/Hydra essay plan.canvas",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
-    "Biology/Intervention/12.12.22 - Photosysnthesis.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md"
+    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2020.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2021.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2022.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2022.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
+    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
+    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md"
   ]
 }
