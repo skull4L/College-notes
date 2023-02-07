@@ -1,3 +1,4 @@
+#misc 
 Water quality in rivers is an important aspect of the environment as it affects the health and wellbeing of humans, wildlife and the overall ecosystem. Pollution is a major factor that negatively impacts water quality, leading to a range of negative effects including contamination of drinking water, harm to aquatic life, and degradation of the environment.
 
 There are many sources of pollution that can affect water quality in rivers. Some of the main sources of water pollution include:

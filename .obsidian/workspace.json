@@ -74,12 +74,9 @@
             "id": "3cc08dae9f0c3d29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Aber entry exams/Exam papers/Environmental-Science 2021.pdf"
               }
             }
           }
@@ -134,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 200
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -150,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
+                "file": "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
+                "file": "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md"
+                "file": "Aber entry exams/Exam papers/Environmental-Science 2021.pdf"
               }
             }
           },
@@ -228,15 +225,15 @@
   },
   "active": "3cc08dae9f0c3d29",
   "lastOpenFiles": [
-    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-    "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
     "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
+    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
+    "Aber entry exams/Biology essays/Phage essay ChatGPT.md",
     "Aber entry exams/Biology essays/Nitrogen cycle essay ChatGPT.md",
     "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2020.pdf"
+    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
+    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
+    "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
   ]
 }
