@@ -99,7 +99,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
+                "file": "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d4cf902baf9ab95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G3) Past life and past climates/Geological time.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
+                "file": "Geology/(G3) Past life and past climates/Geological time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
+                "file": "Geology/(G3) Past life and past climates/Geological time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md"
+                "file": "Geology/(G3) Past life and past climates/Geological time.md"
               }
             }
           },
@@ -257,8 +270,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d4cd488d6a4777f",
+  "active": "3d4cf902baf9ab95",
   "lastOpenFiles": [
+    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
+    "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
     "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
     "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
     "Aber entry exams/Biology essays/Phage essay ChatGPT.md",
@@ -266,8 +281,6 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md"
   ]
 }

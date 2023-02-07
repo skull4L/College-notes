@@ -4212,6 +4212,7 @@ eliminates
 erosion
 einkorn
 enables
+emitted
 create
 concrete
 climate
@@ -7157,6 +7158,7 @@ contributes
 crop
 creation
 cows
+clouds
 greater
 glass
 grow
@@ -9349,6 +9351,10 @@ generations
 goat
 grass
 geographic
+gases
+gradually
+greenhouse
+ground
 risk
 rigidity
 rubber
@@ -11676,6 +11682,8 @@ ripple
 regulating
 reforestation
 repeatedly
+ruminant
+rice
 of
 on
 out
@@ -13874,6 +13882,9 @@ overstated
 ongoing
 overlooked
 outer
+overall
+ozone
+oxides
 loss
 life
 lava
@@ -16482,6 +16493,7 @@ limit
 logging
 lead
 landscape
+landfills
 this
 to
 the
@@ -21997,6 +22009,8 @@ indicates
 incredible
 impacted
 implementation
+inhabit
+instrumental
 due
 deforestation
 devastating
@@ -29544,6 +29558,8 @@ mitigate
 meat
 milk
 marshes
+methane
+microbes
 such
 soils
 some
@@ -32522,6 +32538,10 @@ selected
 sets
 selecting
 sterile
+sunlight
+sheep
+stratosphere
+smog
 as
 absorbing
 against
@@ -34851,6 +34871,7 @@ amount
 altering
 artificially
 aestivum
+alters
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -37153,6 +37174,7 @@ Microorganisms
 Moreover
 Milky
 Modern
+Methane
 Shock
 Shutters
 Soils
@@ -44337,6 +44359,10 @@ preservation
 practices
 programs
 pertners
+proportional
+potent
+paddies
+pollutant
 Diverting
 Deforestation
 Description
@@ -51660,6 +51686,7 @@ haploid
 hybrid
 homolougous
 hybridisation
+helped
 It
 In
 InstanceID
@@ -58883,6 +58910,7 @@ workings
 wood
 wheat
 wild
+wetlands
 namely
 note
 nutrients
@@ -66199,6 +66227,7 @@ RnJ
 RVL
 Rhizobia
 Rhinella
+Respiration
 This
 Terra
 Trees
@@ -68599,6 +68628,7 @@ TFd
 Toads
 Taxonomy
 Triticum
+Through
 vegetation
 very
 via
@@ -70980,6 +71010,7 @@ viewing
 vocalizations
 variability
 valuable
+volatile
 Heavy
 Hancock
 Hq
@@ -77980,6 +78011,7 @@ Nitrification
 Nitrosomonas
 Nitrobacter
 Nitrifying
+NOx
 CO
 Core
 CreateDate
@@ -109340,6 +109372,7 @@ VISx
 VkTm
 VkYkY
 VHLlTA
+VOCs
 jk
 jh
 jj
