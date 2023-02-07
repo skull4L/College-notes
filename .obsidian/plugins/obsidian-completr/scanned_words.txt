@@ -4230,6 +4230,8 @@ eIF
 ealDVRT
 ehGl
 eYH
+eons
+eras
 create
 concrete
 climate
@@ -16537,6 +16539,7 @@ lLu
 luaJ
 lFa
 lAy
+longest
 this
 to
 the
@@ -29621,6 +29624,7 @@ microbes
 mOm
 moD
 mqJI
+measurable
 such
 soils
 some
@@ -37256,6 +37260,7 @@ MXO
 MhNHR
 MoL
 Mrc
+Mesozoic
 Shock
 Shutters
 Soils
@@ -39562,6 +39567,7 @@ SnsZ
 SHc
 SDO
 Sql
+Silurian
 foundations
 flow
 forest
@@ -44466,6 +44472,7 @@ pyEz
 pFA
 pBKQM
 pMf
+periods
 Diverting
 Deforestation
 Description
@@ -46948,6 +46955,7 @@ DNL
 DDDDDDDDDDDDDDDDDDDD
 DpSGRP
 Dbe
+Devonian
 What
 Whats
 Word
@@ -68801,6 +68809,7 @@ TFT
 TCx
 TGH
 TLL
+Triassic
 vegetation
 very
 via
@@ -73218,6 +73227,7 @@ Hst
 HShV
 HCb
 HKbhfJd
+Hadean
 quickly
 quality
 qs
@@ -78212,6 +78222,7 @@ NlBO
 NimKOE
 NUj
 NZBJ
+Neogene
 CO
 Core
 CreateDate
@@ -80182,6 +80193,9 @@ Cvrd
 CmKV
 CRl
 CmZz
+Cenozoic
+Cretaceous
+Conditions
 useful
 usually
 us
@@ -84812,6 +84826,7 @@ OqH
 OAy
 OVbviB
 OMh
+Ordovician
 keeps
 knock
 kJ
@@ -90435,6 +90450,13 @@ PRNU
 PCb
 PqX
 PVr
+Precambrian
+Phanerozoic
+Periods
+Proterozoic
+Palaezoic
+Permian
+Palaeogene
 Length
 Library
 LEn
@@ -114175,6 +114197,8 @@ EXP
 EgDW
 EfFF
 EyF
+Eons
+Eras
 QJ
 QZ
 QB
@@ -116499,6 +116523,7 @@ QaHy
 QCEEZ
 QVv
 QzS
+Quaternary
 GWgw
 GI
 GA
@@ -125761,6 +125786,7 @@ JNt
 JOw
 JTEW
 JcdZ
+Jurassic
 äv
 äY
 äm
