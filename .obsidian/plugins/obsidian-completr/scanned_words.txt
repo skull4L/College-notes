@@ -4188,6 +4188,7 @@ eGE
 etY
 eege
 erZu
+ensure
 create
 concrete
 climate
@@ -7090,6 +7091,11 @@ commands
 completr
 conflicted
 conflicts
+continuous
+crucial
+converting
+constantly
+cycled
 greater
 glass
 grow
@@ -13764,6 +13770,7 @@ ohiL
 ocq
 ooo
 obsidian
+oxidize
 loss
 life
 lava
@@ -16361,6 +16368,7 @@ leX
 logarithmic
 links
 listed
+leguminous
 this
 to
 the
@@ -18959,6 +18967,7 @@ tDWE
 treating
 tpc
 table
+third
 is
 impacts
 in
@@ -21838,6 +21847,9 @@ iiV
 impossible
 introduced
 intensity
+interrelated
+incorporating
+incorporate
 due
 deforestation
 devastating
@@ -24453,6 +24465,10 @@ deeper
 duration
 deleted
 desired
+decomposed
+decomposer
+denitrification
+denitrifying
 building
 broken
 biodiversity
@@ -32260,6 +32276,9 @@ situation
 shorter
 scanned
 strongly
+steps
+synthesize
+sediments
 as
 absorbing
 against
@@ -34564,6 +34583,12 @@ aOx
 aWeG
 asexual
 automatically
+ammonium
+ability
+ammonification
+animal
+anew
+assimilation
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -36862,6 +36887,7 @@ MlF
 MMVS
 MIr
 Mineral
+Microorganisms
 Shock
 Shutters
 Soils
@@ -41578,6 +41604,11 @@ fcKih
 faRM
 figure
 followed
+fungi
+fixation
+fixing
+free
+fourth
 protecting
 particular
 provide
@@ -43990,6 +44021,8 @@ pond
 plenty
 preventing
 plugins
+performed
+perform
 Diverting
 Deforestation
 Description
@@ -46463,6 +46496,8 @@ Darken
 DDDDDDD
 DwW
 DZAZN
+Denitrification
+During
 What
 Whats
 Word
@@ -58502,6 +58537,7 @@ wMJ
 wind
 words
 workspace
+waterlogged
 namely
 note
 nutrients
@@ -60870,6 +60906,11 @@ nefR
 nxZxfdf
 nvml
 nGzV
+nitrogenase
+nodules
+next
+nitrification
+nitrifying
 Amazon
 All
 Another
@@ -63391,6 +63432,9 @@ ATSBOY
 AHVn
 AhXk
 Additional
+Azotobacter
+Ammonification
+Assimilation
 Rainforest
 RDF
 Rw
@@ -65795,6 +65839,7 @@ RwS
 RIT
 RnJ
 RVL
+Rhizobia
 This
 Terra
 Trees
@@ -77561,6 +77606,10 @@ NIIe
 NNsTK
 NVxn
 NUQU
+Nitrification
+Nitrosomonas
+Nitrobacter
+Nitrifying
 CO
 Core
 CreateDate
@@ -79520,6 +79569,7 @@ CCC
 CLh
 Csh
 Conflicts
+Cycle
 useful
 usually
 us
@@ -81957,6 +82007,7 @@ unable
 uTPi
 uktc
 utrtw
+usable
 On
 Overall
 ObjStm
@@ -89731,6 +89782,8 @@ Piok
 PVH
 Plotting
 Please
+Pseudomonas
+Paracoccus
 Length
 Library
 LEn
