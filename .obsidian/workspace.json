@@ -47,7 +47,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4803061b55d390af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e41fe3d3b5f3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md"
               }
             }
           },
@@ -205,17 +231,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48405910f981ac1f",
+  "active": "02e41fe3d3b5f3e6",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
     "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
     "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
     "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
     "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Nitrogen cycle essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md"
+    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md"
   ]
 }
