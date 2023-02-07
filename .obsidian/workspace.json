@@ -58,8 +58,13 @@
             "id": "9975bbfcdc2ff32e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -92,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#geology",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 602.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -129,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md"
+              }
             }
           },
           {
@@ -203,15 +212,15 @@
   },
   "active": "9975bbfcdc2ff32e",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
     "Biology/Probability.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Phosphorous cycle.md",
     "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
-    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Mendel Predicted ratios.md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md"
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
   ]
 }
