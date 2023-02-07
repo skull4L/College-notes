@@ -4,24 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3c21553593f784",
+        "id": "ca878cc9c9757515",
         "type": "tabs",
         "children": [
           {
-            "id": "c7276468437c64ab",
+            "id": "34201811fd0b4e10",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "canvas",
+              "state": {
+                "file": "Aber entry exams/Biology essays/Hydra essay plan.canvas",
+                "viewState": {
+                  "x": -300,
+                  "y": 112,
+                  "zoom": -0.8213117984117173,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "cf2d31885af26071",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "fea024bcfac146f8",
+            "id": "c651c22dbb3424ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
+                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,7 +45,20 @@
             }
           },
           {
-            "id": "910ea4be879de322",
+            "id": "6bbb3b01a0924bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1362a534c3bdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,90 +71,12 @@
             }
           },
           {
-            "id": "48405910f981ac1f",
+            "id": "3cc08dae9f0c3d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4803061b55d390af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02e41fe3d3b5f3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4241bd968d4a94cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4cd488d6a4777f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d4cf902baf9ab95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ea8626116d1027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,21 +108,13 @@
             }
           },
           {
-            "id": "2c1c2a5928c6afb2",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "060b8c5f3ce6dabd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "tag:#biology",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -191,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 321.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -207,14 +150,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -224,9 +167,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -237,7 +180,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -247,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md"
+                "file": "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md"
               }
             }
           },
@@ -283,17 +226,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06ea8626116d1027",
+  "active": "3cc08dae9f0c3d29",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Geological time.md",
-    "Geology/(G3) Past life and past climates/Precambrian conditions.canvas",
-    "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
-    "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
     "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
-    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Phage essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md"
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+    "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
+    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
+    "Aber entry exams/Biology essays/Nitrogen cycle essay ChatGPT.md",
+    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
+    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2020.pdf"
   ]
 }
