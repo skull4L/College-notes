@@ -667,6 +667,7 @@ effective
 easily
 extracellular
 extend
+exists
 create
 concrete
 climate
@@ -1140,6 +1141,8 @@ contained
 crops
 crop
 composted
+curves
+colony
 greater
 glass
 grow
@@ -1389,6 +1392,10 @@ gWZ
 geographic
 granulated
 greatest
+graph
+grows
+geology
+geography
 risk
 rigidity
 rubber
@@ -2428,6 +2435,8 @@ leguminous
 livestock
 leads
 leach
+logarithmic
+links
 this
 to
 the
@@ -2777,6 +2786,7 @@ tab
 treating
 two
 too
+table
 is
 impacts
 in
@@ -3115,6 +3125,7 @@ inhabiting
 insoluble
 influence
 insufficient
+impossible
 due
 deforestation
 devastating
@@ -3829,6 +3840,8 @@ becoming
 biology
 beans
 beneath
+bacterial
+begins
 materials
 most
 medium
@@ -4204,6 +4217,7 @@ micoorganisms
 mycorrhizae
 maximise
 manure
+measure
 such
 soils
 some
@@ -5648,6 +5662,8 @@ Science
 Source
 Saprobionts
 Saprobiont
+Such
+Separate
 foundations
 flow
 forest
@@ -5990,6 +6006,7 @@ fungi
 feed
 fertilisers
 fertiliser
+figure
 protecting
 particular
 provide
@@ -6417,6 +6434,9 @@ phosphates
 ponds
 prevented
 photosynthesise
+plot
+plotting
+progresses
 Diverting
 Deforestation
 Description
@@ -10386,6 +10406,7 @@ qAS
 qZd
 qUM
 qAt
+quick
 Nitrogen
 Not
 Nh
@@ -12010,6 +12031,7 @@ Please
 Phosphorus
 Phosphate
 Plant
+Plotting
 Length
 Library
 LEn

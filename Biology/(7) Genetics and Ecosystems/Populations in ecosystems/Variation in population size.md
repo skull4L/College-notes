@@ -3,3 +3,25 @@
 - Populations are dynamic in that they vary in size and composition over time
 
 ## Plotting growth curves
+- It is possible to plot a graph to measure population over time when a population grows slowly.
+- This is not possible for fast growing populations
+    - Such as microorganisms
+- For fast growing populations a logarithmic scale can be used to allow plotting of a graph
+- This is illustrated in figure 1 and 2 where bacterial a bacterial colony increases in population at an extremely quick rate. Therefore, it is impossible to plot the population size without using a logarithmic scale.
+- By using a logarithmic scale it is possible to determine that the increase in population begins to slow after 8 hours population growth begins to slow down.
+###### Figure 1: table
+![[Pasted image 20230207090911.png]]
+###### Figure 2: graph
+![[Pasted image 20230207090940.png]]
+
+## Population size
+- As time progresses population growth begins to slow down. This is due to the fact that with time nutrients and other essential factors become more limited as they are being used up by the existing population. This links back to [[Populations and ecosystems#Populations|carrying capacity.]] 
+- This is best illustrated with an example
+###### Example
+- A single celled photosynthetic bacterial cell capable of asexual reproduction is introduced to a new pond with a surplus of mineral nutrients, plenty of light and an ideal temperature (summer)
+- In this situation the bacteria reproduces quickly as there are no limiting factors preventing the colony from growing.
+- This changes over time
+    • Mineral ions are consumed as the population becomes larger. 
+    • The population becomes so large that the bacteria at the surface prevent light reaching chose at deeper levels. 
+    • Other species are introduced into the pond, carried by animals or the wind, and some of these species may use the bacteria as food or compete for light or minerals.
+    • Winter brings much lower temperatures and lower light intensity of shorter duration.
