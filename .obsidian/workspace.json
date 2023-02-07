@@ -110,12 +110,15 @@
             "id": "3d4cf902baf9ab95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Geology/(G3) Past life and past climates/Precambrian conditions.canvas",
+                "viewState": {
+                  "x": 328.8157672982523,
+                  "y": -40.25282418584128,
+                  "zoom": -0.5,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -194,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md",
+                "file": "Geology/(G3) Past life and past climates/Precambrian conditions.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md",
+                "file": "Geology/(G3) Past life and past climates/Precambrian conditions.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md"
+                "file": "Geology/(G3) Past life and past climates/Precambrian conditions.canvas"
               }
             }
           },
@@ -272,6 +275,7 @@
   },
   "active": "3d4cf902baf9ab95",
   "lastOpenFiles": [
+    "Geology/(G3) Past life and past climates/Geological time.md",
     "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
     "Aber entry exams/Environmental sciences essays/Water quality essay ChatGPT.md",
     "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
@@ -280,7 +284,6 @@
     "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md"
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
   ]
 }

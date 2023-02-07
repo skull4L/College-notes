@@ -24,3 +24,5 @@
     - Palaeogene
     - Neogene
     - Quaternary
+![[Pasted image 20230207150246.png]]
+## Conditions and changes during the Precambrian
