@@ -705,6 +705,10 @@ etY
 ext
 eege
 erZu
+examine
+eliminates
+erosion
+ensure
 create
 concrete
 climate
@@ -1216,6 +1220,9 @@ cGb
 cgbgc
 cSc
 cnkh
+components
+contributing
+contributes
 greater
 glass
 grow
@@ -1478,6 +1485,7 @@ gqe
 grx
 gda
 ggG
+gullies
 risk
 rigidity
 rubber
@@ -1931,6 +1939,11 @@ rHQ
 rf
 rpO
 rOK
+removal
+reasons
+ripple
+regulating
+reforestation
 of
 on
 out
@@ -2578,6 +2591,9 @@ lzA
 lvO
 lZZL
 leX
+logging
+like
+landscape
 this
 to
 the
@@ -2943,6 +2959,7 @@ tdI
 tMf
 tWg
 tpc
+topsoil
 is
 impacts
 in
@@ -3319,6 +3336,8 @@ iym
 iWM
 irY
 iiV
+impacted
+implementation
 due
 deforestation
 devastating
@@ -3724,6 +3743,8 @@ drVbdRVRJ
 dor
 dVtW
 dfUG
+degradation
+droughts
 building
 broken
 biodiversity
@@ -4073,6 +4094,7 @@ bwL
 brjzf
 bWGl
 bmx
+biologically
 materials
 most
 medium
@@ -4462,6 +4484,9 @@ mCe
 mYk
 mmRx
 mtF
+mining
+moisture
+mitigate
 such
 soils
 some
@@ -4961,6 +4986,8 @@ sfo
 sltlqlw
 sRs
 sFe
+services
+severely
 as
 absorbing
 against
@@ -5380,6 +5407,10 @@ ayh
 avB
 aOx
 aWeG
+artificial
+alter
+amount
+altering
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -5675,6 +5706,7 @@ MMVS
 MJm
 Mgs
 MIr
+Moreover
 Shock
 Shutters
 Soils
@@ -6375,6 +6407,8 @@ fcKih
 ftd
 fXf
 faRM
+fertility
+floods
 protecting
 particular
 provide
@@ -6828,6 +6862,16 @@ py
 pikQKu
 puq
 pfx
+permanent
+predator
+pollination
+pest
+precipitation
+profound
+preservation
+promote
+practices
+programs
 Diverting
 Deforestation
 Description
@@ -7696,6 +7740,9 @@ hst
 hQRh
 hhcjelehcjelehcjele
 hOt
+habitat
+harmful
+healthy
 It
 In
 InstanceID
@@ -8311,6 +8358,8 @@ FEi
 FyL
 FRM
 FFn
+Forests
+Finally
 will
 which
 web
@@ -8707,6 +8756,7 @@ wdtl
 waN
 wLrLs
 wMJ
+wood
 namely
 note
 nutrients
@@ -9001,6 +9051,7 @@ nxZxfdf
 nuu
 nvml
 nGzV
+numerous
 Amazon
 All
 Another
@@ -11601,6 +11652,7 @@ CLh
 CwB
 Csh
 Cft
+Climate
 useful
 usually
 us
@@ -11896,6 +11948,7 @@ uic
 uktc
 uDXY
 utrtw
+urbanization
 On
 Overall
 ObjStm
@@ -15979,6 +16032,7 @@ Gra
 Gyc
 Gzg
 GgO
+Governments
 zG
 zz
 zS
