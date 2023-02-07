@@ -73,7 +73,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+                "file": "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4241bd968d4a94cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md"
+                "file": "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md"
               }
             }
           },
@@ -231,17 +244,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02e41fe3d3b5f3e6",
+  "active": "4241bd968d4a94cd",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md",
+    "Aber entry exams/Biology essays/Phage essay ChatGPT.md",
+    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
     "Aber entry exams/Environmental sciences essays/Earth biota effect on atmosphere ChatGPT.md",
-    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-    "Aber entry exams/Exam papers/Environmental-Science 2019.pdf",
-    "Aber entry exams/Environmental sciences essays/Impacts of deforestation essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md"
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md"
   ]
 }
