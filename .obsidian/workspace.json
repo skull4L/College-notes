@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b64c55d4d73a1fbd",
+            "id": "c7276468437c64ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -44,13 +39,21 @@
             }
           },
           {
+            "id": "2c1c2a5928c6afb2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
             "id": "060b8c5f3ce6dabd",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "tag:#biology",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 531.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -86,14 +89,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,9 +105,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b64c55d4d73a1fbd",
+  "active": "c7276468437c64ab",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Variation in phenotype.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
-    "Biology/Probability.md"
+    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2020.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2021.pdf",
+    "Aber entry exams/Exam papers/Biology-2 2022.pdf",
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+    "Aber entry exams/Environmental sciences essays/Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment..md",
+    "Aber entry exams/Exam papers/Environmental-Science 2021.pdf",
+    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf"
   ]
 }
