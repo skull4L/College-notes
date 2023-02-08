@@ -730,6 +730,8 @@ enhance
 excessive
 emissions
 electric
+eons
+eras
 create
 concrete
 climate
@@ -2709,6 +2711,7 @@ lysis
 legs
 lay
 leaching
+longest
 this
 to
 the
@@ -4707,6 +4710,7 @@ misidentification
 mussel
 mussels
 modern
+measurable
 such
 soils
 some
@@ -5979,6 +5983,7 @@ Moreover
 Mining
 Methane
 Microorganisms
+Mesozoic
 Shock
 Shutters
 Soils
@@ -6318,6 +6323,7 @@ SBN
 Sewage
 South
 States
+Silurian
 foundations
 flow
 forest
@@ -7186,6 +7192,7 @@ pollinating
 primarily
 problems
 public
+periods
 Diverting
 Deforestation
 Description
@@ -7482,6 +7489,7 @@ Dtn
 DwW
 DZAZN
 DWz
+Devonian
 What
 Whats
 Word
@@ -10553,6 +10561,7 @@ TFd
 Through
 Toads
 Taxonomy
+Triassic
 vegetation
 very
 via
@@ -11142,6 +11151,7 @@ HmH
 HDR
 HjIjHV
 Humans
+Hadean
 quickly
 quality
 qs
@@ -11727,6 +11737,7 @@ NVxn
 NUQU
 Nmw
 NOx
+Neogene
 CO
 Core
 CreateDate
@@ -12029,6 +12040,9 @@ Csh
 Cft
 Climate
 Canadian
+Cenozoic
+Cretaceous
+Conditions
 useful
 usually
 us
@@ -12583,6 +12597,7 @@ Oss
 ONK
 OhR
 ONL
+Ordovician
 keeps
 knock
 kJ
@@ -13165,6 +13180,13 @@ Pseudomonas
 Paracoccus
 Phage
 Plains
+Precambrian
+Phanerozoic
+Periods
+Proterozoic
+Palaezoic
+Permian
+Palaeogene
 Length
 Library
 LEn
@@ -15925,6 +15947,8 @@ Ela
 EIi
 European
 Europe
+Eons
+Eras
 QJ
 QZ
 QB
@@ -16170,6 +16194,7 @@ QyQ
 QfTlT
 QMRMj
 QwG
+Quaternary
 GWgw
 GI
 GA
@@ -17165,6 +17190,7 @@ JrQy
 JJWR
 JCO
 JR
+Jurassic
 äv
 äY
 äm
