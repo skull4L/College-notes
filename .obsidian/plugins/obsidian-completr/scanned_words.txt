@@ -726,6 +726,10 @@ exploit
 especially
 efforts
 evolving
+enhance
+excessive
+emissions
+electric
 create
 concrete
 climate
@@ -1278,6 +1282,8 @@ competed
 commercial
 considering
 consider
+compost
+cleaner
 greater
 glass
 grow
@@ -1551,6 +1557,7 @@ genera
 giant
 general
 grouped
+groundwater
 risk
 rigidity
 rubber
@@ -2033,6 +2040,8 @@ refine
 refer
 resilience
 recognize
+regulates
+riparian
 of
 on
 out
@@ -2699,6 +2708,7 @@ lix
 lysis
 legs
 lay
+leaching
 this
 to
 the
@@ -3081,6 +3091,9 @@ toad
 texture
 tadpoles
 tamarisk
+transformed
+technologies
+transportation
 is
 impacts
 in
@@ -3482,6 +3495,10 @@ introduce
 instance
 identification
 intentionally
+ingredient
+indirect
+implemented
+implementing
 due
 deforestation
 devastating
@@ -3908,6 +3925,7 @@ differ
 diet
 deserts
 disrupt
+direct
 building
 broken
 biodiversity
@@ -4274,6 +4292,8 @@ basis
 bufo
 bulky
 behavioral
+buildup
+buffers
 materials
 most
 medium
@@ -4686,6 +4706,7 @@ morphologically
 misidentification
 mussel
 mussels
+modern
 such
 soils
 some
@@ -5655,6 +5676,10 @@ aggressive
 actually
 absent
 approach
+amounts
+acidification
+adverse
+adopt
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -6672,6 +6697,8 @@ feces
 feet
 field
 formerly
+fuels
+farmers
 protecting
 particular
 provide
@@ -7156,6 +7183,9 @@ peptides
 past
 previously
 pollinating
+primarily
+problems
+public
 Diverting
 Deforestation
 Description
@@ -8661,6 +8691,7 @@ Forests
 Finally
 Fungi
 French
+Fertilizers
 will
 which
 web
@@ -9069,6 +9100,7 @@ webbed
 woodhousii
 worldwide
 whether
+waters
 namely
 note
 nutrients
@@ -10791,6 +10823,7 @@ viruses
 virus
 vocalizations
 variability
+vehicles
 Heavy
 Hancock
 Hq
@@ -11108,6 +11141,7 @@ HYE
 HmH
 HDR
 HjIjHV
+Humans
 quickly
 quality
 qs
@@ -11401,6 +11435,7 @@ qNy
 qCk
 qgv
 qOk
+quantities
 Nitrogen
 Not
 Nh
@@ -13435,6 +13470,7 @@ LMfU
 LEk
 Land
 Lakes
+Livestock
 XML
 XMP
 Xd
