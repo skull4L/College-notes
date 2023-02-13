@@ -8,4 +8,5 @@
 - Such deposits also include preservation of legs, gills, gut traces and muscle blocks in many species
 - Many organisms found here appear to be completely unrelated to other known species, these are described as having 'unknown affinity'
 
-- Soft parts are often preserved as aluminosilicate films often associated with iron mineralization
+- Soft parts are often preserved as aluminosilicate films, often associated with iron mineralization
+- Iron pyrite preservation has allowed detailed fossilization of many organic remains
