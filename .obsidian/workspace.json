@@ -6,147 +6,41 @@
       {
         "id": "ca878cc9c9757515",
         "type": "tabs",
+        "dimension": 48.18456883509833,
         "children": [
           {
-            "id": "34201811fd0b4e10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay plan.canvas",
-                "viewState": {
-                  "x": -300,
-                  "y": 112,
-                  "zoom": -0.8213117984117173,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "cf2d31885af26071",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c651c22dbb3424ae",
+            "id": "e78ba8c54d05486c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bbb3b01a0924bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1362a534c3bdca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cc08dae9f0c3d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758d55cb429e9ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f629b75c95a585e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Geological time.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be25098843df2d55",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Aber entry exams/Exam papers/Biology-2 2022.pdf"
-              }
-            }
-          },
-          {
-            "id": "b2581c17c9bd0625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d04ef12adb28b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
+      },
+      {
+        "id": "8e111fe2f2e3f65e",
+        "type": "tabs",
+        "dimension": 51.81543116490166,
+        "children": [
+          {
+            "id": "18a0f47923202407",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -212,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md"
               }
             }
           },
@@ -288,17 +182,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40d04ef12adb28b9",
+  "active": "e78ba8c54d05486c",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "Geology/(G3) Past life and past climates/Geological time.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
-    "Aber entry exams/Exam papers/Taxonomy.md",
     "Aber entry exams/Exam papers/Biology-2 2022.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2021.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2020.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2019.pdf",
-    "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Aber entry exams/Biology essays/Taxonomy of toads essay ChatGPT.md"
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
+    "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md"
   ]
 }
