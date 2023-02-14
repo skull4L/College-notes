@@ -6,14 +6,39 @@
       {
         "id": "ca878cc9c9757515",
         "type": "tabs",
+        "dimension": 51.61290322580645,
         "children": [
           {
-            "id": "e78ba8c54d05486c",
+            "id": "34201811fd0b4e10",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aber entry exams/Biology essays/Hydra essay plan.canvas",
+                "viewState": {
+                  "x": -300,
+                  "y": 112,
+                  "zoom": -0.8213117984117173,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "cf2d31885af26071",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c651c22dbb3424ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.2 Volcanoes.md",
+                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +46,12 @@
             }
           },
           {
-            "id": "ed476918b41cadaf",
+            "id": "6bbb3b01a0924bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+                "file": "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,19 +59,76 @@
             }
           },
           {
-            "id": "18a0f47923202407",
+            "id": "9a1362a534c3bdca",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cc08dae9f0c3d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758d55cb429e9ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f629b75c95a585e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "bcb20ce2a0a71ad1",
+        "type": "tabs",
+        "dimension": 48.38709677419355,
+        "children": [
+          {
+            "id": "105feead22b3a565",
+            "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 295.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -112,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md"
               }
             }
           },
@@ -188,17 +270,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed476918b41cadaf",
+  "active": "f629b75c95a585e5",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
-    "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.5 - Responses to tectonic hazards.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.2 Volcanoes.md",
-    "Aber entry exams/Biology essays/Fungi essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Hydra essay ChatGPT.md",
-    "Aber entry exams/Biology essays/Nitrogen cycle essay ChatGPT.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Aber entry exams/Environmental sciences essays/Human impacts on nitrogen cycle essay ChatGPT.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+    "conflict-files-obsidian-git.md",
+    "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+    "Aber entry exams/Exam papers/Environmental-Science 2020.pdf"
   ]
 }
