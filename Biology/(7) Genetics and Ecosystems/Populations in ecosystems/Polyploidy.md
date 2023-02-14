@@ -1,3 +1,4 @@
+#biology 
 - Chromosomes do not separate into 2 distinct sets during meiosis. This means the gametes are diploid and not haploid
     - If these fused with one another the offspring would have 4 sets of chromosomes (tetraploid)
     - If a diploid gamete fused with a haploid gamete, the offspring would have 3 sets of chromosomes (triploid)

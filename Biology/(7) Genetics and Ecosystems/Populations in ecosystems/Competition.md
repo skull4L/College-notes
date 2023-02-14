@@ -1,3 +1,4 @@
+#biology 
 ## Intraspecific competition
 - Occurs when individuals of the same species compete with each other for resources such as food, water and breeding sites
 - It's the availability of these resources that determines the size of the population and the degree of competition between individuals which can result in a smaller population.
@@ -14,5 +15,6 @@
 - If these conditions stay the same, this will lead to the complete removal of one species. This is called the competitive exclusion principle.
 
 ###### Competitive exclusion principle
-- This states that no 2 species can occupy the same [[Populations and ecosystems#Ecological niche|niche]]
+- This states that no 2 species can occupy the same [[Populations and ecosystems#Ecological niche|niche]] indefinitely
+- The species that can use the limited resources more efficiently will ultimately eliminate the other
 - 
