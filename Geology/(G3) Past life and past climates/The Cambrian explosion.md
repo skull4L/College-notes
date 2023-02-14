@@ -32,7 +32,7 @@
 
 ###### Disappearance of Ediacaran fauna
 - The Cambrian explosion could have resulted from a recovery from a mass extinction event
-- Signs of this extinction event could have completely dissapeared by now so there's no way of ruling it out
+- Signs of this extinction event could have completely disappeared by now, so there's no way of ruling it out
 
 ## Examples of Precambrian rock formations
 - Chengjiang formation (515ma, lower Cambrian - China)
