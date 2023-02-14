@@ -6,3 +6,10 @@
 - It can also be difficult to gather data in a natural setting, this is because it is impossible to count all individuals in a wild population. Therefore, populations can only be estimated via sampling surveys
 
 ## Effect of predator-prey relationship on population size
+• Predators eat prey, thereby reducing the population of prey. 
+• With fewer prey available, the predators are in greater competition with each other for the prey that are left. 
+• The predator population is reduced as some individuals are unable to obtain enough prey for their survival or to reproduce. 
+• With fewer predators left, fewer prey are eaten and so more survive and are able to reproduce. 
+• The prey population therefore increases. 
+• With more prey now available as food, the predator population in turn increases.
+![[Pasted image 20230214102715.png]]
