@@ -13,3 +13,5 @@
 • The prey population therefore increases. 
 • With more prey now available as food, the predator population in turn increases.
 ![[Pasted image 20230214102715.png]]
+- The cycles shown above are known as boom and bust cycles
+- 
