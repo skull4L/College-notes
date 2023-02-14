@@ -1,0 +1,7 @@
+- Occurs when one organism consumes another
+- In nature populations of predators and pray stay at a relatively stable level
+- This is due to the diversity of natural environments, meaning prey species are much more likely to escape potential predators
+- Therefore in nature, prey species usually don't go extinct
+- In a laboratory it is very difficult to gather data on predation, this is because often the environments of a laboratory do not offer prey species the same opportunities for survival meaning that they often become extinct
+- It can also be difficult to gather data in a natural setting, this is because it is impossible to count all individuals in a wild population. Therefore, populations can only be estimated via sampling surveys
+- 
