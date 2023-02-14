@@ -17,4 +17,3 @@
 ###### Competitive exclusion principle
 - This states that no 2 species can occupy the same [[Populations and ecosystems#Ecological niche|niche]] indefinitely
 - The species that can use the limited resources more efficiently will ultimately eliminate the other
-- 
