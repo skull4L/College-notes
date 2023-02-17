@@ -4235,6 +4235,7 @@ egok
 eBIkJ
 eKW
 eLg
+eruptions
 create
 concrete
 climate
@@ -16582,6 +16583,8 @@ lZf
 ljkv
 lIb
 limpets
+lessen
+lahars
 this
 to
 the
@@ -19212,6 +19215,7 @@ tbkX
 tsJwU
 tqZ
 territory
+toll
 is
 impacts
 in
@@ -24805,6 +24809,8 @@ dSDm
 diH
 dwvR
 deff
+demographic
+divert
 building
 broken
 biodiversity
@@ -29739,6 +29745,7 @@ mOF
 mOn
 mnw
 mate
+monitor
 such
 soils
 some
@@ -32742,6 +32749,7 @@ sqhoq
 swy
 states
 soft
+successful
 as
 absorbing
 against
@@ -35092,6 +35100,7 @@ arC
 aPn
 ajd
 aJZf
+attempts
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -37398,6 +37407,7 @@ MXW
 MTh
 MKW
 Mgbn
+Monserrat
 Shock
 Shutters
 Soils
@@ -39701,6 +39711,8 @@ SibVI
 SAbX
 SUO
 SqN
+Sajurajima
+Soufriere
 foundations
 flow
 forest
@@ -42161,6 +42173,7 @@ fdk
 fiK
 fYv
 females
+fall
 protecting
 particular
 provide
@@ -44628,6 +44641,7 @@ pBD
 pPp
 pJSN
 pSE
+prediction
 Diverting
 Deforestation
 Description
@@ -71332,6 +71346,7 @@ vuq
 vRY
 vsG
 vZl
+volcano
 Heavy
 Hancock
 Hq
@@ -73353,6 +73368,7 @@ HsX
 HFXw
 HxW
 HaQ
+Hills
 quickly
 quality
 qs
@@ -78340,6 +78356,7 @@ Nit
 NQZ
 NUI
 NzR
+Nyos
 CO
 Core
 CreateDate
@@ -80308,6 +80325,7 @@ CrS
 Ccv
 Capture
 Competitive
+Cameroon
 useful
 usually
 us
@@ -90556,6 +90574,8 @@ Pmfq
 Pro
 Paper
 Plug
+Pinatubo
+Philippines
 Length
 Library
 LEn
@@ -92734,6 +92754,7 @@ LvX
 LMZj
 LjA
 LUYTq
+Lake
 XML
 XMP
 Xd
@@ -114246,6 +114267,7 @@ Ece
 EDZ
 Eam
 Existed
+Etna
 QJ
 QZ
 QB
@@ -118836,6 +118858,7 @@ GeeY
 GQz
 GAg
 GmG
+Good
 zG
 zz
 zS
@@ -125799,6 +125822,7 @@ JHP
 JSTA
 JUB
 Jzj
+Japan
 äv
 äY
 äm
