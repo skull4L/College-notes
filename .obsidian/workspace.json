@@ -6,7 +6,6 @@
       {
         "id": "ca878cc9c9757515",
         "type": "tabs",
-        "dimension": 51.61290322580645,
         "children": [
           {
             "id": "34201811fd0b4e10",
@@ -122,26 +121,22 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "bcb20ce2a0a71ad1",
-        "type": "tabs",
-        "dimension": 48.38709677419355,
-        "children": [
+          },
           {
-            "id": "105feead22b3a565",
+            "id": "6cfd7ffa8064a90b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -191,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 200
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -207,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md"
               }
             }
           },
@@ -283,10 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b21fcdee0716723",
+  "active": "6cfd7ffa8064a90b",
   "lastOpenFiles": [
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
     "conflict-files-obsidian-git.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
