@@ -4242,6 +4242,9 @@ eliminate
 eons
 eras
 eruptions
+escape
+extinct
+eaten
 create
 concrete
 climate
@@ -7216,6 +7219,8 @@ competitors
 colonizers
 consumers
 creation
+consumes
+count
 greater
 glass
 grow
@@ -9416,6 +9421,7 @@ germination
 goat
 grass
 gills
+gather
 risk
 rigidity
 rubber
@@ -13981,6 +13987,7 @@ oHp
 opt
 oeXu
 outside
+offer
 loss
 life
 lava
@@ -19233,6 +19240,7 @@ thing
 transpiration
 traces
 toll
+thereby
 is
 impacts
 in
@@ -26859,6 +26867,8 @@ behaviour
 breeds
 beginning
 bodied
+boom
+bust
 materials
 most
 medium
@@ -32779,6 +32789,9 @@ selecting
 soft
 shale
 successful
+setting
+sampling
+surveys
 as
 absorbing
 against
@@ -44690,6 +44703,8 @@ preserve
 preserved
 pyrite
 prediction
+predators
+pray
 Diverting
 Deforestation
 Description
@@ -49689,6 +49704,7 @@ WeX
 WgÄru
 WDHPzQ
 WjVY
+With
 has
 happens
 humid
@@ -90650,6 +90666,7 @@ Palaeogene
 Preservation
 Pinatubo
 Philippines
+Predators
 Length
 Library
 LEn
@@ -114344,6 +114361,7 @@ Existed
 Eons
 Eras
 Etna
+Effect
 QJ
 QZ
 QB
