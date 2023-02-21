@@ -31,7 +31,3 @@
 -   If the generator potential reaches the threshold level (about -50mV) then an action potential is produced in the sensory neurone.
 ulation of the receptor
 ![](https://image-v2.cdn.app.senecalearning.com/2018-08/0c624180-9ce1-4073-b59c-2ad80d6bc04b/Action%20Potential,f_cover,h_400,w_600.jpg)
-
-Generator potential
-
-![](https://image-v2.cdn.app.senecalearning.com/2018-08/0c624180-9ce1-4073-b59c-2ad80d6bc04b/Action%20Potential,f_cover,h_400,w_600.jpg)

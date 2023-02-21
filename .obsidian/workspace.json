@@ -160,9 +160,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3be1f7d462735981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(3) Substance exchange/Size and surface area.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -228,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
+                "file": "Biology/(3) Substance exchange/Size and surface area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
+                "file": "Biology/(3) Substance exchange/Size and surface area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md"
+                "file": "Biology/(3) Substance exchange/Size and surface area.md"
               }
             }
           },
@@ -304,17 +317,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "103dac9f49edab4c",
+  "active": "3be1f7d462735981",
   "lastOpenFiles": [
+    "Biology/Essays/Importance of Proteins.md",
+    "Biology/(3) Substance exchange/Size and surface area.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
     "Attachments/Recording 20230203170754.webm",
     "Attachments/Pasted image 20221107093042.png",
     "Attachments/ChronostratChart2022-10.jpg",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
-    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
-    "conflict-files-obsidian-git.md"
+    "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md"
   ]
 }
