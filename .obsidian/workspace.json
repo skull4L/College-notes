@@ -147,9 +147,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "103dac9f49edab4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -215,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md"
+                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md"
               }
             }
           },
@@ -291,12 +304,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3545844f1292b64d",
+  "active": "103dac9f49edab4c",
   "lastOpenFiles": [
+    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
     "Attachments/Recording 20230203170754.webm",
     "Attachments/Pasted image 20221107093042.png",
     "Attachments/ChronostratChart2022-10.jpg",
-    "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
     "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Animal Responses.md",
     "Biology/(6) Organisms respond to changes in their environment/Nervous coordination and muscles/Skeletal muscles.md",
