@@ -1724,6 +1724,8 @@ BJe
 BJQv
 BgBgRW
 BcI
+Begin
+Breccia
 environments
 effect
 ecosystem
@@ -4263,6 +4265,8 @@ eYH
 established
 exchanged
 ears
+evolves
+erosional
 create
 concrete
 climate
@@ -7252,6 +7256,11 @@ corpuscle
 concentric
 connective
 charge
+coordination
+capitalized
+comprised
+clasts
+cement
 greater
 glass
 grow
@@ -9460,6 +9469,7 @@ gCuM
 gHh
 gwf
 generator
+generic
 risk
 rigidity
 rubber
@@ -11831,6 +11841,7 @@ relay
 responds
 rings
 reduces
+rounded
 of
 on
 out
@@ -16673,6 +16684,7 @@ leave
 lFa
 lAy
 lungs
+letter
 this
 to
 the
@@ -22241,6 +22253,8 @@ iEKs
 iAxJE
 iPB
 iXt
+italicized
+immature
 due
 deforestation
 devastating
@@ -24923,6 +24937,8 @@ dhA
 dMy
 dSc
 decision
+deposition
+desert
 building
 broken
 biodiversity
@@ -26959,6 +26975,9 @@ bJO
 bhE
 bFC
 bigger
+beaches
+basalt
+breccia
 materials
 most
 medium
@@ -29880,6 +29899,9 @@ motor
 mechanoreceptor
 mediated
 metabolism
+mineralogically
+mature
+micro
 such
 soils
 some
@@ -32902,6 +32924,8 @@ stimulation
 surround
 stretch
 steep
+sorted
+slate
 as
 absorbing
 against
@@ -35264,6 +35288,8 @@ aWDq
 automatic
 arc
 apply
+academic
+angular
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -37582,6 +37608,7 @@ MhNHR
 MoL
 Mrc
 Mechanoreceptors
+Mineralogically
 Shock
 Shutters
 Soils
@@ -39905,6 +39932,7 @@ Sql
 Specificity
 Stimulation
 Surface
+Substance
 foundations
 flow
 forest
@@ -42377,6 +42405,10 @@ fFFW
 fRT
 fIw
 fvP
+fragments
+flint
+flash
+flooding
 protecting
 particular
 provide
@@ -44863,6 +44895,8 @@ pMf
 protective
 processed
 potentials
+poorly
+pieces
 Diverting
 Deforestation
 Description
@@ -49885,6 +49919,7 @@ WLTd
 WPl
 WAQ
 WEj
+Waypoint
 has
 happens
 humid
@@ -54635,6 +54670,7 @@ ISG
 ISjJ
 IlVP
 IAIN
+Intervention
 For
 Filter
 FlateDecode
@@ -59491,6 +59527,7 @@ wVN
 webmB
 withdrawal
 withdraws
+written
 namely
 note
 nutrients
@@ -61890,6 +61927,7 @@ nlA
 nFG
 neurones
 neurone
+naming
 Amazon
 All
 Another
@@ -69283,6 +69321,7 @@ TLL
 Thermoreceptors
 Thin
 Transport
+Transfers
 vegetation
 very
 via
@@ -73711,6 +73750,7 @@ HShV
 HCb
 HKbhfJd
 Heat
+Held
 quickly
 quality
 qs
@@ -78709,6 +78749,7 @@ NlBO
 NimKOE
 NUj
 NZBJ
+Names
 CO
 Core
 CreateDate
@@ -80699,6 +80740,8 @@ CmZz
 ChromeWA
 Chrome
 Corpuscle
+Conglomerates
+Clasts
 useful
 usually
 us
@@ -83153,6 +83196,7 @@ ultimately
 unrelated
 uIQC
 ulation
+undercase
 On
 Overall
 ObjStm
@@ -114731,6 +114775,9 @@ EgDW
 EfFF
 EyF
 Elephants
+Exchange
+Essays
+Extremely
 QJ
 QZ
 QB

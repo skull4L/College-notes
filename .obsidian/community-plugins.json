@@ -14,5 +14,8 @@
   "obsidian-spaced-repetition",
   "editing-toolbar",
   "link-headers-directly",
-  "text-extractor"
+  "text-extractor",
+  "folder-note-core",
+  "alx-folder-note",
+  "waypoint"
 ]
