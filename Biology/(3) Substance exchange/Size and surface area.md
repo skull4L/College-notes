@@ -28,4 +28,3 @@
 ###### Heat transfer
 - Some large animals have adaptations that allow heat to be transferred more efficiently
     - E,g, Elephants have large, highly vascularised ears that allow heat to be transferred rapidly
-    - 
