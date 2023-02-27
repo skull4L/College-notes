@@ -29,6 +29,19 @@
             }
           },
           {
+            "id": "e917f220f94772f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
@@ -103,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md"
               }
             }
           },
@@ -245,8 +258,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "672a1d9b1c765de5",
+  "active": "e917f220f94772f3",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
