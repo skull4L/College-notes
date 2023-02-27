@@ -193,10 +193,8 @@
             "id": "5352aaf474209ed0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -266,7 +264,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +280,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,9 +301,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md"
-              }
+              "state": {}
             }
           },
           {
@@ -344,6 +338,7 @@
   },
   "active": "5352aaf474209ed0",
   "lastOpenFiles": [
+    "Biology/Probability.md",
     "Context",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
     "Biology/(3) Substance exchange/(3) Substance exchange.md",
