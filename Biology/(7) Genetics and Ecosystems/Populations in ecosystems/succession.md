@@ -52,6 +52,7 @@
 
 ###### Summary
 - Colonization by pioneer species
+- Pioneer species change the environment (forms soil)
 - Environment becomes more suitable for other species so they can survive
 - Increase in biodiversity so more variety of habitats, different variety of food sources
 - biomass increases

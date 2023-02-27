@@ -1715,6 +1715,7 @@ BmKY
 Boi
 Bzx
 BOf
+Barren
 environments
 effect
 ecosystem
@@ -4238,6 +4239,8 @@ eLg
 eruptions
 efficiently
 eliminate
+eroded
+erode
 create
 concrete
 climate
@@ -7207,6 +7210,10 @@ cVbc
 cjB
 cKQ
 cyjW
+colonized
+colonize
+competitors
+colonizers
 greater
 glass
 grow
@@ -9404,6 +9411,8 @@ gAM
 gqIAu
 gnhX
 gYY
+grazing
+germination
 risk
 rigidity
 rubber
@@ -11757,6 +11766,7 @@ reg
 robins
 represents
 roughly
+reached
 of
 on
 out
@@ -22142,6 +22152,8 @@ iDMjep
 iyF
 iQX
 imagebio
+islands
+intact
 due
 deforestation
 devastating
@@ -24813,6 +24825,7 @@ dwvR
 deff
 demographic
 divert
+drop
 building
 broken
 biodiversity
@@ -26839,6 +26852,7 @@ bEu
 bCq
 bUoQ
 bodied
+bare
 materials
 most
 medium
@@ -32752,6 +32766,9 @@ swy
 states
 soft
 successful
+suitable
+sere
+sand
 as
 absorbing
 against
@@ -35103,6 +35120,7 @@ aPn
 ajd
 aJZf
 attempts
+adaptations
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -37410,6 +37428,8 @@ MTh
 MKW
 Mgbn
 Monserrat
+Mosses
+Moss
 Shock
 Shutters
 Soils
@@ -39715,6 +39735,9 @@ SUO
 SqN
 Sajurajima
 Soufriere
+Succession
+Shrubs
+Summary
 foundations
 flow
 forest
@@ -42176,6 +42199,7 @@ fiK
 fYv
 females
 fall
+flowering
 protecting
 particular
 provide
@@ -44644,6 +44668,7 @@ pPp
 pJSN
 pSE
 prediction
+pioneer
 Diverting
 Deforestation
 Description
@@ -51980,6 +52005,8 @@ hiwY
 hgP
 hay
 hFiF
+hostile
+hold
 It
 In
 InstanceID
@@ -54376,6 +54403,7 @@ IykC
 ISn
 IQeguc
 IBK
+Increased
 For
 Filter
 FlateDecode
@@ -59221,6 +59249,7 @@ wAE
 wDX
 wih
 woW
+woodland
 namely
 note
 nutrients
@@ -61606,6 +61635,8 @@ nSaN
 nrk
 nZXI
 nIve
+never
+newly
 Amazon
 All
 Another
@@ -64150,6 +64181,7 @@ AdU
 AJko
 AVFp
 Asl
+Ability
 Rainforest
 RDF
 Rw
@@ -66558,6 +66590,7 @@ RIL
 RKc
 Rxm
 RNcB
+Rapid
 This
 Terra
 Trees
@@ -68962,6 +68995,8 @@ TpJSN
 TtHE
 TeBd
 TBa
+Tolerant
+Tertiary
 vegetation
 very
 via
@@ -73371,6 +73406,7 @@ HFXw
 HxW
 HaQ
 Hills
+Happens
 quickly
 quality
 qs
@@ -80328,6 +80364,10 @@ Ccv
 Capture
 Competitive
 Cameroon
+Common
+Could
+Climax
+Colonization
 useful
 usually
 us
@@ -90579,6 +90619,8 @@ Paper
 Plug
 Pinatubo
 Philippines
+Pioneer
+Produce
 Length
 Library
 LEn
@@ -114271,6 +114313,8 @@ EDZ
 Eam
 Existed
 Etna
+Eventually
+Environment
 QJ
 QZ
 QB
@@ -118862,6 +118906,7 @@ GQz
 GAg
 GmG
 Good
+Grasses
 zG
 zz
 zS

@@ -19,9 +19,12 @@
             "id": "672a1d9b1c765de5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -166,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md"
+              }
             }
           },
           {
@@ -240,6 +247,8 @@
   },
   "active": "672a1d9b1c765de5",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
