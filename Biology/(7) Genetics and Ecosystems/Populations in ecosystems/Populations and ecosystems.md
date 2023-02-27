@@ -32,3 +32,4 @@
 - describes where it lives and what it does in the ecosystem 
 - No 2 species in an ecosystem can occupy the same ecological niche. This is known as the competitive exclusion principle
 
+test[^2]
