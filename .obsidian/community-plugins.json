@@ -17,5 +17,6 @@
   "text-extractor",
   "folder-note-core",
   "alx-folder-note",
-  "waypoint"
+  "waypoint",
+  "obsidian-linter"
 ]

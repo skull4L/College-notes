@@ -1716,6 +1716,7 @@ Boi
 Bzx
 BOf
 Barren
+Belt
 environments
 effect
 ecosystem
@@ -4241,6 +4242,9 @@ efficiently
 eliminate
 eroded
 erode
+escape
+extinct
+eaten
 create
 concrete
 climate
@@ -7214,6 +7218,10 @@ colonized
 colonize
 competitors
 colonizers
+consumes
+count
+catch
+caught
 greater
 glass
 grow
@@ -9413,6 +9421,8 @@ gnhX
 gYY
 grazing
 germination
+gather
+generator
 risk
 rigidity
 rubber
@@ -11767,6 +11777,8 @@ robins
 represents
 roughly
 reached
+recapture
+recaptured
 of
 on
 out
@@ -13977,6 +13989,9 @@ oTk
 oHp
 opt
 oeXu
+offer
+ordinates
+ordinate
 loss
 life
 lava
@@ -19228,6 +19243,9 @@ tsJwU
 tqZ
 territory
 toll
+thereby
+tape
+transect
 is
 impacts
 in
@@ -22154,6 +22172,8 @@ iQX
 imagebio
 islands
 intact
+interval
+intervals
 due
 deforestation
 devastating
@@ -26853,6 +26873,9 @@ bCq
 bUoQ
 bodied
 bare
+boom
+bust
+belt
 materials
 most
 medium
@@ -29762,6 +29785,7 @@ mOn
 mnw
 mate
 monitor
+measuring
 such
 soils
 some
@@ -32769,6 +32793,12 @@ successful
 suitable
 sere
 sand
+setting
+sampling
+surveys
+square
+sampled
+sample
 as
 absorbing
 against
@@ -35121,6 +35151,7 @@ ajd
 aJZf
 attempts
 adaptations
+alongside
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -37430,6 +37461,9 @@ Mgbn
 Monserrat
 Mosses
 Moss
+Mark
+Method
+Main
 Shock
 Shutters
 Soils
@@ -42200,6 +42234,7 @@ fYv
 females
 fall
 flowering
+frame
 protecting
 particular
 provide
@@ -44669,6 +44704,9 @@ pJSN
 pSE
 prediction
 pioneer
+predators
+pray
+paint
 Diverting
 Deforestation
 Description
@@ -49668,6 +49706,7 @@ WeX
 WgÄru
 WDHPzQ
 WjVY
+With
 has
 happens
 humid
@@ -54404,6 +54443,7 @@ ISn
 IQeguc
 IBK
 Increased
+Interrupted
 For
 Filter
 FlateDecode
@@ -64182,6 +64222,7 @@ AJko
 AVFp
 Asl
 Ability
+After
 Rainforest
 RDF
 Rw
@@ -66591,6 +66632,9 @@ RKc
 Rxm
 RNcB
 Rapid
+Record
+Repeat
+Release
 This
 Terra
 Trees
@@ -76051,6 +76095,8 @@ qhCKXg
 qtSW
 qLL
 qyu
+quadrat
+quadrats
 Nitrogen
 Not
 Nh
@@ -80368,6 +80414,8 @@ Common
 Could
 Climax
 Colonization
+Calculate
+Catch
 useful
 usually
 us
@@ -82819,6 +82867,7 @@ uZF
 utM
 uEP
 ultimately
+until
 On
 Overall
 ObjStm
@@ -90621,6 +90670,8 @@ Pinatubo
 Philippines
 Pioneer
 Produce
+Predators
+Place
 Length
 Library
 LEn
@@ -92800,6 +92851,7 @@ LMZj
 LjA
 LUYTq
 Lake
+Lay
 XML
 XMP
 Xd
@@ -102265,6 +102317,7 @@ Urx
 Uä
 UMP
 UwrB
+Use
 yk
 yq
 yL
@@ -114315,6 +114368,8 @@ Existed
 Etna
 Eventually
 Environment
+Effect
+Estimated
 QJ
 QZ
 QB
@@ -116632,6 +116687,8 @@ QjbE
 QjLe
 QAohAty
 QoY
+Quadrat
+Quadrats
 GWgw
 GI
 GA

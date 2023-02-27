@@ -42,6 +42,19 @@
             }
           },
           {
+            "id": "ab7a09f7de3a625f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
@@ -116,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md"
               }
             }
           },
@@ -258,10 +271,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e917f220f94772f3",
+  "active": "ab7a09f7de3a625f",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
@@ -271,7 +288,6 @@
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.5 - Responses to tectonic hazards.md",
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md",
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Volcanic processes and hazards.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
     "Biology/Essays/Importance of Proteins.md",
     "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md"
   ]

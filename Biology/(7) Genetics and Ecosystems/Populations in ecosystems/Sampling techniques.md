@@ -19,3 +19,12 @@
 > Estimated population size = (total number of individuals in the first sample x total number of individuals in the second sample) / number of marked individuals recaptured
 
 ## Belt transect
+- Quadrats are placed alongside the tape
+###### Continuous belt transect
+- Record along the whole length of the tape
+###### Interrupted belt transect
+- Record at intervals along the tape e.g. 2m, 4m, 6m etc
+###### Method
+- Place transect using a measuring tape (10m) along the area of change 2) Use a 1m x 1m frame quadrat at regular intervals (every 2m)
+- Record the number of species present
+- Repeat this for the next interval until you each the end of the transect
