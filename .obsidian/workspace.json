@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34201811fd0b4e10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Aber entry exams/Bio essays/Hydra essay plan.canvas",
-                "viewState": {
-                  "x": -300,
-                  "y": 112,
-                  "zoom": -0.8213117984117173,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "cf2d31885af26071",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c651c22dbb3424ae",
+            "id": "e78ba8c54d05486c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Bio essays/Hydra essay ChatGPT.md",
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,12 +21,12 @@
             }
           },
           {
-            "id": "6bbb3b01a0924bf4",
+            "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Bio essays/Hydra essay ChatGPT.md",
+                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,12 +34,12 @@
             }
           },
           {
-            "id": "9a1362a534c3bdca",
+            "id": "9a167087dd16c56f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,12 +47,22 @@
             }
           },
           {
-            "id": "3cc08dae9f0c3d29",
+            "id": "4684bff0d9058a80",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              }
+            }
+          },
+          {
+            "id": "e0d846b084bbd1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "file": "Aber entry exams/Bio essays/Nitrogen cycle essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,12 +70,12 @@
             }
           },
           {
-            "id": "758d55cb429e9ec3",
+            "id": "f173bef7b45be237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aber entry exams/Environmental sciences essays/Describe and explain how the Earth’s biota affects the chemical composition of the atmosphere.md",
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,101 +83,18 @@
             }
           },
           {
-            "id": "f629b75c95a585e5",
+            "id": "18a0f47923202407",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b21fcdee0716723",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Plant Responses.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cfd7ffa8064a90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Control of heart rate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3545844f1292b64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Reflexes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "103dac9f49edab4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(6) Organisms respond to changes in their environment/Response to stimuli/Receptors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3be1f7d462735981",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b1e38baa06c559ff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d4bc3e530e11bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564.5
+    "width": 424.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -257,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md"
+                "file": "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md"
               }
             }
           },
@@ -327,23 +230,23 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
       "omnisearch:Omnisearch": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d4bc3e530e11bde",
+  "active": "e78ba8c54d05486c",
   "lastOpenFiles": [
-    "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
-    "Biology/(3) Substance exchange/(3) Substance exchange.md",
-    "Biology/Biology.md",
-    "Aber entry exams/Bio essays/Bio essays.md",
-    "Aber entry exams/Aber entry exams.md",
-    "Aber entry exams/Bio essays/Fungi essay ChatGPT.md",
-    "Geology/(G2) Rock deformation/The nature of rock deformation.md",
-    "Geology/(G2) Rock deformation/(G2) Rock deformation.md",
-    "Geology/(G1) Rock forming processes/Igneous rocks.md",
-    "Geology/(G1) Rock forming processes/(G1) Rock forming processes.md"
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
+    "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.5 - Responses to tectonic hazards.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Volcanic processes and hazards.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+    "Biology/Essays/Importance of Proteins.md",
+    "Biology/(5) Energy Transfers/Photosynthesis/Light-independent reaction.md",
+    "Aber entry exams/Bio essays/Nitrogen cycle essay ChatGPT.md"
   ]
 }
