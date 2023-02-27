@@ -17,8 +17,7 @@
                 "viewState": {
                   "x": -300,
                   "y": 112,
-                  "zoom": -0.8213117984117173,
-                  "snapToGrid": false
+                  "zoom": -0.8213117984117173
                 }
               }
             }
@@ -189,9 +188,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5352aaf474209ed0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -333,8 +342,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d4bc3e530e11bde",
+  "active": "5352aaf474209ed0",
   "lastOpenFiles": [
+    "Context",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
     "Biology/(3) Substance exchange/(3) Substance exchange.md",
     "Biology/Biology.md",
