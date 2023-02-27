@@ -39799,6 +39799,7 @@ Shrubs
 Summary
 Store
 Species
+Sampling
 foundations
 flow
 forest
@@ -66679,6 +66680,7 @@ Repeat
 Release
 Rapid
 Reintroducing
+Recapture
 This
 Terra
 Trees
@@ -69086,6 +69088,7 @@ TBa
 Tolerant
 Tertiary
 Try
+Transect
 vegetation
 very
 via
