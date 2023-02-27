@@ -16,6 +16,16 @@
             }
           },
           {
+            "id": "672a1d9b1c765de5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
@@ -89,7 +99,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e78ba8c54d05486c",
+  "active": "672a1d9b1c765de5",
   "lastOpenFiles": [
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
