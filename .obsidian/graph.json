@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -18,7 +18,7 @@
       "query": "path:Geology",
       "color": {
         "a": 1,
-        "rgb": 4074500
+        "rgb": 15119692
       }
     },
     {
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.0953125,
-  "lineSizeMultiplier": 1.58020833333333,
-  "collapse-forces": false,
-  "centerStrength": 0.833333333333333,
-  "repelStrength": 16.4583333333333,
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.23234250208806317,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.212475345330832,
+  "close": true
 }
