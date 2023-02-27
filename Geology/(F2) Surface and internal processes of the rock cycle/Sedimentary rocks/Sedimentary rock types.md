@@ -5,7 +5,7 @@
 - Clasts range in size from 1 mm to 3 cm
 - Extremely poorly sorted
 - Often mineralogically mature composition such as flint
-- Clasts are all well-rounded 
+- Clasts are all well-rounded
 - Held together by a fine-grained cement
 - Often occurs in high energy environments with high levels of erosion such as beaches
 

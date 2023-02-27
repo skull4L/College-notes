@@ -1,5 +1,6 @@
 #biology
 - Ecology is the study of the interrelationships between organisms and their environment. This includes abiotic and biotic factors
+
 ### Ecosystems
 - Ecosystems are systems made up of both biotic and abiotic factors. Within an ecosystem there are 2 major processes
     - Flow of energy through the system
@@ -27,9 +28,7 @@
     - Pond
 - Habitats contain further habitats called microhabitats
 
-### Ecological niche
+### Ecological Niche
 - How an organism fits into an environment
-- describes where it lives and what it does in the ecosystem 
+- describes where it lives and what it does in the ecosystem
 - No 2 species in an ecosystem can occupy the same ecological niche. This is known as the competitive exclusion principle
-
-test[^2]

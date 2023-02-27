@@ -1,4 +1,5 @@
 #geology
+
 ### Terms
 - Amplitude
     - The height of the fold measured from its center (half the height)

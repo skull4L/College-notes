@@ -14,7 +14,7 @@
     - Galena (PbS)
     - Pyrite (FeS2)
 
-### Abundance of elements in the Earth's crust
+### Abundance of Elements in the Earth's Crust
 | Element    | Mass per cent | Chemical symbol |
 | ---------- | ------------- | --------------- |
 | Oxygen     | 46.6%         | O               |
@@ -24,7 +24,7 @@
 | Calcium    | 3.6%          | Ca              |
 | Sodium     | 2.8%          | Na              |
 | Potassium  | 2.6%          | K               |
-| Magnesium  | 2.1%          | Mg              | 
+| Magnesium  | 2.1%          | Mg              |
 | All others | <1.5%         |                 |
 
 ## Crystals

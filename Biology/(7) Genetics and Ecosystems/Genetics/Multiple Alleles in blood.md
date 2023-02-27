@@ -16,4 +16,4 @@ Parental genotypes: Ia Io x Ib Io
 |     | Ia   | Io   |
 | --- | ---- | ---- |
 | Ib  | IaIb | IbIo |
-| Io  | IaIo | IoIo | 
+| Io  | IaIo | IoIo |

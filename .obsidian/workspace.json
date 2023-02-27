@@ -11,26 +11,8 @@
             "id": "e78ba8c54d05486c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0483c32411ac1a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -107,8 +89,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -250,15 +227,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0483c32411ac1a0",
+  "active": "e78ba8c54d05486c",
   "lastOpenFiles": [
+    "Biology/Starter questions.md",
+    "Biology/Probability.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Mendel Predicted ratios.md",
+    "Biology/Biology.md",
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Multiple Alleles in blood.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",

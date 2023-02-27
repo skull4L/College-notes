@@ -14,10 +14,11 @@
 Parental phenotypes: Pink flowered x White flowered
 genotypes: AAbb x aaBB
 gametes: Ab Ab x aB aB
+
 |     | Ab   | Ab   |
 | --- | ---- | ---- |
 | aB  | AaBb | AaBb |
-| aB  | AaBb | AaBb | 
+| aB  | AaBb | AaBb |
 
 All offspring genotypes: AaBb
 All offsping phenotypes: purple
@@ -26,19 +27,19 @@ All offsping phenotypes: purple
 - 2 F1 were crossed
     - B = purple
     - b = pink
-
 - homozygous aa is epistatic to both B and b
 - B for purple and b for pink cannot be expressed if there is no dominant A
 
 Parental phenotypes: Purple x Purple
 genotypes: AaBb x AaBb
 gametes: AB Ab aB ab x AB Ab aB ab
+
 |     | AB   | Ab   | aB   | ab   |
 | --- | ---- | ---- | ---- | ---- |
 | AB  | AABB | AABb | AaBB | AaBb |
 | Ab  | AABb | AAbb | AaBb | Aabb |
 | aB  | AaBB | AaBb | aaBB | aaBb |
-| ab  | AaBb | Aabb | aaBb | aabb | 
+| ab  | AaBb | Aabb | aaBb | aabb |
 
 All offsping phenotypes: (9)Purple (4)White (3)Pink
 
@@ -58,12 +59,14 @@ All offsping phenotypes: (9)Purple (4)White (3)Pink
 ### F2
 White feathered (IiCc) x White feathered (IiCc)
 gametes: IC Ic iC ic x IC Ic iC ic
+
 |     | IC   | Ic   | iC   | ic   |
 | --- | ---- | ---- | ---- | ---- |
 | IC  | IICC | IICc | IiCC | IiCc |
 | Ic  | IICc | IIcc | IiCc | Iicc |
 | iC  | IiCC | IiCc | iiCC | iiCc |
-| ic  | IiCc | Iicc | iiCc | iicc | 
+| ic  | IiCc | Iicc | iiCc | iicc |
+
 Coloured:
     iiCc
     iiCC

@@ -1,6 +1,5 @@
 #biology
 - Inheritance of 2 characteristics, determined by 2 different genes located on different chromosomes
-
 - Mendel investigated inheritance further by observing 2 characteristics of the pea plants.
     - He observed
         - Seed shape: Round is dominant to wrinkled
@@ -17,7 +16,7 @@ Parental genotypes: RRGG x rrgg
 |     | RG   | RG   |
 | --- | ---- | ---- |
 | rg  | RgGg | RgGg |
-| rg  | RgGg | RgGg | 
+| rg  | RgGg | RgGg |
 
 Offspring genotypes in F1 generation: All RrGg
 Offspring phenotypes in F1 generation : All round, yellow
@@ -36,9 +35,10 @@ Parental genotypes: RgGg x RgGg
 
 Offspring phenotypes in F2 generation : 9 Round Yellow, 3 Round Green, 3 Wrinkled Yellow, 1 Wrinkled Green
 
-- Mendel concluded that a dihybrid cross of 2 characteristics heterozygous would give a  9:3:3:1 ratio. He related this to the law of independent assortment and stated that each member of a pair of alleles can randomly combine with another pair.
+- Mendel concluded that a dihybrid cross of 2 characteristics heterozygous would give a 9:3:3:1 ratio. He related this to the law of independent assortment and stated that each member of a pair of alleles can randomly combine with another pair.
 
-### Another example of dihybrid inheritance
+### Another Example of Dihybrid Inheritance
+
 ### F1
 - A dihybrid cross was carried out between fruit flies with red eyes and vestigial wings and pink eyes and normal wings.
     R = red eyes

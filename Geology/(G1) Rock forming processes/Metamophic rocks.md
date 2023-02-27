@@ -5,28 +5,28 @@
 - By the action of pressure alone (dynamic)
 - By the action of both (regional)
 
-### Metamorphic grade
+### Metamorphic Grade
 - The extent of which the pre existing rocks have been changed in form
 - Low grade - slight alteration
 - Medium grade - significant alteration
 - High grade - extensive/total alteration
 
-### Metamorphic changes
+### Metamorphic Changes
 - Are assumed to be isochemical
 - The bulk chemical composition of the parent rock and the metamorphic product are identical.
--  Both contain the same % Si, Al, O, Na etc.
+- Both contain the same % Si, Al, O, Na etc.
 - The only loss from the system is water as hydrous clay minerals are dehydrated by a rise in temperature
 
 ### Contact Metamorphism
 - Changes due to the action of heat alone Associated with large scale igneous bodies
 - Batholiths and plutons of granite/gabbro
-- Example around the edges of the granites in S.W. England (St.Austell, Bodmin etc) 
+- Example around the edges of the granites in S.W. England (St.Austell, Bodmin etc)
 - Metamorphic aureole refers to the volume of rock affected by heat from the intrusion
 
 ### Controlling Factors - Contact
 - Size and shape of the igneous body
 - Composition - Acid magma 800 degrees centigrade, basic magma 1200 degrees
-- Thermal conductivity of the country rocks 
+- Thermal conductivity of the country rocks
 - Volatile content of the magma
 - Distance from edge of igneous body of any location in the country rocks
 

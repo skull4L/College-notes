@@ -1,4 +1,4 @@
-#misc 
+#misc
 Toads belong to the order Anura within the class Amphibia. They are characterized by their dry, warty skin, short legs, and webbed feet. Taxonomy, or the scientific classification of organisms, is an important tool for understanding the relationships and diversity of species within a group. The taxonomy of toads is a complex and dynamic field, with new species being discovered and others being reclassified on a regular basis.
 
 The family Bufonidae contains the majority of toad species and is the largest family within the order Anura. This family is further divided into several genera, including Bufo, Rhinella, and Anaxyrus. Bufo is the largest genus within the family and includes the common toad (Bufo bufo), the American toad (Bufo americanus), and the European toad (Bufo spinosus).

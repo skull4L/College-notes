@@ -1,4 +1,4 @@
-#misc 
+#misc
 Invasive species refer to non-native plants, animals, or other organisms that are introduced into an ecosystem, either intentionally or unintentionally, and cause harm to the environment, economy, or human health. While many invasive species are often harmful to their new environments, some can also have positive impacts. In this essay, we will examine both the negative and positive aspects of invasive species and discuss whether they are always harmful or can be beneficial as well.
 
 One of the primary ways that invasive species can harm an ecosystem is by competing with native species for resources such as food, water, and habitat. This can lead to the decline or even extinction of native species and alter the balance of the ecosystem. For example, the zebra mussel, an invasive species in the Great Lakes, has competed with native mussels for food and space, reducing their populations and altering the ecosystem's food web.

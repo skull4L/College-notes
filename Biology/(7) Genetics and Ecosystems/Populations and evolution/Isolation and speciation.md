@@ -15,23 +15,23 @@
 - Allele frequencies will change between the 2 populations as they adapt to their different environments. This is known as adaptive radiation
 - This means that eventually the 2 populations will be no longer able to interbreed. By this point they are 2 different species each with a separate gene pool
 
-### Genetic drift
+### Genetic Drift
 - In small populations, speciation can occur via genetic drift
 - Small populations are less genetically diverse (smaller variety of alleles). The alleles that do get passed on will quickly affect the entire population as they quickly become more common.
 - Any selectively favoured mutations will therefore quickly effect the entire population as there is a limited gene pool for other alleles.
 - This causes rapid change in small populations, making it more likely for a new species to develop
 - In larger populations the effect of a mutant allele will be quickly diluted as it is much less frequent within the gene pool
 
-### Allopatric speciation
+### Allopatric Speciation
 - This is where populations become geographically separated via either a physical barrier between 2 populations which stops them from interbreeding. 2 separate gene pools
 - Varying environmental conditions on either side of this barrier cause the 2 populations to be influenced by natural selection differently, causing them to diverge into separate species
 - [[Natural Selection#Variation|Variation]] exists because of mutations
 
-### Sympatric speciation
+### Sympatric Speciation
 - This is where populations within the same area become reproductively separated
 - Separate gene pools as individuals are not likely to breed so no gene flow
 - An example of this separation can be seasons or niches. This means that individuals are less likely to come across each other and interbreed
 ![[Pasted image 20230201142158.png]]
 
-### Isolation mechanisms summary
+### Isolation Mechanisms Summary
 ![[Pasted image 20230201142358.png|500]]

@@ -1,4 +1,5 @@
 #biology
+
 >7/11/22
 
 - ?
@@ -75,8 +76,6 @@ pathogens are detected by the phagocytes, they engulf them in a phagosome and us
 e = XRXr f = XRY
 
 >31/1/23
-
-- 
     - No mutation
     - No addition or loss of genes
     - random mating

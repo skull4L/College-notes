@@ -9,6 +9,7 @@
 - It is referred to as the calvin cycle
 
 ![[Pasted image 20230131105055.png]]
+
 ### Stages
 1. Carbon dioxide diffuses into the leaf and dissolves in water, then diffuses into the mesophyll cells. It then makes it to the stroma of the chloroplast
 2. In the stroma the CO2 reacts with 5 carbon ribulose biphosphate (RuBP), catalysed by rubisco
@@ -17,4 +18,3 @@
 5. NADP is reformed and returns to light dependant reaction to be reduced again by accepting protons
 6. Some TP molecules convert into organic substances such as starch, cellulose, lipids, glucose, amino acids and nucleotides
 7. Most TP is used to regenerate RuBP using ATP from the light dependant reaction
-

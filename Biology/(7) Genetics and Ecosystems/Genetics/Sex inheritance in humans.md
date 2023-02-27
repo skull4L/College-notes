@@ -1,8 +1,8 @@
 #biology
 - Females are homogametic (XX)
--  Males are heterogametic (XY)
+- Males are heterogametic (XY)
 
-### inheritance of sex alleles
+### Inheritance of Sex Alleles
 Parental phenotypes: male x female
 Parental genotypes XY x XX
 Gametes: X Y x X X
@@ -10,9 +10,9 @@ Gametes: X Y x X X
 |     | X   | Y   |
 | --- | --- | --- |
 | X   | XX  | XY  |
-| X   | XX  | XY  | 
+| X   | XX  | XY  |
 
-### Sex linkage
+### Sex Linkage
 - Any gene that is carried on either the X or Y chromosome is sex linked. The X chromosome is much longer than the Y chromosome.
 - Males are much more likely to be the sufferers of sex linked diseases. This is because the Y chromosome is does not have alleles so they only need 1 copy of it to express the disease.
 
@@ -22,4 +22,4 @@ Gametes: X Y x X X
 |     | Xh   | Y   |
 | --- | ---- | --- |
 | XH  | XHXh | XHY |
-| XH  | XHXh | XHY | 
+| XH  | XHXh | XHY |

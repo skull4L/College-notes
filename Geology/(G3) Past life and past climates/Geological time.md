@@ -1,8 +1,10 @@
-#geology 
+#geology
+
 ###### Eons
 - The longest measurable periods of time
     - Precambrian
     - Phanerozoic
+
 ###### Eras
 - Periods within eons
     - Hadean
@@ -10,6 +12,7 @@
     - Palaezoic
     - Mesozoic
     - Cenozoic
+
 ###### Periods
 - Within eras
     - Cambrian
@@ -25,4 +28,5 @@
     - Neogene
     - Quaternary
 ![[Pasted image 20230207150246.png]]
-## Conditions and changes during the Precambrian
+
+## Conditions and Changes during the Precambrian

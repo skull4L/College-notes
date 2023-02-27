@@ -5,4 +5,3 @@
         - Shock absorbing rubber foundations
         - Shutters protecting against broken glass
         - Diverting lava flow
-
