@@ -11,17 +11,9 @@
             "id": "e78ba8c54d05486c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "672a1d9b1c765de5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,25 +21,12 @@
             }
           },
           {
-            "id": "e917f220f94772f3",
+            "id": "b0483c32411ac1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab7a09f7de3a625f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md"
               }
             }
           },
@@ -271,16 +250,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab7a09f7de3a625f",
+  "active": "b0483c32411ac1a0",
   "lastOpenFiles": [
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
