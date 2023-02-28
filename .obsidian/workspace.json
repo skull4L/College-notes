@@ -112,24 +112,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "de2f8cd2b6270d5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18a0f47923202407",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
-              },
-              "pinned": true
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
