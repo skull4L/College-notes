@@ -25,4 +25,9 @@ transcription and therefore translation does not take place a polypeptide chain 
 - Oestrogen can switch on a gene and therefore start transcription. It does this by combining with a receptor site on the transcriptional factor. This activates the DNA binding site by causing it to change shape.
 
 ###### Describe how oestrogen stimulates the expression of a gene:
-Oestrogen diffuses through the phospholipid part of the cell surface membrane into the cytoplasm of a cell. It binds with a site on the receptor part of a transcriptional factor. Oestrogen changes the shape of the DNA binding site on the transcription factor so that it can now bond with DNA. The transcriptional factor now enters the nucleus through a nuclear pore and binds with the DNA. stimulating transcription of the gene that makes up that portion of DNA. So it stimulates gene expression.
+- Oestrogen diffuses through the phospholipid part of the cell surface membrane into the cytoplasm of a cell (it is lipid soluble). 
+- It binds with a site on the receptor part of a transcriptional factor. 
+- Oestrogen changes the shape of the DNA binding site on the transcription factor so that it can now bond with DNA.
+- The transcriptional factor now enters the nucleus through a nuclear pore and binds with the specific DNA base sequence which is known as the promoter region. 
+- This stimulates RNA polymerase and transcription of the gene that makes up that portion of DNA begins.
+- The gene is now expressed
