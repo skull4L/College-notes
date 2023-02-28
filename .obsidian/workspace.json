@@ -81,7 +81,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "de2f8cd2b6270d5b",
+        "type": "tabs",
+        "children": [
           {
             "id": "18a0f47923202407",
             "type": "leaf",
@@ -123,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#biology",
+                "query": "tag:#geography",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -160,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md"
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
               }
             }
           },
@@ -236,8 +243,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e78ba8c54d05486c",
+  "active": "18a0f47923202407",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
@@ -263,7 +271,6 @@
     "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
     "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
     "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.5 - Responses to tectonic hazards.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Volcanic processes and hazards.md"
+    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md"
   ]
 }
