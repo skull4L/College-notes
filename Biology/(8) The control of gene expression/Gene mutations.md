@@ -3,6 +3,7 @@
     -   formation of stop codon that stops polypeptide chain. The protein will not perform its original function.
     -   Formation of amino acid so protein structure will change and it might not function normally.
     -   Formation of different codon but same amino acid as DNA code is degenerate. As a result, the mutation has no effect.
+- The order of DNA bases in a gene determines the order of amino acids in a protein
 
 ## Deletion of bases
 - The deletion of bases results in a frame shift and the gene is read wrong resulting in a different protein that functions differently.

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md"
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md"
               }
             }
           },
@@ -255,8 +255,8 @@
   },
   "active": "8a291c1c28f5b017",
   "lastOpenFiles": [
-    "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+    "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Geography/Geography.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
