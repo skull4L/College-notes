@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[Dinosaurs]]
 - [[Ediacaran fauna - precambrian]]
 - [[Faunal diversification]]
 - [[Geological time]]

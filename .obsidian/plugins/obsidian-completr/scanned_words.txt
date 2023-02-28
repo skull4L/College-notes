@@ -4253,6 +4253,8 @@ escape
 eaten
 embryonic
 embryos
+exchanged
+ears
 create
 concrete
 climate
@@ -9441,6 +9443,7 @@ grazing
 germination
 graze
 gather
+gills
 risk
 rigidity
 rubber
@@ -11801,6 +11804,7 @@ respect
 recreation
 reintroduce
 read
+reduces
 of
 on
 out
@@ -14015,6 +14019,7 @@ ordinates
 ordinate
 occupied
 offer
+overcome
 loss
 life
 lava
@@ -16637,6 +16642,7 @@ lessen
 lahars
 lit
 lots
+lungs
 this
 to
 the
@@ -19282,6 +19288,7 @@ transcribed
 translated
 totipotent
 translate
+thin
 is
 impacts
 in
@@ -26933,6 +26940,7 @@ bust
 beta
 benzopyrene
 bone
+bigger
 materials
 most
 medium
@@ -29847,6 +29855,7 @@ mutagenic
 mutagens
 mature
 marrow
+metabolism
 such
 soils
 some
@@ -32865,6 +32874,7 @@ smoke
 specialisation
 supportive
 specialise
+steep
 as
 absorbing
 against
@@ -39859,6 +39869,8 @@ Sampling
 Sucession
 Substitution
 Stem
+Surface
+Systems
 foundations
 flow
 forest
@@ -64342,6 +64354,7 @@ Affecting
 Aesthetic
 Areas
 Addition
+Area
 Rainforest
 RDF
 Rw
@@ -69168,6 +69181,9 @@ Try
 Transect
 Translocation
 Totipotent
+Thin
+Transport
+Transfer
 vegetation
 very
 via
@@ -71556,6 +71572,8 @@ vsG
 vZl
 volcano
 visit
+vessels
+vascularised
 Heavy
 Hancock
 Hq
@@ -73580,6 +73598,7 @@ HaQ
 Hills
 Happens
 Help
+Heat
 quickly
 quality
 qs
@@ -97470,6 +97489,7 @@ xcW
 xwBd
 xBJ
 xJR
+xylem
 Kylie
 Kc
 Kr
@@ -110013,6 +110033,7 @@ VxJ
 VoRm
 VvUE
 VnTM
+Volume
 jk
 jh
 jj
@@ -114532,6 +114553,7 @@ Endangered
 Exclusion
 Effect
 Extra
+Elephants
 QJ
 QZ
 QB
