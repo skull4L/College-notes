@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ## Nitrogen Cycle
 The nitrogen cycle shows how nitrogen is transferred between organisms and their ecosystem. There are four steps in the nitrogen cycle, each of which involves bacteria:
 

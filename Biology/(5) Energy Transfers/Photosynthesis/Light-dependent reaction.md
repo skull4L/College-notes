@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ## Photoionization of Chlorophyll
 - Light energy is absorbed by chlorophyll in the [[Photosysnthesis overview#Photosystems|photosystems.]] This is the first step in photosynthesis.
 - ==Absorbing light energy excites the electrons within the photosystem.==

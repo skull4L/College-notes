@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - One gene has more than 2 alleles
     - Eg: Human ABO blood group
         - There are 3 alleles associated with the Immunoglobin gene which is called I

@@ -1,4 +1,6 @@
-#geology
+---
+tags: [geology]
+---
 - Sediment gets finer grained further away from land. Different zones are characterised by different sedimentary facies.
 - Delta top
     - Dominated by distributary channels with areas of swamps, bays and flood plains

@@ -1,4 +1,6 @@
-#geology
+---
+tags: [geology]
+---
 ![[Pasted image 20230131144950.png]]
 
 ## The Nature of Rock Deformation

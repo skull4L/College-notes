@@ -1,4 +1,6 @@
-#misc
+---
+tags: [misc]
+---
 Humans have had a significant impact on the nitrogen cycle, a critical natural process that regulates the availability of nitrogen in the environment. Nitrogen is a critical element for life as it is a key component of DNA, proteins, and other organic molecules. The nitrogen cycle refers to the process by which nitrogen is transformed from one form to another and the movement of nitrogen through the biosphere. The cycle is primarily driven by bacteria, but human activities have significantly altered the process.
 
 One of the main ways in which humans affect the nitrogen cycle is through the use of synthetic fertilizers. Fertilizers are a critical component of modern agriculture, as they are used to increase crop yields. The primary ingredient in most synthetic fertilizers is nitrogen, which is used to enhance plant growth. However, the excessive use of nitrogen-based fertilizers has led to nitrogen pollution in many areas. When nitrogen is applied to crops in excessive quantities, it can leach into groundwater and surface water sources, causing harm to aquatic ecosystems. Additionally, nitrogen runoff from farms can contribute to the formation of dead zones in coastal waters, where low oxygen levels limit the ability of fish and other aquatic organisms to survive.

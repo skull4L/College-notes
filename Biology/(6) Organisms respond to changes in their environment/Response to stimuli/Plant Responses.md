@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Plants are not mobile so they must regulate growth in response to directional stimuli. These are known as tropisms
 
 ### Phototropism

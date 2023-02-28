@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 The kidneys are an important organ involved with filtering out waste such as urea. They also regulate the water content in the blood, this is the process of osmoregulation.
 ![[Pasted image 20221212105918.png]]
 

@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ## Intraspecific Competition
 - Occurs when individuals of the same species compete with each other for resources such as food, water and breeding sites
 - It's the availability of these resources that determines the size of the population and the degree of competition between individuals which can result in a smaller population.

@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - [[Natural Selection#Variation|Variation]] in phenotype is due to both genetic and environmental factors
     - Often a combination of both
 - The primary source of genetic variation is mutation

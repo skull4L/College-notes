@@ -1,4 +1,6 @@
-#geology
+---
+tags: [geology]
+---
 - Marked by the development of organisms with hard parts such as:
     - Echinoderms
     - Brachiopods

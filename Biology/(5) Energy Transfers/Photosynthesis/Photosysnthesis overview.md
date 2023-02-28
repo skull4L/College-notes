@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Photosynthesis is a series of reactions that uses solar energy to convert CO2 into carbohydrates.
 
 >6CO2 + 6H2O → 6O2 + C6H12O6

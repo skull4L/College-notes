@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Mendelian genetics predicts specific ratios from certain types of crosses:
 
 ### Ratios

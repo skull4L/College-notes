@@ -1,4 +1,6 @@
-#geology
+---
+tags: [geology]
+---
 - A phase is a state of matter
     - Solid
     - Liquid

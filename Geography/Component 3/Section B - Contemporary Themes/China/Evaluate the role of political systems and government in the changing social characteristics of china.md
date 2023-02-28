@@ -1,4 +1,6 @@
-#geography
+---
+tags: [geography]
+---
 - Premise:
     - Housing
     - Education

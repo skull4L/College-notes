@@ -1,4 +1,6 @@
-#geology
+---
+tags: [geology]
+---
 - Index minerals
     - Can Badgers Go Kite Surfing
         - Chlorite Low grade

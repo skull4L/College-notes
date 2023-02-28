@@ -1,5 +1,6 @@
-#geology
-
+---
+tags: [geology]
+---
 ### SP8 Describing Igneous Rocks
 - rock is holocrystaline
 - medium grained

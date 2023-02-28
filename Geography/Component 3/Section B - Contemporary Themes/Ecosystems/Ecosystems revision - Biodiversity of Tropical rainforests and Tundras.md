@@ -1,5 +1,6 @@
-#geography
-
+---
+tags: [geography]
+---
 ### Tropical Rainforest
 - **Biodiversity**
     - **Flora and fauna**

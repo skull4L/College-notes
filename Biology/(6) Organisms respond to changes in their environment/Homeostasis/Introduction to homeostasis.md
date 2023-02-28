@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Homeostasis is the maintaining of constant internal conditions in the body despite external changes
 - Examples:
     - Body temperature

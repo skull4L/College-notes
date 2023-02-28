@@ -1,4 +1,6 @@
-#misc
+---
+tags: [misc]
+---
 
 >Describe the main ways in which water quality in rivers is affected by pollution and outline the options for water quality treatment.
 

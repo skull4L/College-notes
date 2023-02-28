@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ## Phosphorus Cycle
 - The phosphorus cycle shows how phosphate ions (PO43-) are transferred between organisms and their ecosystem and how micoorganisms influence each step.
 

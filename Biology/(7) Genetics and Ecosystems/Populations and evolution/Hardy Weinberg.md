@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ### Hardy-Weinberg Principal
 - Discovered by GH Hardy and W Weinberg (1908)
     ''[[Studying Inheritance#Heterozygous|Heterozygotes]] are reservoirs of genetic [[Natural Selection#Variation|variation]]''

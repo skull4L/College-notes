@@ -1,5 +1,6 @@
-#geology
-
+---
+tags: [geology]
+---
 ###### Eons
 - The longest measurable periods of time
     - Precambrian

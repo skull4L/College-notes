@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Glycogenesis - Glucose is converted to glycogen
 - Glycogenolysis - Glycogen is converted into glucose
 - Gluconeogenesis - Non carbohydrates are converted into glucose

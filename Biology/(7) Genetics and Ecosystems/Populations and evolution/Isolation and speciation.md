@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - In a [[Populations and ecosystems#Populations|population]] the [[Studying Inheritance#Allele|alleles]] of any one individual can combine with those of any other to create a genetically unique individual
 - All the alleles found in a population at any given time is known as a [[Hardy Weinberg#Gene pool|gene pool]]
 - The frequency of the occurrence of an allele in a gene pool is known as allelic frequency (shocking right?)

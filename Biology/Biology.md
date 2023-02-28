@@ -4,6 +4,7 @@
 - **[[(5) Energy Transfers]]**
 - **[[(6) Organisms respond to changes in their environment]]**
 - **[[(7) Genetics and Ecosystems]]**
+- **[[(8) The control of gene expression]]**
 - **[[Essays]]**
 - **[[Intervention]]**
 - [[Probability]]

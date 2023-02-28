@@ -10,10 +10,25 @@
           {
             "id": "e78ba8c54d05486c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
+                "file": "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3deb0ecc53b4382e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "de2f8cd2b6270d5b",
@@ -167,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md"
               }
             }
           },
@@ -243,8 +258,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "18a0f47923202407",
+  "active": "3deb0ecc53b4382e",
   "lastOpenFiles": [
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
+    "Geography/Geography.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
+    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
+    "Biology/(8) The control of gene expression/Gene mutations.md",
+    "Biology/(7) Genetics and Ecosystems/(7) Genetics and Ecosystems.md",
+    "Biology/Essays/Essays.md",
+    "Biology/Essays/Importance of Proteins.md",
+    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(8) The control of gene expression",
     "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
@@ -253,24 +281,12 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Variation in population size.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Multiple Alleles in blood.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Mendel Predicted ratios.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Epistasis.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Biology/Starter questions.md",
     "Biology/Probability.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
-    "Biology/Biology.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Untitled.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Nitrogen cycle.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
-    "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
-    "Biology/(5) Energy Transfers/Nutrient cycles/Fertilisers & eutrophication.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/3.1.5 - Responses to tectonic hazards.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Tectonic hazards/Tectonic processes and hazards.md"
+    "Biology/Biology.md"
   ]
 }

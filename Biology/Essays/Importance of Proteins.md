@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ### Planning
 - DNA
 - Haemoglobin

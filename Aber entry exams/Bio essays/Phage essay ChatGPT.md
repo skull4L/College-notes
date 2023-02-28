@@ -1,4 +1,6 @@
-#misc
+---
+tags: [misc]
+---
 Bacteriophages, also known as phages, are viruses that infect bacteria. They were discovered in the early 20th century and have since been the subject of much scientific study due to their potential to be used as a form of biological control. In this essay, we will explore the discovery of bacteriaphages, their structure, replication cycle, and current applications in medicine, agriculture, and biotechnology.
 
 The discovery of bacteriaphages is often credited to French-Canadian microbiologist Félix d'Hérelle. In 1917, d'Hérelle observed that a mysterious substance in the feces of patients with dysentery was capable of killing bacteria. He later identified this substance as a virus and named it a "bacteriophage." The term "bacteriophage" comes from the Greek words "bacteria" and "to devour."

@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - All chromosomes except the ones that determine sex
 - 2 or more genes can be carried on the same chromosome
 - In humans, 23 pairs of chromosomes carry genes that determine characteristics, each chromosome must possess many different genes

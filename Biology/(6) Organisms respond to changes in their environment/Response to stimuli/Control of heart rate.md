@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 
 >Question: Describe how heartbeat is initiated and coordinated (5)
 
@@ -20,7 +22,6 @@ Peripheral nervous system (PNS): Made up of nerves which originate from the brai
 Central nervous system (CNS):
     Brain
     Spinal cord; Bridge between brain and peripheral nerves.
-
 
 ### The Autonomic Nervous System
 The sympathetic nervous system:

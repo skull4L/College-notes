@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Selection pressures determine the frequency of alleles within a [[Hardy Weinberg#Gene pool|gene pool]]
     - This is the driving force behind natural selection
 - Evolution via natural selection depends on the following factors

@@ -1,4 +1,6 @@
-#biology
+---
+tags: [biology]
+---
 - Mendel predicted specific ratios
 
 | Ratio   | Description                                                                   |

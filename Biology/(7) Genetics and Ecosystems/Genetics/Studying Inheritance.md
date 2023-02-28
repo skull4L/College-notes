@@ -1,5 +1,6 @@
-#biology
-
+---
+tags: [biology]
+---
 ###### Allele
 - An alternative version of a gene
 

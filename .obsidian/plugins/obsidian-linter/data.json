@@ -25,8 +25,8 @@
       "Text to insert": "aliases: \ntags: "
     },
     "Move Tags to Yaml": {
-      "Move all tags to Yaml frontmatter of the document.": false,
-      "Body tag operation": "Nothing",
+      "Move all tags to Yaml frontmatter of the document.": true,
+      "Body tag operation": "Remove whole tag",
       "Tags to ignore": ""
     },
     "Remove YAML Keys": {
@@ -133,8 +133,8 @@
       "List item style": "-"
     },
     "Compact YAML": {
-      "Removes leading and trailing blank lines in the YAML front matter.": false,
-      "Inner New Lines": false
+      "Removes leading and trailing blank lines in the YAML front matter.": true,
+      "Inner New Lines": true
     },
     "Consecutive blank lines": {
       "There should be at most one consecutive blank line.": true
