@@ -24,3 +24,10 @@
 - Outside factors that increase the basic mutation rate are called mutagenic agents or mutagens, these include:
     -   High energy ionising radiation, e.g. alpha and beta particles.
     -   Chemicals, for e.g. nitrogen dioxide, benzopyrene (from tobacco smoke), etc.,
+
+## Benefits of mutation
+- Genetic diversity needed for natural selection and speciation
+
+## Harm of mutation
+- Produce an organism which are less suited to their environment
+- Diseases such as cancer which damages cell division

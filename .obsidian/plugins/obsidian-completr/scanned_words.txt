@@ -4251,6 +4251,8 @@ extinct
 expensive
 escape
 eaten
+embryonic
+embryos
 create
 concrete
 climate
@@ -19276,6 +19278,10 @@ tag
 thereby
 three
 tobacco
+transcribed
+translated
+totipotent
+translate
 is
 impacts
 in
@@ -24887,6 +24893,11 @@ destinations
 degenerate
 deletion
 duplicated
+differentiated
+dividing
+differentiating
+divisions
+disorders
 building
 broken
 biodiversity
@@ -26921,6 +26932,7 @@ boom
 bust
 beta
 benzopyrene
+bone
 materials
 most
 medium
@@ -29833,6 +29845,8 @@ monitor
 measuring
 mutagenic
 mutagens
+mature
+marrow
 such
 soils
 some
@@ -32848,6 +32862,9 @@ sucession
 setting
 surveys
 smoke
+specialisation
+supportive
+specialise
 as
 absorbing
 against
@@ -37527,6 +37544,7 @@ Mechanisms
 Methods
 Managing
 Moth
+Multipotent
 Shock
 Shutters
 Soils
@@ -39840,6 +39858,7 @@ Species
 Sampling
 Sucession
 Substitution
+Stem
 foundations
 flow
 forest
@@ -44785,6 +44804,8 @@ pandas
 parks
 pray
 particles
+placenta
+pluripotent
 Diverting
 Deforestation
 Description
@@ -47268,6 +47289,7 @@ Discards
 Drift
 Deletion
 Duplication
+Differentiation
 What
 Whats
 Word
@@ -69145,6 +69167,7 @@ Tertiary
 Try
 Transect
 Translocation
+Totipotent
 vegetation
 very
 via
@@ -80532,6 +80555,7 @@ Competition
 Curves
 Colonizers
 Chemicals
+Cardiomyocytes
 useful
 usually
 us
@@ -82984,6 +83008,9 @@ utM
 uEP
 ultimately
 until
+unspecialised
+unlimited
+unipotent
 On
 Overall
 ObjStm
@@ -90796,6 +90823,7 @@ Principal
 Pool
 Predator
 Predators
+Pluripotent
 Length
 Library
 LEn
@@ -102445,6 +102473,8 @@ Uä
 UMP
 UwrB
 Use
+Unspecialised
+Unipotent
 yk
 yq
 yL

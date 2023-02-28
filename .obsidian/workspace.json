@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
+                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b46529d5bf7ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(8) The control of gene expression/Gene expression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
+                "file": "Biology/(8) The control of gene expression/Gene expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
+                "file": "Biology/(8) The control of gene expression/Gene expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md"
+                "file": "Biology/(8) The control of gene expression/Gene expression.md"
               }
             }
           },
@@ -253,9 +266,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8a291c1c28f5b017",
+  "active": "74b46529d5bf7ec8",
   "lastOpenFiles": [
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+    "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Geography/Geography.md",
@@ -281,7 +295,6 @@
     "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Mendel Predicted ratios.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Epistasis.md",
-    "Biology/Starter questions.md",
-    "Biology/Probability.md"
+    "Biology/Starter questions.md"
   ]
 }
