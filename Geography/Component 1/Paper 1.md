@@ -1,0 +1,2 @@
+- Essays in paper 1 will only ever ask to assess or examine
+- Composed of AO1 questions

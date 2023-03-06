@@ -106,7 +106,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+                "file": "Geography/Component 3/Ocean governance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42b355f593e95fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 1/Paper 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -163,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 3/Ocean governance.md",
+                "file": "Geography/Component 1/Paper 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 3/Ocean governance.md",
+                "file": "Geography/Component 1/Paper 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 3/Ocean governance.md"
+                "file": "Geography/Component 1/Paper 1.md"
               }
             }
           },
@@ -305,10 +318,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39207f7de512c331",
+  "active": "42b355f593e95fe2",
   "lastOpenFiles": [
-    "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
+    "Geography/Component 1/Component 1.md",
+    "Geography/Component 1/Paper 1.md",
     "Geography/Component 3/Ocean governance.md",
+    "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+    "Geography/Component 1/Section A - Coastal Landscapes/.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
     "Geography/Component 3/Component 3.md",
     "Geography/Geography.md",
     "Geology/(G3) Past life and past climates/Geological time.md",
@@ -329,11 +346,7 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
     "Biology/(7) Genetics and Ecosystems/(7) Genetics and Ecosystems.md",
     "Biology/Essays/Essays.md",
-    "Biology/Essays/Importance of Proteins.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
-    "Biology/(8) The control of gene expression",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
+    "Biology/(8) The control of gene expression"
   ]
 }
