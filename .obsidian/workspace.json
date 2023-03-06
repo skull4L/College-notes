@@ -80,7 +80,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
+                "file": "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39207f7de512c331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 3/Ocean governance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -150,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
+                "file": "Geography/Component 3/Ocean governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
+                "file": "Geography/Component 3/Ocean governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md"
+                "file": "Geography/Component 3/Ocean governance.md"
               }
             }
           },
@@ -292,15 +305,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b1e6999af2f2f029",
+  "active": "39207f7de512c331",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Dinosaurs.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
+    "Geography/Component 3/Ocean governance.md",
+    "Geography/Component 3/Component 3.md",
+    "Geography/Geography.md",
+    "Geology/(G3) Past life and past climates/Geological time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
+    "Geology/(G3) Past life and past climates/Dinosaurs.md",
     "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
-    "Geography/Geography.md",
     "Geology/(G3) Past life and past climates/Faunal diversification.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
@@ -317,10 +334,6 @@
     "Biology/(8) The control of gene expression",
     "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
     "Biology/(7) Genetics and Ecosystems/Populations and evolution/Effects of different forms of selection on evolution.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Natural Selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Conservation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Populations and ecosystems.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Sampling techniques.md"
+    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Hardy Weinberg.md"
   ]
 }
