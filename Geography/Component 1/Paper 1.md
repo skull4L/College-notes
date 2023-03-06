@@ -21,8 +21,10 @@
                 - Sub aerial erosion
                 - cliff foot erosion
 
-## Describe and explain 2 differing temporal changes that occur at the coast (6 marks)
+## Explain how 2 demographic characteristics might contribute to the identity of a place at a local scale (6 marks)
 
-###### Hours
+###### Gender
 
-###### Seasons
+###### Age
+
+###### Language
