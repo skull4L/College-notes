@@ -23,3 +23,18 @@
 - Where this association is stronger, the DNA-histone complex is more condensed and is therefore not accessible by transcription factors. It is off.
 - Condensation of the DNA-histone complex therefore controls transcription and is controlled by acetylation of histones or by methylation of DNA
 
+## Decreased acetylation of associated histones
+- Acetylation is the process whereby an acetyl group is transferred to a molecule
+- In this case the group donating the acetyl group is acetylcoenzyrne A
+- Decreased acetylation increases the positive charges on histones and therefore increases their attraction to the phosphate groups of DNA.
+- The association between DNA and histones is stronger, and the DNA is not accessible to transcription factors, here the gene is switched off
+
+## Increased methylation of DNA
+- Methylation is the addition of a methyl group (CH3) to a molecule.
+- In this case the methyl group is added LO the cytosine bases of DNA.
+- Methylation normally inhibits the transcription of genes in two ways: 
+    - Preventing the binding of transcriptional factors to the DNA 
+    - Attracting proteins that condense the DNA-histone complex (by inducing deacetylation of the histones) making the DNA inaccessible to transcription factors.
+
+## Epigenetics and inheritance
+- Contrary to past theories, it is now accepted that epigenetic inheritance takes place

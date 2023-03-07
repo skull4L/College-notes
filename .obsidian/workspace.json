@@ -26,19 +26,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9fb6e0924ff38e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Biology/(8) The control of gene expression/Epigenetics.md",
                 "mode": "source",
                 "backlinks": false,
@@ -47,7 +34,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "daaed1086e793f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fb6e0924ff38e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -189,12 +193,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9fb6e0924ff38e5",
+  "active": "83a317150263ac6f",
   "lastOpenFiles": [
-    "Biology/(8) The control of gene expression/Gene expression.md",
-    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(8) The control of gene expression/Epigenetics.md",
+    "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
     "Geography/Component 3/Ocean governance.md",
     "Geography/Component 1/Component 1.md",
@@ -217,7 +221,6 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
-    "Biology/(7) Genetics and Ecosystems/(7) Genetics and Ecosystems.md",
     "Biology/(8) The control of gene expression"
   ]
 }
