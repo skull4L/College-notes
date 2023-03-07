@@ -11,6 +11,7 @@
 - As well as this it can cause active genes to be unwrapped making it easier for transcription
 - Unlike genetic code, the epigenome is flexible and therefore can be changed in response to environmental factors
 - This allows certain genes to be switched on or off to respond to different environmental changes
+
 - The epigenome acts as a sort of cellular memory, it is the accumulation of all the signals a cell has received over its lifetime
 - During fetal development nutrients from the mother shape the epigenome
 - After birth the epigenome is largely affected by envronmental factors
