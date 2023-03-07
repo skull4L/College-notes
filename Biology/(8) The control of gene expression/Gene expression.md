@@ -14,9 +14,10 @@
 
 1) Transcription factors move from the cytoplasm into the nucleus (for transcription to work the gene needs to switched on by transcriptional factors)
 2) Each transcription factor has a site that binds to a specific base sequence of the DNA in a nucleus
-3) When it binds, it causes the region of DNA to start transcription 4) mRNA is produced and the information is carries is the translated into sequence of amino acids coding for a particular polypeptide. 
-4) When a gene is not expressed (Le. switched off) the site on the transcriptional factor that binds to the DNA is not active.
-5) If the site on the transcriptional factor binding to the DNA is inactive it cannot cause
+3) When it binds, it causes the region of DNA to start transcription 
+4) mRNA is produced and the information is carries is the translated into sequence of amino acids coding for a particular polypeptide. 
+5) When a gene is not expressed (Le. switched off) the site on the transcriptional factor that binds to the DNA is not active.
+6) If the site on the transcriptional factor binding to the DNA is inactive it cannot cause
 
 transcription and therefore translation does not take place a polypeptide chain is not synthesised
 

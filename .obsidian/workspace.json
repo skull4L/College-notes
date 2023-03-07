@@ -8,99 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e78ba8c54d05486c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3deb0ecc53b4382e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a291c1c28f5b017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74b46529d5bf7ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Faunal diversification.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5011369bd0fd397e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Dinosaurs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1e6999af2f2f029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39207f7de512c331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Component 3/Ocean governance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
@@ -114,12 +21,12 @@
             }
           },
           {
-            "id": "42b355f593e95fe2",
+            "id": "fc3bee0e2bd5e8f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 1/Paper 1.md",
+                "file": "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,58 +34,12 @@
             }
           },
           {
-            "id": "a74cc85b3c134dcc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "9a167087dd16c56f",
+            "id": "d9fb6e0924ff38e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4684bff0d9058a80",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
-              }
-            }
-          },
-          {
-            "id": "e0d846b084bbd1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Bio essays/Nitrogen cycle essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f173bef7b45be237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
+                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -186,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 1/Paper 1.md",
+                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 1/Paper 1.md",
+                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 1/Paper 1.md"
+                "file": "Biology/(8) The control of gene expression/Epigenetics.md"
               }
             }
           },
@@ -328,11 +189,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a74cc85b3c134dcc",
+  "active": "d9fb6e0924ff38e5",
   "lastOpenFiles": [
+    "Biology/(8) The control of gene expression/Gene expression.md",
+    "Biology/(8) The control of gene expression/Epigenetics.md",
+    "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
+    "Geography/Component 3/Ocean governance.md",
     "Geography/Component 1/Component 1.md",
     "Geography/Component 1/Paper 1.md",
-    "Geography/Component 3/Ocean governance.md",
     "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
     "Geography/Component 1/Section A - Coastal Landscapes/.md",
     "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
@@ -341,10 +207,7 @@
     "Geology/(G3) Past life and past climates/Geological time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
-    "Biology/(8) The control of gene expression/Gene expression.md",
-    "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
-    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
     "Geology/(G3) Past life and past climates/Faunal diversification.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
@@ -355,8 +218,6 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Competition.md",
     "Biology/(7) Genetics and Ecosystems/(7) Genetics and Ecosystems.md",
-    "Biology/Essays/Essays.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression"
   ]
 }
