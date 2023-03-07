@@ -35,22 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "daaed1086e793f77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9fb6e0924ff38e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -196,8 +179,8 @@
   "active": "fc3bee0e2bd5e8f4",
   "lastOpenFiles": [
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression/Epigenetics.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
     "Geography/Component 3/Ocean governance.md",

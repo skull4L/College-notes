@@ -1,8 +1,9 @@
 - Epigenetics is the control of transcription and translation of genetic code. This essentially means that epigenetics is the control of what genes are expressed in the phenotype.
 - Epigenetics is influenced by a multitude of factors including diet, stress and toxins
+- No changes to the base sequence of the DNA occur here
 
 ## The epigenome
-- DNA and histones are covered in chemicals often reffered to as tags
+- DNA and histones are covered in chemicals often referred to as tags
 - These chemical tags form what is known as the epigenome
 - This epigenome determines the shape of the DNA-histone complex
 - For example inactive genes are tightly packed insuring that they arent read
