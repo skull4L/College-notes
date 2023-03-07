@@ -44,5 +44,27 @@
 ## Epigenetics and disease
 - Epigenetic changes can be responsible for certain diseases.
 - Alteration of the epigenetic processes can cause abnormal activation or silencing of genes
-- These diseases include cancer where activation of inactive genes cause issues
-- 
+- These diseases include cancer where activation of inactive (or vice versa)  genes causes issues
+- We have seen that epigenetic changes do not alter the sequence of bases in DNA. 
+- They can, however, increase the incidence of mutations. 
+- Some active genes normally help repair DNA and so prevent cancers. 
+- In people with various types of inherited cancer, it is found that increased methylation of these genes has led to these protective genes being switched off. 
+- As a result, damaged base sequences in DNA are not repaired and so can lead to cancer.
+
+## Treating diseases with epigenetic therapy
+- Epigenetic treatments can be used to counteract the changes caused by changes to the epigenome
+- These treatments use drugs to inhibit certain enzymes involved in either histone acetylation or DNA methylation.
+- For example, drugs that inhibit enzymes that cause DNA methylarion can reactivate genes that have been silenced.
+- Epigenetic therapy must be specifically targeted on cancer cells. If the drugs were to affect normal cells they could activate gene transcription and make them cancerous.
+- They can also be used in the development of diagnostic tests to help detect the early stages of diseases such as cancer, brain disorders and arthritis.
+- These tests can identify the level of DNA methylation and histone acetylation at an early stage of disease
+
+## The effect of RNA interference on gene expression
+- In eukaryotes and some prokaryotes the translation of mRNA produced by a gene can be inhibited by breaking mRNA down before its coded information can be translated into a polypeptide.
+- One type of small RNA molecule that may be involved is small interfering RNA (siRNA). 
+- The mechanism involving small double· stranded sections of siRNA operates as follows.
+    - An enzyme cuts large double-stranded molecules of RNA into smaller sections called small interfering RNA (siRNA)
+    - One of the 2 siRNA strands combines with an enzyme.
+    - The siRNA molecule guides the enzyme to a messenger RNA molecule by pairing up its bases with the complementary ones on a section of rhe mRNA molecule 
+    - Once in position, the enzyme cuts the mRNA inro smaller sections
+    - The mRNA is no longer capable of being translated into a polypeptide. • This means that the gene has not been expressed, that is. it has been blocked
