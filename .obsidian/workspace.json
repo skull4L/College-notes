@@ -127,6 +127,16 @@
             }
           },
           {
+            "id": "a74cc85b3c134dcc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "9a167087dd16c56f",
             "type": "leaf",
             "state": {
@@ -176,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -318,7 +328,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "42b355f593e95fe2",
+  "active": "a74cc85b3c134dcc",
   "lastOpenFiles": [
     "Geography/Component 1/Component 1.md",
     "Geography/Component 1/Paper 1.md",
