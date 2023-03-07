@@ -38,3 +38,11 @@
 
 ## Epigenetics and inheritance
 - Contrary to past theories, it is now accepted that epigenetic inheritance takes place
+- It was thought that during development epigenetic tags were erased in order to return cells to a genetic ''clean slate''.
+- However, a few epigenetic tags are able to survive and be passed from parent to offspring
+
+## Epigenetics and disease
+- Epigenetic changes can be responsible for certain diseases.
+- Alteration of the epigenetic processes can cause abnormal activation or silencing of genes
+- These diseases include cancer where activation of inactive genes cause issues
+- 
