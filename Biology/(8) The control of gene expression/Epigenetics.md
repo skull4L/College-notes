@@ -46,7 +46,7 @@
 ## Epigenetics and disease
 - Epigenetic changes can be responsible for certain diseases.
 - Alteration of the epigenetic processes can cause abnormal activation or silencing of genes
-- These diseases include cancer where activation of inactive (or vice versa)  genes causes issues
+- These diseases include cancer where activation of inactive (or vice versa) genes causes issues
 - We have seen that epigenetic changes do not alter the sequence of bases in DNA. 
 - They can, however, increase the incidence of mutations. 
 - Some active genes normally help repair DNA and so prevent cancers. 
