@@ -1,0 +1,9 @@
+- Identified by a sudden change in the rock record
+- Discovered by Walter Alvarez in 1979 in the form of a thin layer of laminated iridium rich clay
+- This layer was discovered all across the world indicating this was a global event
+- This iridium was thought to have come from a meteorite strikes
+- This caused the conclusion to be made that a large scale mass extinction event to occur at the end of the Cretaceous 65Ma
+- Shocked quartz was used to estimate the rough location of this meteorite strikes
+- Tsunami deposits were also used to indicate this
+- Tektites indicated that the impact was near the Gulf of Mexico
+- 

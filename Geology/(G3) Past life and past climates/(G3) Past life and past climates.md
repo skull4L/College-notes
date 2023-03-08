@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[Cretaceous-Palaeogene mass extinction]]
 - [[Dinosaurs]]
 - [[Ediacaran fauna - precambrian]]
 - [[Faunal diversification]]
