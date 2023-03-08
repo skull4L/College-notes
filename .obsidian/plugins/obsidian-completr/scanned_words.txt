@@ -4280,6 +4280,7 @@ envronmental
 erased
 eukaryotes
 estimate
+extinctions
 create
 concrete
 climate
@@ -7292,6 +7293,8 @@ coded
 cuts
 combines
 complementary
+couple
+craters
 greater
 glass
 grow
@@ -9497,6 +9500,9 @@ gather
 gills
 glacial
 guides
+gasses
+glaciations
+geochemical
 risk
 rigidity
 rubber
@@ -16726,6 +16732,7 @@ lowest
 lifetime
 largely
 laminated
+lithological
 this
 to
 the
@@ -19390,6 +19397,9 @@ tightly
 treatments
 targeted
 tests
+thousand
+tektites
+tsunamis
 is
 impacts
 in
@@ -22345,6 +22355,7 @@ inro
 iridium
 indicate
 indicated
+isotopes
 due
 deforestation
 devastating
@@ -25043,6 +25054,9 @@ donating
 deacetylation
 drugs
 diagnostic
+dinosaurs
+dimming
+drops
 building
 broken
 biodiversity
@@ -27091,6 +27105,7 @@ beds
 boarders
 boundary
 blocked
+became
 materials
 most
 medium
@@ -30020,6 +30035,7 @@ methylation
 methylarion
 messenger
 meteorite
+meteoric
 such
 soils
 some
@@ -33070,6 +33086,9 @@ siRNA
 stranded
 sections
 sudden
+span
+shocked
+shelf
 as
 absorbing
 against
@@ -54844,6 +54863,8 @@ Innovation
 ITLOS
 ISBA
 Identified
+Indication
+Indicated
 For
 Filter
 FlateDecode
@@ -59700,6 +59721,7 @@ work
 window
 weaker
 whereby
+wiped
 namely
 note
 nutrients
@@ -64652,6 +64674,7 @@ Acetylation
 Attracting
 Alteration
 Alvarez
+Asteroid
 Rainforest
 RDF
 Rw
@@ -71887,6 +71910,8 @@ variable
 varying
 vice
 versa
+volcanicity
+vicinity
 Heavy
 Hancock
 Hq
@@ -76562,6 +76587,7 @@ quadrat
 quadrats
 quotas
 quota
+quicker
 Nitrogen
 Not
 Nh
@@ -91179,6 +91205,7 @@ Post
 Preservation
 Principals
 Preventing
+Permo
 Length
 Library
 LEn
@@ -93367,6 +93394,8 @@ Lagerstätte
 Limbs
 Laws
 Law
+Late
+Loss
 XML
 XMP
 Xd
@@ -100310,6 +100339,7 @@ KAEb
 KTVrc
 KQZ
 Konservat
+Killing
 UWA
 Ut
 UJ
@@ -114908,6 +114938,7 @@ Exclusive
 Essays
 Epigenetics
 Epigenetic
+Emission
 QJ
 QZ
 QB

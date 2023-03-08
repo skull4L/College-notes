@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "355a0be4637f36eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "139a69150d48fe38",
             "type": "leaf",
             "state": {
@@ -110,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md"
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md"
               }
             }
           },
@@ -202,12 +216,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "139a69150d48fe38",
+  "active": "355a0be4637f36eb",
   "lastOpenFiles": [
+    "Geology/(G3) Past life and past climates/Mass extinctions.md",
+    "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+    "Geology/(G3) Past life and past climates/Untitled.md",
+    "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
     "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
     "Aber entry exams/Bio essays/Hydra essay plan.canvas",
-    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
@@ -229,8 +246,6 @@
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
     "Biology/(3) Substance exchange/Gas Exchange/Gas Exchange.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
     "Biology/(8) The control of gene expression"
   ]
 }
