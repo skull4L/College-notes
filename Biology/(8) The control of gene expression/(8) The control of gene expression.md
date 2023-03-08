@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Causes of mutation]]
+- [[Cancer]]
 - [[Epigenetics]]
 - [[Gene expression]]
 - [[Gene mutations]]
