@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md"
+                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md"
               }
             }
           },
@@ -204,9 +204,10 @@
   },
   "active": "139a69150d48fe38",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
+    "Aber entry exams/Bio essays/Hydra essay plan.canvas",
+    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
@@ -230,7 +231,6 @@
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/succession.md",
     "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Predation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Polyploidy.md",
     "Biology/(8) The control of gene expression"
   ]
 }
