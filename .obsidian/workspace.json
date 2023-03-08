@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b12f47f058338be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(8) The control of gene expression/Causes of mutation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
-    "collapsed": true
+    "width": 235.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+                "file": "Biology/(8) The control of gene expression/Causes of mutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+                "file": "Biology/(8) The control of gene expression/Causes of mutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md"
+                "file": "Biology/(8) The control of gene expression/Causes of mutation.md"
               }
             }
           },
@@ -216,16 +228,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "355a0be4637f36eb",
+  "active": "2b12f47f058338be",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Mass extinctions.md",
+    "Biology/(8) The control of gene expression/Gene mutations.md",
+    "Biology/(8) The control of gene expression/Causes of mutation.md",
+    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geology/(G3) Past life and past climates/Untitled.md",
     "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
     "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
     "Aber entry exams/Bio essays/Hydra essay plan.canvas",
-    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression/Gene expression.md",
@@ -240,12 +254,10 @@
     "Geography/Geography.md",
     "Geology/(G3) Past life and past climates/Geological time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
-    "Biology/(8) The control of gene expression/Gene mutations.md",
     "Geology/(G3) Past life and past climates/Faunal diversification.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
     "Biology/(3) Substance exchange/Surface area to volume ratio/Surface area to volume ratio.md",
     "Biology/(3) Substance exchange/Gas Exchange/Gas Exchange.md",
-    "Biology/(7) Genetics and Ecosystems/Populations in ecosystems/Artificial selection.md",
     "Biology/(8) The control of gene expression"
   ]
 }
