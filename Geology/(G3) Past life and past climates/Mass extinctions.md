@@ -1,0 +1,11 @@
+- A mass extinction is a period of large scale decline in biodiversity over a short time frame.
+- The best example of this is the Cretaceous-Tertiary mass extinction which wiped out the dinosaurs
+- These span in duration from a few thousand years to a couple million years
+- It is believed that we are currently in the middle of a mass extinction event, caused by human impact on the environment since the industrial revolution
+- Throughout time there have been 5 large scale mass extinctions these are:
+    - Ordovician-Silurian
+    - Late Devonian
+    - Permo-Triassic
+    - Triassic-Jurassic
+    - Cretaceous-Tertiary
+
