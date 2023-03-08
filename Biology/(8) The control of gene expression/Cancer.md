@@ -22,4 +22,12 @@
 - Cell division will be uncontrolled, cells divide too frequently
 - The receptor proteins on the cell surface membrane is activated permanently so that cell division happens without the growth factors
 
-
+## The effect of RNA interference on gene expression
+- In eukaryotes and some prokaryotes, the translation of mRNA produced by a gene can be inhibited by breaking mRNA down before its coded information can be translated into a polypeptide. 
+- A small RNA molecule that can work in this way is called small interfering RNA (siRNA).
+- The mechanism involving small stranded sections of siRNA working in this way can be explained in the following ways:
+    - Double stranded RNA is broken down by an enzyme into small siRNA
+    - One of the 2 strands of siRNA combines with an enzyme
+    - The siRNA strand pairs with the complimentary bases on a mRNA strand
+    - The enzyme then cuts the mRNA into smaller sections
+    - The mRNA cannot be translated so into a polypeptide so the gene is not expressed
