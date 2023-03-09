@@ -73,12 +73,12 @@
             }
           },
           {
-            "id": "7a9dba5cb42f8e22",
+            "id": "9b3b8bfcaaeb651a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Untitled.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Untitled.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Untitled.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Untitled.md"
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md"
               }
             }
           },
@@ -241,11 +242,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a9dba5cb42f8e22",
+  "active": "9b3b8bfcaaeb651a",
   "lastOpenFiles": [
-    "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
+    "Attachments/Oceans  2.2.6 - Knowledge organiser 1.docx",
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-    "Geography/Component 2/Section A - Migration and Oceans/Untitled.md",
+    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+    "Geography/Component 2/Section A - Migration and Oceans/.md",
+    "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
     "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
@@ -270,7 +273,6 @@
     "Geology/(G3) Past life and past climates/Geological time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
     "Geology/(G3) Past life and past climates/Faunal diversification.md",
-    "Biology/(3) Substance exchange/Surface area to volume ratio/Size and surface area.md",
     "Biology/(8) The control of gene expression"
   ]
 }
