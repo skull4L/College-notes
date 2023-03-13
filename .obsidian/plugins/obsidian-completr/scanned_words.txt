@@ -4281,6 +4281,7 @@ erased
 eukaryotes
 estimate
 extinctions
+explained
 create
 concrete
 climate
@@ -14102,6 +14103,8 @@ occured
 oxic
 oceans
 operation
+oncogenes
+oncogene
 loss
 life
 lava
@@ -16733,6 +16736,7 @@ lifetime
 largely
 laminated
 lithological
+lung
 this
 to
 the
@@ -19400,6 +19404,8 @@ tests
 thousand
 tektites
 tsunamis
+tumours
+tumour
 is
 impacts
 in
@@ -25057,6 +25063,7 @@ diagnostic
 dinosaurs
 dimming
 drops
+destroyed
 building
 broken
 biodiversity
@@ -27106,6 +27113,7 @@ boarders
 boundary
 blocked
 became
+breast
 materials
 most
 medium
@@ -30036,6 +30044,8 @@ methylarion
 messenger
 meteorite
 meteoric
+mutates
+mutated
 such
 soils
 some
@@ -33089,6 +33099,8 @@ sudden
 span
 shocked
 shelf
+suppressor
+suppressant
 as
 absorbing
 against
@@ -37802,6 +37814,7 @@ Maritime
 Malacca
 Methylation
 Mexico
+Mutation
 Shock
 Shutters
 Soils
@@ -42602,6 +42615,7 @@ fishing
 flexible
 fetal
 follows
+frequently
 protecting
 particular
 provide
@@ -45098,6 +45112,7 @@ packed
 protective
 prokaryotes
 pairing
+proto
 Diverting
 Deforestation
 Description
@@ -47586,6 +47601,7 @@ Diseases
 Disappearance
 Delimitation
 Danish
+Double
 What
 Whats
 Word
@@ -59722,6 +59738,7 @@ window
 weaker
 whereby
 wiped
+working
 namely
 note
 nutrients
@@ -67093,6 +67110,8 @@ Reasons
 Relationship
 Regulation
 Rockies
+Results
+Regulate
 This
 Terra
 Trees
@@ -69515,6 +69534,7 @@ Treaty
 Treating
 Tsunami
 Tektites
+Tumour
 vegetation
 very
 via
@@ -80927,6 +80947,7 @@ Contiguous
 Canal
 Condensation
 Contrary
+Cause
 useful
 usually
 us
@@ -83384,6 +83405,7 @@ unlimited
 unipotent
 unrelated
 unwrapped
+uncontrolled
 On
 Overall
 ObjStm
@@ -91206,6 +91228,7 @@ Preservation
 Principals
 Preventing
 Permo
+Proto
 Length
 Library
 LEn

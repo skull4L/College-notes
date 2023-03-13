@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+                "file": "Biology/(8) The control of gene expression/Cancer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,6 +100,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "18f426e3e43722a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d562f32103bfe0d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+                "file": "Biology/(8) The control of gene expression/Cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+                "file": "Biology/(8) The control of gene expression/Cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md"
+                "file": "Biology/(8) The control of gene expression/Cancer.md"
               }
             }
           },
@@ -243,12 +259,14 @@
   },
   "active": "9b3b8bfcaaeb651a",
   "lastOpenFiles": [
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
+    "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
+    "Biology/(8) The control of gene expression/Cancer.md",
+    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
     "Attachments/Oceans  2.2.6 - Knowledge organiser 1.docx",
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
     "Geography/Component 2/Section A - Migration and Oceans/.md",
     "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
-    "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
@@ -259,7 +277,6 @@
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
     "Aber entry exams/Bio essays/Hydra essay plan.canvas",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
     "Geography/Component 1/Component 1.md",
@@ -271,7 +288,6 @@
     "Geography/Geography.md",
     "Geology/(G3) Past life and past climates/Geological time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
-    "Geology/(G3) Past life and past climates/Faunal diversification.md",
     "Biology/(8) The control of gene expression"
   ]
 }
