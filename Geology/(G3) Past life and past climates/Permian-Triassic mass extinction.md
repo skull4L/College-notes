@@ -15,5 +15,6 @@
 - Increase of CO2 led to less stomata on plant leaves
 - This is shown by 250Ma fossil plants
 - 20x CO2 levels than today which warmed the atmosphere by 5 degrees
-- 
-- 
+- This led to mass scale desertification
+- Black shales containing pyrite formed as a result of reduced O2
+- Indicates that oceans have lost their oxygen
