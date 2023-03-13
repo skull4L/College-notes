@@ -1,0 +1,19 @@
+- Happened 250Ma as a result of volcanic eruptions
+- Wiped out 95% of all life
+- Evidence for this can be found in the Karoo Basin in South Africa
+    - Lower layers of fossiliferous gray and green rocks indicated lush, moist alive environments
+    - Higher layers of red rocks indicate a drier and warmer environment. Barely any fossils
+- Evidence from Greenland suggests that extinction occurred over a more gradual period
+- Siberian traps show volcanic rocks over a vast area, result of flood basalts which occur over an extreme area
+- Laki, Iceland - 1783 - a modern comparison but much much much smaller
+- Effects:
+    - Lavaflows
+    - Ash
+    - Sulphur dioxide leading to acidification which destroyed ecosystems. As well as this H2SO4 caused global cooling which had a more lasting effect
+- Siberian trap erruption lasted 1/2Ma and occured over 3M square miles
+- This was 200,000x worst than Laki
+- Increase of CO2 led to less stomata on plant leaves
+- This is shown by 250Ma fossil plants
+- 20x CO2 levels than today which warmed the atmosphere by 5 degrees
+- 
+- 

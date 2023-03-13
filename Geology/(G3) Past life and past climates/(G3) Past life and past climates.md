@@ -6,6 +6,7 @@
 - [[Functional morphology of dinosuars]]
 - [[Geological time]]
 - [[Mass extinctions]]
+- [[Permian-Triassic mass extinction]]
 - [[The Cambrian explosion]]
 - [[Untitled]]
 
