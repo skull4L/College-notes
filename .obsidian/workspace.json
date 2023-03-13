@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Cancer.md",
+                "file": "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 235.5,
+    "collapsed": true
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Cancer.md",
+                "file": "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Cancer.md",
+                "file": "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Cancer.md"
+                "file": "Biology/(8) The control of gene expression/Recombinant DNA technology.md"
               }
             }
           },
@@ -259,9 +260,9 @@
   },
   "active": "9b3b8bfcaaeb651a",
   "lastOpenFiles": [
+    "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
-    "Biology/(8) The control of gene expression/Cancer.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
     "Attachments/Oceans  2.2.6 - Knowledge organiser 1.docx",
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
