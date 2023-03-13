@@ -39,7 +39,7 @@
 
 
 ###### Antibiotic resistance markers
-- A tequnique called replica plating is carried out
+- A technique called replica plating is carried out
 - Uses the other antibiotic resistance gene in the plasmid (the gene that was cut in order to insert the desired gene)
 - Therefore this antibiotic resistance to tetracycline no longer works
 - This allows us to identify which plasmid has the required gene by treating them with tetracycline
