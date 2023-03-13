@@ -7,6 +7,7 @@
 		- [[Ocean governance]]
 	- **Section B - Water and Carbon Cycles**
 		- [[Discuss the importance of soil as a water and carbon store (20)]]
+		- [[Revision session]]
 - **[[Component 3]]**
 
 %% End Waypoint %%

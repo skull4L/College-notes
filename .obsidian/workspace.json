@@ -104,7 +104,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52a2805eb0c83f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md"
+                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md"
               }
             }
           },
@@ -267,10 +280,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d068c778b3ee9f89",
+  "active": "52a2805eb0c83f3b",
   "lastOpenFiles": [
-    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+    "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+    "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
+    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
     "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
     "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
@@ -295,7 +310,6 @@
     "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
-    "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
     "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geology/(G3) Past life and past climates/Untitled.md",
     "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
