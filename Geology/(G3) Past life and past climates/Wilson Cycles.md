@@ -1,0 +1,4 @@
+- Supercontinent formation reduces marine biodiversity because there is less biodiversity
+- Continents located at the poles cause global cooling due to high altitudes and high latitude encourages snow/ice due to cooling effect
+- Changes in arrangements of continents and oceans controls circulation patterns in the ocean, which can change climates
+- Supercontinents tend to encourage drier climates

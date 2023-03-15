@@ -46,4 +46,3 @@
 - Process linked to atmospheric circulation and the coriolis effect
 - Such as the trade winds such as the Gulf Stream from Mexico to Europe
 
-

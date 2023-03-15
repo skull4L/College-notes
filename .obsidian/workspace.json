@@ -125,6 +125,19 @@
             }
           },
           {
+            "id": "fddc143273df33dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G3) Past life and past climates/Wilson Cycles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "139a69150d48fe38",
             "type": "leaf",
             "state": {
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Past climates.md",
+                "file": "Geology/(G3) Past life and past climates/Wilson Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Past climates.md",
+                "file": "Geology/(G3) Past life and past climates/Wilson Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Past climates.md"
+                "file": "Geology/(G3) Past life and past climates/Wilson Cycles.md"
               }
             }
           },
@@ -280,10 +293,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "52a2805eb0c83f3b",
+  "active": "fddc143273df33dc",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geology/(G3) Past life and past climates/Past climates.md",
+    "Geology/(G3) Past life and past climates/Wilson Cycles.md",
+    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
@@ -312,7 +326,6 @@
     "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
-    "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
     "Aber entry exams/Bio essays/Hydra essay plan.canvas",
     "Biology/(8) The control of gene expression"
   ]
