@@ -1,4 +1,4 @@
-## Climate/temperature
+###### Climate/temperature
 - 3 warm periods
     - Cretaceous
     - Triassic
@@ -13,7 +13,7 @@
     - Ordovician Cryogenian
     - Neoproterzoic
 
-## Atmospheric composition
+###### Atmospheric composition
 - Present atmosphere
     - 71% nitrogen
     - 28% oxygen
@@ -29,7 +29,7 @@
     - Provided shallow areas where photosynthetic bacteria could grow
     - Led to rapid oxygenation
 
-## Sea level
+###### Sea level
 - Times of high sea level
     - Upper Cretaceous
     - Ordovician
@@ -37,3 +37,11 @@
 - Times of low sea level
     - Tertiary
     - Precambrian
+
+## Present day climate
+- Regulated by thermo-haline circulation in the oceans that redistributes heat energy around the planet
+- Thermo = temp
+- Haline = salt
+- Melting ice sheets contribute cold water which sinks
+- Process linked to atmospheric circulation and the coriolis effect
+- Such as the trade winds such as the Gulf Stream from Mexico to Europe
