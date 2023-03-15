@@ -143,7 +143,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
+                "file": "Biology/(8) The control of gene expression/Gene expression.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19d3ee36035d8f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
+                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
+                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Greenhouse gases through time.md"
+                "file": "Biology/(8) The control of gene expression/Genome Projects.md"
               }
             }
           },
@@ -306,10 +319,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4637867928b5131b",
+  "active": "19d3ee36035d8f9f",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Wilson Cycles.md",
+    "Biology/(8) The control of gene expression/Gene expression.md",
+    "Biology/(8) The control of gene expression/Genome Projects.md",
     "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
+    "Geology/(G3) Past life and past climates/Wilson Cycles.md",
     "Geology/(G3) Past life and past climates/Past climates.md",
     "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
@@ -336,9 +351,7 @@
     "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf",
     "Attachments/Oceans  2.2.6 - Knowledge organiser 1.docx",
-    "Geography/Component 2/Section A - Migration and Oceans/.md",
     "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
-    "Biology/(8) The control of gene expression/Gene mutations.md",
     "Aber entry exams/Bio essays/Hydra essay plan.canvas",
     "Biology/(8) The control of gene expression"
   ]
