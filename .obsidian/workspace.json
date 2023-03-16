@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8565dce1d873a98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md"
+                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md"
               }
             }
           },
@@ -260,9 +273,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62fd240af5c5b649",
+  "active": "8565dce1d873a98b",
   "lastOpenFiles": [
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+    "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
     "Geography/Component 2/Section A - Migration and Oceans/Question.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
@@ -295,7 +309,6 @@
     "Biology/(8) The control of gene expression",
     "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
     "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
-    "Geography/Component 3/Section B - Contemporary Themes/China/3.3.6 Air pollution.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf"
   ]
 }
