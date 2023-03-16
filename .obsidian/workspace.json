@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "ca4c878ac754bce4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
@@ -94,7 +104,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +247,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e78ba8c54d05486c",
+  "active": "ca4c878ac754bce4",
   "lastOpenFiles": [
     "Geography/Component 3/Section B - Contemporary Themes/China/3.3.6 Air pollution.md",
     "Geography/Component 3/Section B - Contemporary Themes/China/China.md",
