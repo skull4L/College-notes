@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62fd240af5c5b649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md"
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Question.md"
               }
             }
           },
@@ -247,11 +260,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "83a317150263ac6f",
+  "active": "62fd240af5c5b649",
   "lastOpenFiles": [
+    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+    "Geography/Component 2/Section A - Migration and Oceans/Question.md",
+    "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
-    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles",
@@ -281,8 +296,6 @@
     "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
     "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
     "Geography/Component 3/Section B - Contemporary Themes/China/3.3.6 Air pollution.md",
-    "Geography/Component 3/Section B - Contemporary Themes/China/China.md",
-    "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
     "Biology/AQA Biology A Level textbook (12pg behind).pdf"
   ]
 }
