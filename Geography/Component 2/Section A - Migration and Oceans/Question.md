@@ -6,3 +6,6 @@
 ###### Anomalies
 - Russia has moved out of the inner layers of the G group
 - The EU is represented as a single body despite the fact that it is made up of 27 countries
+
+###### Essay
+As shown by figure 4 G group membership has grown in size over time. This can be shown
