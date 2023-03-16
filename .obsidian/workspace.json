@@ -8,12 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e78ba8c54d05486c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca4c878ac754bce4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "ed476918b41cadaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +44,12 @@
             }
           },
           {
-            "id": "fc3bee0e2bd5e8f4",
+            "id": "9a167087dd16c56f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Dinosaurs.md",
+                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +57,22 @@
             }
           },
           {
-            "id": "96b1adab51de3c74",
+            "id": "4684bff0d9058a80",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              }
+            }
+          },
+          {
+            "id": "e0d846b084bbd1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Mass extinctions.md",
+                "file": "Aber entry exams/Bio essays/Nitrogen cycle essay ChatGPT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +80,12 @@
             }
           },
           {
-            "id": "355a0be4637f36eb",
+            "id": "f173bef7b45be237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Gene mutations.md",
+                "file": "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,124 +93,19 @@
             }
           },
           {
-            "id": "2b12f47f058338be",
+            "id": "18a0f47923202407",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b3b8bfcaaeb651a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Dinosaurs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda0b4353538f28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d068c778b3ee9f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52a2805eb0c83f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Past climates.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fddc143273df33dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Wilson Cycles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4637867928b5131b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/Gene expression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19d3ee36035d8f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "139a69150d48fe38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#biology",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 219.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -243,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Genome Projects.md",
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Genome Projects.md"
+                "file": "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md"
               }
             }
           },
@@ -319,40 +247,42 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19d3ee36035d8f9f",
+  "active": "83a317150263ac6f",
   "lastOpenFiles": [
-    "Biology/(8) The control of gene expression/Gene expression.md",
-    "Biology/(8) The control of gene expression/Genome Projects.md",
-    "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
-    "Geology/(G3) Past life and past climates/Wilson Cycles.md",
-    "Geology/(G3) Past life and past climates/Past climates.md",
-    "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Discuss the importance of soil as a water and carbon store (20).md",
+    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.7 - Global flows of shipping and sea cables.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
-    "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
-    "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
-    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+    "Geography/Component 2/Section B - Water and Carbon Cycles",
+    "Geography/Component 2/Section A - Migration and Oceans",
+    "Geography/Component 2",
+    "Geography/Component 1/Section A - Coastal Landscapes",
+    "Geography/Component 1/Paper 1.md",
+    "Geography/Component 1/Component 1.md",
+    "Geography/Component 1",
+    "Geology/(G3) Past life and past climates/Wilson Cycles.md",
     "Geology/(G3) Past life and past climates/Permian-Triassic mass extinction.md",
+    "Geology/(G3) Past life and past climates/Past climates.md",
+    "Geology/(G3) Past life and past climates/Mass extinctions.md",
+    "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
+    "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Isolation and speciation.md",
-    "Biology/(7) Genetics and Ecosystems/Populations and evolution/Populations and evolution.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Studying Inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Sex inheritance in humans.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Multiple Alleles in blood.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Monohybrid inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Mendel Predicted ratios.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Epistasis.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Dihybrid Inheritance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Codominance.md",
-    "Biology/(7) Genetics and Ecosystems/Genetics/Chi-squared test.md",
+    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+    "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
+    "Biology/(8) The control of gene expression/Genome Projects.md",
+    "Biology/(8) The control of gene expression/Gene mutations.md",
+    "Biology/(8) The control of gene expression/Gene expression.md",
+    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Cancer.md",
-    "Biology/AQA Biology A Level textbook (12pg behind).pdf",
-    "Attachments/Oceans  2.2.6 - Knowledge organiser 1.docx",
-    "Attachments/Oceans  2.2.6 - Knowledge organiser.docx",
-    "Aber entry exams/Bio essays/Hydra essay plan.canvas",
-    "Biology/(8) The control of gene expression"
+    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
+    "Biology/(8) The control of gene expression",
+    "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
+    "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
+    "Geography/Component 3/Section B - Contemporary Themes/China/3.3.6 Air pollution.md",
+    "Geography/Component 3/Section B - Contemporary Themes/China/China.md",
+    "Geography/Component 3/Section B - Contemporary Themes/Section B - Contemporary Themes.md",
+    "Biology/AQA Biology A Level textbook (12pg behind).pdf"
   ]
 }
