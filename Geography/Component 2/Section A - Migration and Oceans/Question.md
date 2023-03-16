@@ -1,11 +1,6 @@
-## Use figure 4 to analyse the changes over time in G-group membership
-###### Trends
-- G group membership has grown from 7 to 20
-- Economic statuses of G group states has become broader over time
-
-###### Anomalies
-- Russia has moved out of the inner layers of the G group
-- The EU is represented as a single body despite the fact that it is made up of 27 countries
-
-###### Essay
-As shown by figure 4 G group membership has grown in size over time. This can be shown
+- All cities are increasing in population
+    - Larger cities have a larger growth potential
+    - However this is not true for East african cities
+- Despite smaller size, East african cities both have the highest percentage growth with Dar es Salaam growing by 82%
+- Southern african cities have the smallest percentage growth with johannesburg being the smallest at 15%
+- Lagos has the largest starting and end population of any city at 16 million
