@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
+                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb36cc88b9eaba00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
+                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
+                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md"
+                "file": "Geology/(G3) Past life and past climates/Anthropocene.md"
               }
             }
           },
@@ -273,10 +286,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8565dce1d873a98b",
+  "active": "fb36cc88b9eaba00",
   "lastOpenFiles": [
-    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
+    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+    "Geology/(G3) Past life and past climates/Anthropocene.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
+    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
     "Geography/Component 2/Section A - Migration and Oceans/Question.md",
     "Biology/(7) Genetics and Ecosystems/Genetics/Autosomal Linkage.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles/Revision session.md",
@@ -297,7 +312,6 @@
     "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
     "Geology/(G3) Past life and past climates/Dinosaurs.md",
-    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
     "Biology/(8) The control of gene expression/Genome Projects.md",
@@ -305,7 +319,6 @@
     "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Cancer.md",
-    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
     "Biology/(8) The control of gene expression",
     "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
     "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",
