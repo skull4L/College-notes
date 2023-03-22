@@ -9538,6 +9538,7 @@ goods
 gained
 goals
 globalization
+golden
 risk
 rigidity
 rubber
@@ -30121,6 +30122,7 @@ markets
 migrants
 music
 moor
+mark
 such
 soils
 some
@@ -33182,6 +33184,7 @@ sugar
 slaves
 settlements
 share
+spike
 as
 absorbing
 against
@@ -35579,6 +35582,7 @@ anything
 amalgamation
 apect
 arrival
+anthropocene
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -64814,6 +64818,7 @@ Alvarez
 Asteroid
 Accra
 African
+Anthropocene
 Rainforest
 RDF
 Rw
