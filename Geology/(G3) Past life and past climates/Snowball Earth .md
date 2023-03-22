@@ -15,3 +15,4 @@
     - Hot and humid conditions act as a catalyst to chemical reactions.  
     - The continental landmasses were located in low-latitudes at this time in Earth history
     - Therefore there were extensive landmasses in a location where weathering is more extensive, so carbon was removed at a greater rate than usual
+- Cyanobacteria fix carbon dioxide by forming limestones is the form of stromatolites
