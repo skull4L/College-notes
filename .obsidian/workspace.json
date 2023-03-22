@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
+                "file": "Geology/(G3) Past life and past climates/Past climates.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "429aa7c64efcfa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G3) Past life and past climates/Snowball Earth .md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
+                "file": "Geology/(G3) Past life and past climates/Snowball Earth .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Anthropocene.md",
+                "file": "Geology/(G3) Past life and past climates/Snowball Earth .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geology/(G3) Past life and past climates/Anthropocene.md"
+                "file": "Geology/(G3) Past life and past climates/Snowball Earth .md"
               }
             }
           },
@@ -286,10 +299,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb36cc88b9eaba00",
+  "active": "429aa7c64efcfa94",
   "lastOpenFiles": [
-    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+    "Geology/(G3) Past life and past climates/Permian-Triassic mass extinction.md",
+    "Geology/(G3) Past life and past climates/Snowball Earth .md",
+    "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
+    "Geology/(G3) Past life and past climates/test.md",
+    "Geology/(G3) Past life and past climates/Past climates.md",
     "Geology/(G3) Past life and past climates/Anthropocene.md",
+    "Geology/(G3) Past life and past climates/.md",
+    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
     "Geography/Component 2/Section A - Migration and Oceans/2.2.8 - Soverignty of ocean resources.md",
     "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
     "Geography/Component 2/Section A - Migration and Oceans/Question.md",
@@ -306,8 +325,6 @@
     "Geography/Component 1/Component 1.md",
     "Geography/Component 1",
     "Geology/(G3) Past life and past climates/Wilson Cycles.md",
-    "Geology/(G3) Past life and past climates/Permian-Triassic mass extinction.md",
-    "Geology/(G3) Past life and past climates/Past climates.md",
     "Geology/(G3) Past life and past climates/Mass extinctions.md",
     "Geology/(G3) Past life and past climates/Greenhouse gases through time.md",
     "Geology/(G3) Past life and past climates/Functional morphology of dinosuars.md",
@@ -315,10 +332,6 @@
     "Biology/(8) The control of gene expression/Stem cells and totipotency.md",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
     "Biology/(8) The control of gene expression/Genome Projects.md",
-    "Biology/(8) The control of gene expression/Gene mutations.md",
-    "Biology/(8) The control of gene expression/Gene expression.md",
-    "Biology/(8) The control of gene expression/Epigenetics.md",
-    "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/(8) The control of gene expression",
     "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf",
     "Attachments/Oceans  2.2.7 - Knowledge organiser 1.pdf",

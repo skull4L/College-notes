@@ -1732,6 +1732,9 @@ Bombay
 British
 Bristol
 Before
+Basin
+Barely
+Black
 environments
 effect
 ecosystem
@@ -4295,6 +4298,8 @@ export
 english
 england
 exemplified
+erratics
+equator
 create
 concrete
 climate
@@ -7326,6 +7331,9 @@ contemporary
 came
 cultures
 culture
+circulation
+coriolis
+comparison
 greater
 glass
 grow
@@ -9539,6 +9547,9 @@ gained
 goals
 globalization
 golden
+glaciation
+gray
+gradual
 risk
 rigidity
 rubber
@@ -11926,6 +11937,7 @@ rule
 remaining
 relevant
 reputation
+redistributes
 of
 on
 out
@@ -14151,6 +14163,8 @@ oncogenes
 oncogene
 overlapping
 oligonucleotides
+oxygenation
+oceanic
 loss
 life
 lava
@@ -16784,6 +16798,8 @@ laminated
 lithological
 lung
 lessening
+lush
+lasted
 this
 to
 the
@@ -19459,6 +19475,11 @@ template
 tea
 trading
 territories
+thermo
+temp
+tropics
+traps
+trap
 is
 impacts
 in
@@ -25129,6 +25150,10 @@ dismantling
 democracy
 diminished
 diasporas
+deposited
+dropping
+drier
+desertification
 building
 broken
 biodiversity
@@ -27182,6 +27207,8 @@ breast
 biosafety
 biosecurity
 british
+boulders
+basalts
 materials
 most
 medium
@@ -30123,6 +30150,7 @@ migrants
 music
 moor
 mark
+melts
 such
 soils
 some
@@ -33185,6 +33213,11 @@ slaves
 settlements
 share
 spike
+sheets
+sheet
+show
+stomata
+shales
 as
 absorbing
 against
@@ -37913,6 +37946,7 @@ Make
 Mumbai
 Member
 Marsden
+Melting
 Shock
 Shutters
 Soils
@@ -40238,6 +40272,11 @@ Settlement
 Shipping
 Suez
 Shocked
+Snowball
+Sulphur
+Stream
+Similar
+Siberian
 foundations
 flow
 forest
@@ -42717,6 +42756,7 @@ frequently
 fragments
 fringes
 fasion
+fossiliferous
 protecting
 particular
 provide
@@ -47709,6 +47749,7 @@ Double
 Desired
 Declaration
 Discuss
+Dropstones
 What
 Whats
 Word
@@ -50235,6 +50276,7 @@ Woodland
 With
 Walter
 Windrush
+Wiped
 has
 happens
 humid
@@ -52587,6 +52629,7 @@ histone
 host
 heritage
 hubs
+haline
 It
 In
 InstanceID
@@ -54999,6 +55042,8 @@ India
 Indian
 Independence
 Internet
+Iceland
+Indicates
 For
 Filter
 FlateDecode
@@ -57324,6 +57369,7 @@ Fauna
 Formations
 Formed
 Fiji
+Flinders
 will
 which
 web
@@ -59859,6 +59905,10 @@ weaker
 whereby
 wiped
 working
+winds
+warmer
+worst
+warmed
 namely
 note
 nutrients
@@ -64819,6 +64869,8 @@ Asteroid
 Accra
 African
 Anthropocene
+Australia
+Africa
 Rainforest
 RDF
 Rw
@@ -67243,6 +67295,8 @@ Recombinant
 Restriction
 Royal
 Rwanda
+Regulated
+Ranges
 This
 Terra
 Trees
@@ -69668,6 +69722,7 @@ Tektites
 Tumour
 Transformation
 Trade
+Thermo
 vegetation
 very
 via
@@ -72067,6 +72122,7 @@ volcanicity
 vicinity
 vector
 voluntary
+vast
 Heavy
 Hancock
 Hq
@@ -74098,6 +74154,8 @@ Historically
 HMS
 HICs
 Huge
+Haline
+Happened
 quickly
 quality
 qs
@@ -79095,6 +79153,7 @@ National
 Niche
 November
 Navy
+Neoproterzoic
 CO
 Core
 CreateDate
@@ -81094,6 +81153,7 @@ Coastal
 Commonwealth
 Charter
 Conclusion
+Cryogenian
 useful
 usually
 us
@@ -88496,6 +88556,7 @@ kIX
 kBB
 kFe
 killed
+kenorland
 PDF
 PDFMaker
 Producer
@@ -91379,6 +91440,10 @@ Proto
 Pesticide
 Process
 Pakistan
+Pleistocene
+Present
+Past
+Provided
 Length
 Library
 LEn
@@ -93573,6 +93638,10 @@ London
 Liverpool
 LICs
 Largest
+Led
+Lower
+Laki
+Lavaflows
 XML
 XMP
 Xd
@@ -100518,6 +100587,7 @@ KQZ
 Konservat
 Killing
 Kingdom
+Karoo
 UWA
 Ut
 UJ
@@ -103047,6 +103117,7 @@ Unspecialised
 Unipotent
 UNCLOS
 USA
+Upper
 yk
 yq
 yL
@@ -115124,6 +115195,7 @@ Escherichia
 Enzyme
 East
 Empire
+Effects
 QJ
 QZ
 QB
@@ -119726,6 +119798,7 @@ Geological
 Gulf
 German
 Ghana
+Greenland
 zG
 zz
 zS

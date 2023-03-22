@@ -10,6 +10,7 @@
 - [[Mass extinctions]]
 - [[Past climates]]
 - [[Permian-Triassic mass extinction]]
+- [[Snowball Earth ]]
 - [[The Cambrian explosion]]
 - [[Wilson Cycles]]
 

@@ -6,7 +6,6 @@
   "obsidian-image-toolkit",
   "mousewheel-image-zoom",
   "table-editor-obsidian",
-  "make-md",
   "omnisearch",
   "obsidian-languagetool-plugin",
   "obsidian-completr",
@@ -18,6 +17,7 @@
   "folder-note-core",
   "alx-folder-note",
   "waypoint",
+  "quick-latex",
   "obsidian-linter",
-  "quick-latex"
+  "make-md"
 ]
