@@ -19,5 +19,6 @@
   "quick-latex",
   "obsidian-linter",
   "make-md",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "obsidian-languagetool-plugin"
 ]
