@@ -7,7 +7,6 @@
   "mousewheel-image-zoom",
   "table-editor-obsidian",
   "omnisearch",
-  "obsidian-languagetool-plugin",
   "obsidian-completr",
   "obsidian-table-generator",
   "obsidian-spaced-repetition",
@@ -19,5 +18,7 @@
   "waypoint",
   "quick-latex",
   "obsidian-linter",
-  "make-md"
+  "make-md",
+  "obsidian-dictionary-plugin",
+  "obsidian-languagetool-plugin"
 ]
