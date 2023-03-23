@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "oz-image-plugin",
   "typing-speed",
   "obsidian-better-internal-link-inserter",
@@ -20,5 +19,6 @@
   "obsidian-linter",
   "make-md",
   "obsidian-dictionary-plugin",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "markdown-table-editor"
 ]
