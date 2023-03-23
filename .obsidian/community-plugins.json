@@ -20,5 +20,6 @@
   "make-md",
   "obsidian-dictionary-plugin",
   "obsidian-languagetool-plugin",
-  "markdown-table-editor"
+  "markdown-table-editor",
+  "obsidian-git"
 ]
