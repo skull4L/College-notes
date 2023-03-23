@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "720cd808f140960f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "toads are awsome.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca4c878ac754bce4",
             "type": "leaf",
             "state": {
@@ -170,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +223,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toads are awsome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +239,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toads are awsome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,9 +260,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "toads are awsome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -312,7 +295,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "720cd808f140960f",
+  "active": "83a317150263ac6f",
   "lastOpenFiles": [
     "Aber entry exams/Aber entry exams.md",
     "toads are awsome.md",
