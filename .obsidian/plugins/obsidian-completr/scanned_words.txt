@@ -1735,6 +1735,9 @@ Before
 Basin
 Barely
 Black
+Bird
+Bony
+Beak
 environments
 effect
 ecosystem
@@ -4300,6 +4303,7 @@ england
 exemplified
 erratics
 equator
+extra
 create
 concrete
 climate
@@ -7334,6 +7338,8 @@ culture
 circulation
 coriolis
 comparison
+call
+claws
 greater
 glass
 grow
@@ -9550,6 +9556,7 @@ golden
 glaciation
 gray
 gradual
+gastroliths
 risk
 rigidity
 rubber
@@ -11938,6 +11945,9 @@ remaining
 relevant
 reputation
 redistributes
+reflected
+reflects
+robust
 of
 on
 out
@@ -16800,6 +16810,11 @@ lung
 lessening
 lush
 lasted
+landmasses
+latitudes
+limestones
+llium
+laid
 this
 to
 the
@@ -19480,6 +19495,9 @@ temp
 tropics
 traps
 trap
+terrestrial
+thumb
+teeth
 is
 impacts
 in
@@ -22443,6 +22461,10 @@ island
 immense
 indians
 internet
+incident
+incoming
+ischium
+intelligence
 due
 deforestation
 devastating
@@ -25154,6 +25176,8 @@ deposited
 dropping
 drier
 desertification
+digit
+defence
 building
 broken
 biodiversity
@@ -27209,6 +27233,13 @@ biosecurity
 british
 boulders
 basalts
+bones
+backwards
+beak
+bony
+bite
+bushes
+bungus
 materials
 most
 medium
@@ -30151,6 +30182,7 @@ music
 moor
 mark
 melts
+mobility
 such
 soils
 some
@@ -33218,6 +33250,13 @@ sheet
 show
 stomata
 shales
+stromatolites
+skull
+skeleton
+slender
+swallowed
+self
+spiked
 as
 absorbing
 against
@@ -35616,6 +35655,8 @@ amalgamation
 apect
 arrival
 anthropocene
+albedo
+asymmetrical
 Management
 Metadata
 MpCehiHzreSzNTczkc
@@ -40277,6 +40318,13 @@ Sulphur
 Stream
 Similar
 Siberian
+Sun
+Saurischian
+Side
+Stegosaurus
+Spines
+Sauropoda
+Sidewards
 foundations
 flow
 forest
@@ -42757,6 +42805,8 @@ fragments
 fringes
 fasion
 fossiliferous
+femur
+facing
 protecting
 particular
 provide
@@ -45257,6 +45307,13 @@ proto
 private
 prosperity
 peace
+pubis
+pelvis
+precise
+pointing
+plates
+possibly
+powerful
 Diverting
 Deforestation
 Description
@@ -47750,6 +47807,9 @@ Desired
 Declaration
 Discuss
 Dropstones
+Dioxide
+Dinosaurs
+Diplodocus
 What
 Whats
 Word
@@ -52630,6 +52690,11 @@ host
 heritage
 hubs
 haline
+hole
+head
+hands
+hunting
+herbivorous
 It
 In
 InstanceID
@@ -55044,6 +55109,7 @@ Independence
 Internet
 Iceland
 Indicates
+Impact
 For
 Filter
 FlateDecode
@@ -57370,6 +57436,7 @@ Formations
 Formed
 Fiji
 Flinders
+Front
 will
 which
 web
@@ -59909,6 +59976,9 @@ winds
 warmer
 worst
 warmed
+weathering
+went
+whip
 namely
 note
 nutrients
@@ -62306,6 +62376,7 @@ naval
 navy
 nations
 none
+neck
 Amazon
 All
 Another
@@ -64871,6 +64942,10 @@ African
 Anthropocene
 Australia
 Africa
+Albedo
+Archosaurs
+Armoured
+Ankylosaurus
 Rainforest
 RDF
 Rw
@@ -67297,6 +67372,8 @@ Royal
 Rwanda
 Regulated
 Ranges
+Rate
+Reinforced
 This
 Terra
 Trees
@@ -69723,6 +69800,9 @@ Tumour
 Transformation
 Trade
 Thermo
+Tyrannossurus
+Theropoda
+Triceratops
 vegetation
 very
 via
@@ -74156,6 +74236,7 @@ HICs
 Huge
 Haline
 Happened
+Hot
 quickly
 quality
 qs
@@ -81154,6 +81235,8 @@ Commonwealth
 Charter
 Conclusion
 Cryogenian
+Cyanobacteria
+Club
 useful
 usually
 us
@@ -83612,6 +83695,7 @@ unipotent
 unrelated
 unwrapped
 uncontrolled
+usual
 On
 Overall
 ObjStm
@@ -85795,6 +85879,8 @@ Outside
 Oestrogen
 Olenoides
 Oligonucleotides
+Ornithischian
+Ornithischila
 keeps
 knock
 kJ
@@ -91444,6 +91530,10 @@ Pleistocene
 Present
 Past
 Provided
+Primitive
+Pachycephalosurus
+Parasaurolophus
+Peg
 Length
 Library
 LEn
@@ -93642,6 +93732,8 @@ Led
 Lower
 Laki
 Lavaflows
+Longer
+Long
 XML
 XMP
 Xd
@@ -105430,6 +105522,7 @@ yIgo
 yZW
 yzX
 ytt
+yest
 ZD
 Zmr
 Zj
@@ -110657,6 +110750,7 @@ VoRm
 VvUE
 VnTM
 Volume
+Velociraptor
 jk
 jh
 jj
@@ -112974,6 +113068,7 @@ jKQ
 jaO
 joined
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+jaws
 Em
 EG
 Exif
@@ -115196,6 +115291,7 @@ Enzyme
 East
 Empire
 Effects
+Elongated
 QJ
 QZ
 QB

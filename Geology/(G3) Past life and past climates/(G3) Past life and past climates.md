@@ -4,7 +4,7 @@
 - [[Dinosaurs]]
 - [[Ediacaran fauna - precambrian]]
 - [[Faunal diversification]]
-- [[Functional morphology of dinosuars]]
+- [[Functional morphology of dinosaurs]]
 - [[Geological time]]
 - [[Greenhouse gases through time]]
 - [[Mass extinctions]]

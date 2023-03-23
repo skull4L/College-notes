@@ -11,7 +11,7 @@
 - Small or absent front teeth, replaced by a beak
 - Many had bony plates, defence mechanism against predation but also possibly used in heat exchange.
 
-###### Tyrannossurus rex (Theropoda)
+###### Tyrannosaurus rex (Theropoda)
 - Large, curved teeth indicate that it was carnivorous
 - Large, powerful legs indicate that it could run fast
 - Front facing eyes may indicate that it was predatory
