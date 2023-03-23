@@ -8,6 +8,7 @@
   "omnisearch",
   "obsidian-completr",
   "obsidian-table-generator",
+  "obsidian-spaced-repetition",
   "editing-toolbar",
   "link-headers-directly",
   "text-extractor",
@@ -15,8 +16,8 @@
   "alx-folder-note",
   "waypoint",
   "quick-latex",
+  "make-md",
   "obsidian-dictionary-plugin",
   "markdown-table-editor",
-  "obsidian-git",
-  "make-md"
+  "obsidian-git"
 ]
