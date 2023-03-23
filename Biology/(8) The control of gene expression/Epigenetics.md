@@ -56,7 +56,7 @@
 ## Treating diseases with epigenetic therapy
 - Epigenetic treatments can be used to counteract the changes caused by changes to the epigenome
 - These treatments use drugs to inhibit certain enzymes involved in either histone acetylation or DNA methylation.
-- For example, drugs that inhibit enzymes that cause DNA methylarion can reactivate genes that have been silenced.
+- For example, drugs that inhibit enzymes that cause DNA methylation can reactivate genes that have been silenced.
 - Epigenetic therapy must be specifically targeted on cancer cells. If the drugs were to affect normal cells they could activate gene transcription and make them cancerous.
 - They can also be used in the development of diagnostic tests to help detect the early stages of diseases such as cancer, brain disorders and arthritis.
 - These tests can identify the level of DNA methylation and histone acetylation at an early stage of disease
@@ -67,6 +67,6 @@
 - The mechanism involving small double· stranded sections of siRNA operates as follows.
     - An enzyme cuts large double-stranded molecules of RNA into smaller sections called small interfering RNA (siRNA)
     - One of the 2 siRNA strands combines with an enzyme.
-    - The siRNA molecule guides the enzyme to a messenger RNA molecule by pairing up its bases with the complementary ones on a section of rhe mRNA molecule 
+    - The siRNA molecule guides the enzyme to a messenger RNA molecule by pairing up its bases with the complementary ones on a section of the mRNA molecule 
     - Once in position, the enzyme cuts the mRNA inro smaller sections
     - The mRNA is no longer capable of being translated into a polypeptide. • This means that the gene has not been expressed, that is. it has been blocked
