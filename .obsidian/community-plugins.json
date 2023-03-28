@@ -6,7 +6,6 @@
   "mousewheel-image-zoom",
   "table-editor-obsidian",
   "omnisearch",
-  "obsidian-completr",
   "obsidian-spaced-repetition",
   "editing-toolbar",
   "link-headers-directly",
@@ -17,5 +16,6 @@
   "quick-latex",
   "make-md",
   "obsidian-dictionary-plugin",
-  "markdown-table-editor"
+  "markdown-table-editor",
+  "obsidian-languagetool-plugin"
 ]
