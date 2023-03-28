@@ -1,0 +1,34 @@
+- Mineral
+    - A naturally occuring substance with a particular chemical formula and crystal structure
+- Mineral resources
+    - Natural concentrations of minerals that are or may become of potential economic interest for extraction
+- Mineral reserves
+    - Mineral resources that are actively exploited
+- Probable mineral reserves
+    - Mineral reserves that are estimated
+- Proved mineral reserves
+    - Mineral reserves that are measured and defined
+- Grade
+    - Concentration of the mineral in the reserve
+- Strategic minerals
+    - A mineral of particular importance with a high demand
+- Renewable resources
+    - Resources that can be generated at the rate that they are used
+- Non renewable resources
+    - Resources that cannot be generated at the rate they are used
+
+- A mineral deposit is considered workable when it is meets the following factors:
+    - It is in high enough concentration
+    - It is reasonably accessible
+    - It is economically viable
+
+- Ore minerals
+    - A mineral containing valuable metals
+- Crustal abundance
+    - The amount found in continental crust
+- Concentration factor
+    - The amount by which the metal is concentrated to make an ore deposit
+- Gangue minerals
+    - Low value waste metal
+- Cut off grade
+    - The grade which it is no longer economical to mine

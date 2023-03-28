@@ -29,6 +29,6 @@ transcription and therefore translation does not take place a polypeptide chain 
 - Oestrogen diffuses through the phospholipid part of the cell surface membrane into the cytoplasm of a cell (it is lipid soluble). 
 - It binds with a site on the receptor part of a transcriptional factor. 
 - Oestrogen changes the shape of the DNA binding site on the transcription factor so that it can now bond with DNA.
-- The transcriptional factor now enters the nucleus through a nuclear pore and binds with the specific DNA base sequence which is known as the promoter region. 
+- The transcriptional factor now enters the nucleus through a nuclear pore and binds with the specific DNA base sequence, which is known as the promoter region. 
 - This stimulates RNA polymerase and transcription of the gene that makes up that portion of DNA begins.
 - The gene is now expressed

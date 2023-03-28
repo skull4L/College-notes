@@ -4,6 +4,7 @@
 - **[[(G1) Rock forming processes]]**
 - **[[(G2) Rock deformation]]**
 - **[[(G3) Past life and past climates]]**
+- **[[(G4) Earth materials and natural resources]]**
 - **[[(T3) Quaternary Geology]]**
 
 %% End Waypoint %%

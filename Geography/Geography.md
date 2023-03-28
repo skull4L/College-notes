@@ -7,6 +7,7 @@
 		- [[2.2.8 - Soverignty of ocean resources]]
 		- [[Ocean governance]]
 		- [[Question]]
+		- [[Refugees]]
 	- **Section B - Water and Carbon Cycles**
 		- [[Discuss the importance of soil as a water and carbon store (20)]]
 		- [[Revision session]]

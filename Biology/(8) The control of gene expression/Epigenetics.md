@@ -14,7 +14,7 @@
 
 - The epigenome acts as a sort of cellular memory, it is the accumulation of all the signals a cell has received over its lifetime
 - During fetal development nutrients from the mother shape the epigenome
-- After birth the epigenome is largely affected by envronmental factors
+- After birth, the epigenome is largely affected by environmental factors
 - These environmental stimulants cause proteins to transfer signals between eachother, eventually reaching a transcriptional factor which attaches to specific DNA bases. 
 - This causes one of the following results:
     - Acetylation of histones resulting in either activation or inhibition of genes

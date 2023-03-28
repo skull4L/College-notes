@@ -8,159 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e78ba8c54d05486c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8defbec167f1b7e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Aber entry exams/Exam papers/Biology-2 2018.pdf"
-              }
-            }
-          },
-          {
-            "id": "85b55256dc44b630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62fd240af5c5b649",
+            "id": "d3f27499052ad573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8565dce1d873a98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb36cc88b9eaba00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/Past climates.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "429aa7c64efcfa94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Aber entry exams.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca4c878ac754bce4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "ed476918b41cadaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a167087dd16c56f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geology/(F1) Elements, minerals and rocks/Minerals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4684bff0d9058a80",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biology/AQA Biology A Level textbook (12pg behind).pdf"
-              }
-            }
-          },
-          {
-            "id": "e0d846b084bbd1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aber entry exams/Bio essays/Nitrogen cycle essay ChatGPT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f173bef7b45be237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/(5) Energy Transfers/Photosynthesis/Photosysnthesis overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,8 +32,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Epigenetics.md",
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/(8) The control of gene expression/Epigenetics.md"
+                "file": "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md"
               }
             }
           }
@@ -314,43 +166,45 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "85b55256dc44b630",
+  "active": "d3f27499052ad573",
   "lastOpenFiles": [
+    "Geography/Component 2/Section A - Migration and Oceans/Question.md",
+    "Geography/Component 1/Section A - Coastal Landscapes/A-Z.md",
+    "Geography/Component 1/Section A - Coastal Landscapes/Section A - Coastal Landscapes.md",
+    "Geography/Component 1/Component 1.md",
+    "Geography/Component 2/Section A - Migration and Oceans/Refugees.md",
+    "Geography/Component 2/Section A - Migration and Oceans/2.2.6d – Connections created by the UK’s past role as a maritime power.md",
+    "Geology/(G4) Earth materials and natural resources/Processes of formation of metalliferous ores.md",
+    "Geology/(G4) Earth materials and natural resources/Introduction to Mineral Resources.md",
+    "Geology/(G4) Earth materials and natural resources/(G4) Earth materials and natural resources.md",
+    "Geology/Geology.md",
+    "Geology/(G4) Earth materials and natural resources",
+    "Geology/(G3) Past life and past climates/(G3) Past life and past climates.md",
+    "Biology/things.md",
+    "Attachments/Pasted image 20230327105229.png",
+    "Attachments/Pasted image 20230327105214.png",
+    "Biology/Probability.md",
+    "Biology/(8) The control of gene expression/Gene expression.md",
+    "Geology/(G3) Past life and past climates/Faunal diversification.md",
+    "Geology/(G3) Past life and past climates/Cretaceous-Palaeogene mass extinction.md",
+    "Geology/(G3) Past life and past climates/Anthropocene.md",
+    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Species and taxonomy.md",
     "Biology/(4) Genetic information, variation and relationships between organisms/Biodiversity/Untitled.md",
-    "Biology/(8) The control of gene expression/Epigenetics.md",
     "Biology/(8) The control of gene expression/Gene mutations.md",
     "Biology/(8) The control of gene expression/Cancer.md",
     "Biology/(8) The control of gene expression/Genome Projects.md",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
-    "Biology/(8) The control of gene expression/Gene expression.md",
     "Biology/Biology.md",
     "Aber entry exams/Exam papers/test.md",
     "Aber entry exams/Exam papers/Biology-2 2018.pdf",
-    "Biology/(8) The control of gene expression/(8) The control of gene expression.md",
-    "Biology/Essays/Essays.md",
-    "Biology/Starter questions.md",
-    "Biology/(4) Genetic information, variation and relationships between organisms/(4) Genetic information, variation and relationships between organisms.md",
     "Aber entry exams/Exam papers/Biology-2 2019.pdf",
-    "Aber entry exams/Exam papers/Exam papers.md",
-    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-    "Aber entry exams/Aber entry exams.md",
-    "toads are awsome.md",
-    "Geology/(G3) Past life and past climates/Geological time.md",
-    "Geology/(G3) Past life and past climates/Functional morphology of dinosaurs.md",
-    "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
-    "Geology/(G3) Past life and past climates/Dinosaurs.md",
-    "Geology/(G3) Past life and past climates/Snowball Earth .md",
     "Custom Dictionary.txt",
-    "Geology/(G3) Past life and past climates/Permian-Triassic mass extinction.md",
-    "Geology/(G3) Past life and past climates/The Cambrian explosion.md",
-    "Geology/(G3) Past life and past climates/test.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles",
     "Geography/Component 2/Section A - Migration and Oceans",
     "Geography/Component 2",
     "Geography/Component 1/Section A - Coastal Landscapes",
     "Geography/Component 1",
-    "Biology/(8) The control of gene expression",
-    "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf"
+    "Biology/(8) The control of gene expression"
   ]
 }
