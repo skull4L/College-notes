@@ -1,4 +1,4 @@
-- Recombinant DNA is the DNA of 2 different organisms
+ - Recombinant DNA is the DNA of 2 different organisms
 - The required gene is taken from one organism and inserted into the DNA/chromosome of another to produce recombinant DNA
 - Examples include the transfer of:
     - Human insulin gene into the bacterium Escherichia coli B-carotene gene into rice
