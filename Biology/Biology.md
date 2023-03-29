@@ -9,6 +9,5 @@
 - **[[Intervention]]**
 - [[Probability]]
 - [[Starter questions]]
-- [[things]]
 
 %% End Waypoint %%

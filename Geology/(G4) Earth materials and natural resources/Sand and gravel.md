@@ -1,0 +1,2 @@
+- Aggregates are defined as hard, angular materials that exist in very large quantities. They are often used in construction due to their cost effectivity
+- Sand and gravel are the most common forms of aggregates used.

@@ -1,0 +1,7 @@
+- DNA section is broken up into fragments using enzyme
+- Gel electrosis 
+- Attachment of radioactive marker
+- Cover with X ray film
+- Radioactive marker is complimentary to sinle base sequence
+- This means that these xray marker single strands which are bound to DNA strands show up in the xray
+- 

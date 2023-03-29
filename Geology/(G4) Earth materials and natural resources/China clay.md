@@ -1,0 +1,10 @@
+- Kaolinite is a hydrated aluminosilicate clay mineral which is the main component of China clay.
+- China clay is usually 75-94% composition kaolinite
+- China clay is extremely economically important as it has many uses, this includes:
+    - Paper
+    - Ceramics
+    - Cement
+    - Paints
+- Kaolin is primarily found in the southwest of England in Cornwall
+- It is formed by the heavy erosion of granite
+- Mined using high pressure hoses 
