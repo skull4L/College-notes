@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Misc.md",
+                "file": "Geology/(G4) Earth materials and natural resources/Introduction to Mineral Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8169326dc960552c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geology/(G4) Earth materials and natural resources/Hydrocarbons.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "e14da95231cacf77",
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Misc.md",
+                "file": "Geology/(G4) Earth materials and natural resources/Hydrocarbons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Misc.md",
+                "file": "Geology/(G4) Earth materials and natural resources/Hydrocarbons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Misc.md"
+                "file": "Geology/(G4) Earth materials and natural resources/Hydrocarbons.md"
               }
             }
           },
@@ -190,9 +202,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "83a317150263ac6f",
+  "active": "8169326dc960552c",
   "lastOpenFiles": [
+    "Geology/(G4) Earth materials and natural resources/Introduction to Mineral Resources.md",
+    "Geology/(G4) Earth materials and natural resources/Hydrocarbons.md",
+    "Geology/(G4) Earth materials and natural resources/Processes of formation of metalliferous ores.md",
+    "Attachments/ChronostratChart2022-10.jpg",
     "Misc/Misc.md",
+    "Geology/(G4) Earth materials and natural resources/(G4) Earth materials and natural resources.md",
+    "Geology/(G4) Earth materials and natural resources",
+    "Geography/Component 2/Section A - Migration and Oceans/Refugees.md",
+    "Geography/Component 1/Section A - Coastal Landscapes/Section A - Coastal Landscapes.md",
+    "Geography/Component 1/Section A - Coastal Landscapes/A-Z.md",
+    "Biology/things.md",
+    "Attachments/Pasted image 20230327105229.png",
+    "Attachments/Pasted image 20230327105214.png",
     "Misc/CV.md",
     "Biology/(8) The control of gene expression/Recombinant DNA technology.md",
     "Biology/(8) The control of gene expression/Genome Projects.md",
@@ -212,21 +236,12 @@
     "Biology/(4) Genetic information, variation and relationships between organisms/(4) Genetic information, variation and relationships between organisms.md",
     "Misc/Exam papers/Biology-2 2019.pdf",
     "Misc/Exam papers/Exam papers.md",
-    "Geography/Component 2/Section A - Migration and Oceans/Ocean governance.md",
-    "toads are awsome.md",
-    "Geology/(G3) Past life and past climates/Geological time.md",
-    "Geology/(G3) Past life and past climates/Functional morphology of dinosaurs.md",
-    "Geology/(G3) Past life and past climates/Ediacaran fauna - precambrian.md",
-    "Geology/(G3) Past life and past climates/Dinosaurs.md",
-    "Geology/(G3) Past life and past climates/Snowball Earth .md",
     "Custom Dictionary.txt",
-    "Geology/(G3) Past life and past climates/Permian-Triassic mass extinction.md",
     "Geography/Component 2/Section B - Water and Carbon Cycles",
     "Geography/Component 2/Section A - Migration and Oceans",
     "Geography/Component 2",
     "Geography/Component 1/Section A - Coastal Landscapes",
     "Geography/Component 1",
-    "Biology/(8) The control of gene expression",
-    "Attachments/Oceans  2.2.7 - Knowledge organiser.pdf"
+    "Biology/(8) The control of gene expression"
   ]
 }

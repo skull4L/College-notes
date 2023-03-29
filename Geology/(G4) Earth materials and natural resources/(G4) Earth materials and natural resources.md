@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[Hydrocarbons]]
 - [[Introduction to Mineral Resources]]
 - [[Processes of formation of metalliferous ores]]
 

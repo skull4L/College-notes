@@ -1,0 +1,6 @@
+- Hydrocarbons are substances that form from the partial decay and subsequent fossilization of microscopic marine organisms such as plankton and microalgae.
+- They form in low energy, anoxic marine environments where aerobic decomposition or scavenging cannot take place.
+- For hydrocarbon deposits to occur 6 factors must be met:
+	- Source rock: Organic rich, fine-grained rock which eventually becomes the hydrocarbons themselves
+	- Reservoir rock: A permeable rock that can be used to store these hydrocarbons 
+	- Cap rock: An impermeable rock
