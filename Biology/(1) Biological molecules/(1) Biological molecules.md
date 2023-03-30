@@ -1,4 +1,4 @@
 %% Begin Waypoint %%
-- [[Proteins summary]]
+- [[Proteins and enzymes]]
 
 %% End Waypoint %%

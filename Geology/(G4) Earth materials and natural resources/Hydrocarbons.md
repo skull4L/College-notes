@@ -3,4 +3,16 @@
 - For hydrocarbon deposits to occur 6 factors must be met:
 	- Source rock: Organic rich, fine-grained rock which eventually becomes the hydrocarbons themselves
 	- Reservoir rock: A permeable rock that can be used to store these hydrocarbons 
-	- Cap rock: An impermeable rock
+	- Cap rock: An impermeable rock layer that prevents upwards migration of oil and gas, trapping it.
+	- Ages of these rocks relative to eachother
+	- Stratigraphic and structural traps
+	- Correct depth
+- Maturation is the process by which petroleum and its products form. It involves organic matter being broken down into kerogen which is a mixture of carbon, hydrogen, oxygen, nitrogen and sulphur containing substances. This then breaks down into petroleum.
+- The oil window is the temperature range where oil is most likely to be found between 50-100C between 2000 and 5500m below sea level
+- Gas has a higher window of temperatures at 100-200C and a depth between 3000 and 5000m
+- The economic basement is rock layer below which economic hydrocarbon reservoirs are not expected to be found
+- Migration of hydrocarbons occurs when the source rock is compacted leading to water, carrying droplets of oil to rise up. They continue rising until they encounter a rock cap which is an impermeable layer of rock
+- Traps are concentrations of hydrocarbons which are economic to extract, for this to occur there needs to be impermiable rock preventing migration. There are multiple types:
+	- Anticline traps: Most common, larger folds can contain more hydrocarbons
+	- Fault traps: Brings impermeable rock next to a reservoir rock, preventing lateral migration
+	- Salt dome traps: Evaporites form large salt domes, these are impermeable. Hydrocarbons accumulate where this dome meets reservoir rock
