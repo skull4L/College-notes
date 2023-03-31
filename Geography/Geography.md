@@ -5,6 +5,7 @@
 		- [[2.2.6d – Connections created by the UK’s past role as a maritime power]]
 		- [[2.2.7 - Global flows of shipping and sea cables]]
 		- [[2.2.8 - Soverignty of ocean resources]]
+		- [[Arctic ocean]]
 		- [[Ocean governance]]
 		- [[Question]]
 		- [[Refugees]]
